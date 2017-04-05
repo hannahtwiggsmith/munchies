@@ -1,0 +1,41 @@
+<html>
+<head>
+  <title>NYC Farmer's Markets</title>
+  <script src="http://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+  <script src="https://d3js.org/topojson.v1.min.js"></script>
+  <script src="js/boroughs.js"></script>
+  <script src="js/markets.js"></script>
+</head>
+<body>
+  <script>
+    var width = 700,
+        height = 600;
+    var svg = d3.select( "body" )
+      .append( "svg" )
+      .attr( "width", width )
+      .attr( "height", height );
+    var g = svg.append( "g" );
+    var albersProjection = d3.geoAlbers()
+      .scale( 80000 )
+      .rotate( [74.0059,0] )
+      .center( [0, 40.7128] )
+      .translate( [width/2,height/2] );
+    var geoPath = d3.geoPath()
+        .projection( albersProjection )
+        .pointRadius(1.5);
+    g.selectAll( "path" )
+      .data( borough_map.features )
+      .enter()
+      .append( "path" )
+      .attr( "fill", "#ccc" )
+      .attr( "d", geoPath );
+    var markets = svg.append( "g" );
+    markets.selectAll( "path" )
+      .data( farmers_markets.features )
+      .enter()
+      .append( "path" )
+      .attr( "fill", "#800" )
+      .attr( "d", geoPath );
+  </script>
+</body>
+</html>
