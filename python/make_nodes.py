@@ -38,13 +38,14 @@ def make_json(link_list, path="../data/ingredients.json"):
     ingredients = []
 
     for group in link_list:
-        if group[0][0] not in ing:
-            ing.append(group[0][0])
+        if group[0][0] not in ingredients:
+            ingredients.append(group[0][0])
+            ingredient_struct["nodes"].append({"id": group[0][0], "group": 0})
 
-    for ingredient in ingredients:
-        ingredient_struct["nodes"].append({"id": ingredient, "group": 0})
+        ingredient_struct["links"].append({"source": group[0][0], "target": group[0][1], "value": group[1]})
 
-
+    with open(path, 'w') as outfile:
+        json.dump(ingredient_struct, outfile)
 
 
 if __name__ == '__main__':
@@ -55,7 +56,8 @@ if __name__ == '__main__':
     c = Counter(elem for elem in links)
 
     l = [(key,value) for key, value in c.items() if value > 50]
-    pprint(sorted(l,key=lambda x: x[1]))
+    make_json(l)
+    # pprint(sorted(l,key=lambda x: x[1]))
     #pprint(nodelist)
     #pprint(links)
     #pprint(([len(list(group)) for key, group in groupby(links)])
