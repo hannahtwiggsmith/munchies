@@ -1,9 +1,11 @@
 import json
+import operator
 import pickle
 from pprint import pprint
 from collections import Counter
 
-def load_data(filename):
+
+def load_data(filename="../data/train.json"):
     """Loads and pickles data if pickle file is not present."""
     try:
         data = pickle.load(open("save.pickle", "rb"))
@@ -14,26 +16,46 @@ def load_data(filename):
 
     return data
 
-nodelist = []
-links = []
 
-for recipe in data:
-    for ingredient in recipe["ingredients"]:
-        nodelist.append(ingredient)
-        for other_ingredient in recipe["ingredients"]:
-            if ingredient != other_ingredient:
-                links.append((ingredient,other_ingredient))
+def make_links(data, num_recipes, cuisine):
+    nodelist = []
+    links = []
 
-#pprint(nodelist)
-#pprint(links)
-#pprint(([len(list(group)) for key, group in groupby(links)])
+    for recipe in data[:num_recipes]:
+        if recipe["cuisine"] == cuisine:
+            for ingredient in recipe["ingredients"]:
+                nodelist.append(ingredient)
+                for other_ingredient in recipe["ingredients"]:
+                    if ingredient != other_ingredient:
+                        links.append((ingredient,other_ingredient))
 
-c = Counter(elem for elem in links)
-#pprint(c)
+    return (nodelist, links)
 
-l = [(key,value) for key, value in c.items() if value > 50]
-pprint(l)
+
+def make_json(link_list, path="../data/ingredients.json"):
+    ingredient_struct = {"nodes":[], "links":[]}
+
+    ingredients = []
+
+    for group in link_list:
+        if group[0][0] not in ing:
+            ing.append(group[0][0])
+
+    for ingredient in ingredients:
+        ingredient_struct["nodes"].append({"id": ingredient, "group": 0})
+
+
 
 
 if __name__ == '__main__':
-    print(load_data("../data/train.json"))
+    data = load_data("../data/train.json")
+    cuisine = "italian"
+    nodelist, links = make_links(data, len(data), cuisine)
+
+    c = Counter(elem for elem in links)
+
+    l = [(key,value) for key, value in c.items() if value > 50]
+    pprint(sorted(l,key=lambda x: x[1]))
+    #pprint(nodelist)
+    #pprint(links)
+    #pprint(([len(list(group)) for key, group in groupby(links)])
