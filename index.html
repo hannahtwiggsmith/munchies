@@ -1,41 +1,117 @@
-<html>
-<head>
-  <title>NYC Farmer's Markets</title>
-  <script src="http://d3js.org/d3.v4.min.js" charset="utf-8"></script>
-  <script src="https://d3js.org/topojson.v1.min.js"></script>
-  <script src="js/boroughs.js"></script>
-  <script src="js/markets.js"></script>
-</head>
-<body>
-  <script>
-    var width = 700,
-        height = 600;
-    var svg = d3.select( "body" )
-      .append( "svg" )
-      .attr( "width", width )
-      .attr( "height", height );
-    var g = svg.append( "g" );
-    var albersProjection = d3.geoAlbers()
-      .scale( 80000 )
-      .rotate( [74.0059,0] )
-      .center( [0, 40.7128] )
-      .translate( [width/2,height/2] );
-    var geoPath = d3.geoPath()
-        .projection( albersProjection )
-        .pointRadius(1.5);
-    g.selectAll( "path" )
-      .data( borough_map.features )
-      .enter()
-      .append( "path" )
-      .attr( "fill", "#ccc" )
-      .attr( "d", geoPath );
-    var markets = svg.append( "g" );
-    markets.selectAll( "path" )
-      .data( farmers_markets.features )
-      .enter()
-      .append( "path" )
-      .attr( "fill", "#800" )
-      .attr( "d", geoPath );
-  </script>
-</body>
-</html>
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+</style>
+<svg width="1400" height="800"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+
+forceProperties = {
+    collide: {
+        enabled: true,
+        strength: .7,
+        iterations: 1,
+        radius: 50
+    }
+  }
+
+var svg = d3.select("svg"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height");
+
+var color = d3.scaleOrdinal(d3.schemeCategory20);
+
+var simulation = d3.forceSimulation()
+    .force("link", d3.forceLink().id(function(d) { return d.id; }).distance(function(d) { return 1/(d.value)*200; }).strength(1))
+    .force("charge", d3.forceManyBody())
+    .force("collide", d3.forceCollide(50))
+    .force("center", d3.forceCenter(width / 2, height / 2));
+
+d3.json("data/ingredients.json", function(error, graph) {
+  if (error) throw error;
+
+  var link = svg.append("g")
+      .attr("class", "links")
+    .selectAll("line")
+    .data(graph.links)
+    .enter().append("line")
+      .attr("stroke-width", function(d) { return Math.sqrt(d.value); });
+
+  var node = svg.append("g")
+      .attr("class", "nodes")
+    .selectAll("circle")
+    .data(graph.nodes)
+    .enter().append("circle")
+      .attr("r", function(d) { return d.appearances/100; })
+      .attr("fill", function(d) { return color(d.group); })
+      .on("mouseover", mouseover)
+      .on("mouseout", mouseout)
+      .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended));
+
+  node.append("title")
+      .text(function(d) { return d.id; });
+
+  simulation
+      .nodes(graph.nodes)
+      .on("tick", ticked);
+
+  simulation.force("link")
+      .links(graph.links);
+
+  function ticked() {
+    link
+        .attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+
+    node
+        .attr("cx", function(d) { return d.x; })
+        .attr("cy", function(d) { return d.y; });
+  }
+});
+
+function dragstarted(d) {
+  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+  d.fx = d.x;
+  d.fy = d.y;
+}
+
+function dragged(d) {
+  d.fx = d3.event.x;
+  d.fy = d3.event.y;
+}
+
+function dragended(d) {
+  if (!d3.event.active) simulation.alphaTarget(0);
+  d.fx = null;
+  d.fy = null;
+}
+
+function mouseover() {
+  d3.select(this).transition()
+      .duration(0)
+      .attr("r", this.r.animVal.value+10);
+}
+
+function mouseout() {
+  d3.select(this).transition()
+      .duration(0)
+      .attr("r", this.r.animVal.value-10);
+}
+
+</script>

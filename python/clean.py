@@ -27,7 +27,7 @@ for recipe in data:
             ingredient_counter[ingredient] += 1
 
 for ingredient in ingredient_counter.keys():
-    if ingredient_counter[ingredient] > 10:
+    if ingredient_counter[ingredient] > :
         final[ingredient] = ingredient_counter[ingredient]
 
 hi = sorted(list(ingredient_counter.values())[-100:])
