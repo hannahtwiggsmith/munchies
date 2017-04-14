@@ -16,7 +16,7 @@ div.tooltip {
     position: absolute;
     text-align: left;
     flex-flow: nowrap;
-    padding: 2px;
+    padding: 4px;
     font: 14px sans-serif;
     color: white;
     background: #555;
@@ -30,6 +30,11 @@ div.tooltip {
 <svg width="1400" height="800"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
+
+// Vars for node highlighting
+var toggle = 0;
+var minRadius = 6;
+var linkedByIndex = {};
 
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
@@ -48,6 +53,7 @@ var div = d3.select("body").append("div")
     .attr("class", "tooltip")
     .style("opacity", 0);
 
+// Load data and make the visualization
 d3.json("data/ingredients.json", function(error, graph) {
   if (error) throw error;
 
@@ -63,10 +69,11 @@ d3.json("data/ingredients.json", function(error, graph) {
     .selectAll("circle")
     .data(graph.nodes)
     .enter().append("circle")
-      .attr("r", function(d) { return d.appearances/100; })
+      .attr("r", chooseRadius)
       .attr("fill", function(d) { return color(d.group); })
       .on("mouseover", mouseover)
       .on("mouseout", mouseout)
+      .on('dblclick', connectedNodes)
       .call(d3.drag()
           .on("start", dragstarted)
           .on("drag", dragged)
@@ -79,6 +86,9 @@ d3.json("data/ingredients.json", function(error, graph) {
   simulation.force("link")
       .links(graph.links);
 
+
+  /** FORCE LAYOUT EVENT FUNCTIONS */
+
   function ticked() {
     link
         .attr("x1", function(d) { return d.source.x; })
@@ -90,49 +100,89 @@ d3.json("data/ingredients.json", function(error, graph) {
         .attr("cx", function(d) { return d.x; })
         .attr("cy", function(d) { return d.y; });
   }
+
+  function dragstarted(d) {
+    if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+    d.fx = d.x;
+    d.fy = d.y;
+  }
+
+  function dragged(d) {
+    d.fx = d3.event.x;
+    d.fy = d3.event.y;
+  }
+
+  function dragended(d) {
+    if (!d3.event.active) simulation.alphaTarget(0);
+    d.fx = null;
+    d.fy = null;
+  }
+
+  function mouseover(node) {
+    // Show tooltip
+    div.transition()
+        .duration(200)
+        .style("opacity", .9);
+
+    // Attach the node id to tooltip
+    div	.html(" " + node.id + " ")
+        .style("left", (d3.event.pageX) + "px")
+        .style("top", (d3.event.pageY - 28) + "px");
+
+    // Increase this node's radius by 10 pixels
+    d3.select(this).transition()
+        .duration(0)
+        .attr("r", this.r.animVal.value+10);
+  }
+
+  function mouseout() {
+    div.transition()
+        .duration(500)
+        .style("opacity", 0);
+    d3.select(this).transition()
+        .duration(0)
+        .attr("r", this.r.animVal.value-10);
+  }
+
+
+  /* HELPER FUNCTIONS */
+
+  for (i = 0; i < graph.nodes.length; i++) {
+      linkedByIndex[i + "," + i] = 1;
+  };
+
+  graph.links.forEach(function (d) {
+      linkedByIndex[d.source.index + "," + d.target.index] = 1;
+  });
+
+  function neighboring(a, b) {
+      return linkedByIndex[a.index + "," + b.index];
+  }
+
+  function connectedNodes() {
+
+      if (toggle == 0) {
+          d = d3.select(this).node().__data__;
+          node.style("opacity", function (o) {
+              return neighboring(d, o) | neighboring(o, d) ? 1 : 0.3;
+          });
+          toggle = 1;
+      } else {
+          node.style("opacity", 1);;
+          toggle = 0;
+      }
+
+  }
+
+  function chooseRadius(d) {
+    var r = d.appearances/100;
+    if (r > 5) {
+      return r;
+    } else {
+      return minRadius;
+    }
+  }
+
 });
-
-function dragstarted(d) {
-  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
-  d.fx = d.x;
-  d.fy = d.y;
-}
-
-function dragged(d) {
-  d.fx = d3.event.x;
-  d.fy = d3.event.y;
-}
-
-function dragended(d) {
-  if (!d3.event.active) simulation.alphaTarget(0);
-  d.fx = null;
-  d.fy = null;
-}
-
-
-function mouseover(node) {
-  // Show tooltip
-  div.transition()
-      .duration(200)
-      .style("opacity", .9);
-  // Attach the node id to the tooltip
-  div	.html(" " + node.id + " ")
-      .style("left", (d3.event.pageX) + "px")
-      .style("top", (d3.event.pageY - 28) + "px");
-
-  // Increase this node's radius by 10 pixels
-  d3.select(this).transition()
-      .duration(0)
-      .attr("r", this.r.animVal.value+10);
-}
-
-function mouseout() {
-  div.transition()
-      .duration(500)
-      .style("opacity", 0);
-  d3.select(this).transition()
-      .duration(0)
-      .attr("r", this.r.animVal.value-10);
-}
 
 </script>
