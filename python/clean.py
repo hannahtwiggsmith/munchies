@@ -1,9 +1,10 @@
 import json
-import numpy as np
-import matplotlib.pyplot as plt
-from pprint import pprint
-from itertools import groupby
 import operator
+from itertools import groupby
+from pprint import pprint
+
+import matplotlib.pyplot as plt
+import numpy as np
 
 ingredient_counter = {}
 final = {}

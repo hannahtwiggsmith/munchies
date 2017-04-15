@@ -1,8 +1,8 @@
 import json
 import operator
 import pickle
-from pprint import pprint
 from collections import Counter
+from pprint import pprint
 
 
 def load_data(filename="../data/train.json"):
@@ -46,8 +46,8 @@ def make_json(link_list, hist, path="../data/ingredients.json"):
             ingredients.append(group[0][0])
             ingredient_struct["nodes"].append(
                 {"id": group[0][0],
-                "group": groups[group[0][0]],
-                "appearances": hist[group[0][0]]})
+                 "group": groups[group[0][0]],
+                 "appearances": hist[group[0][0]]})
         val = (group[1] / biggest_link) * 10
         # print(val)
 
