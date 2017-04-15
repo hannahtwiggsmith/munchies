@@ -162,12 +162,7 @@ d3.json("data/ingredients.json", function (error, graph) {
   }
 
   function chooseRadius(d) {
-    var r = d.appearances / 100;
-    if (r > 5) {
-      return r;
-    } else {
-      return minRadius;
-    }
+    return (d.appearances / 100 > 5) ? (d.appearances / 100) : minRadius;
   }
 
 });
