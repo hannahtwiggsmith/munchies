@@ -3,9 +3,18 @@ var toggle = 0;
 var minRadius = 6;
 var linkedByIndex = {};
 
-var svg = d3.select("svg"),
-  width = +svg.attr("width"),
-  height = +svg.attr("height");
+var w = window,
+  d = document,
+  e = d.documentElement,
+  g = d.getElementsByTagName('body')[0],
+  width = w.innerWidth || e.clientWidth || g.clientWidth,
+  height = w.innerHeight || e.clientHeight || g.clientHeight;
+
+
+var svg = d3.select("svg");
+
+svg.attr("width", width)
+  .attr("height", height);
 
 var color = d3.scaleOrdinal(d3.schemeCategory20);
 
@@ -16,7 +25,7 @@ var simulation = d3.forceSimulation()
     return 1 / (d.value) * 200;
   }).strength(1))
   .force("charge", d3.forceManyBody())
-  .force("collide", d3.forceCollide(0))
+  .force("collide", d3.forceCollide(5))
   .force("center", d3.forceCenter(width / 2, height / 2));
 
 // Define the div for the tooltip
@@ -25,7 +34,7 @@ var div = d3.select("body").append("div")
   .style("opacity", 0);
 
 // Load data and make the visualization
-d3.json("data/ingredients.json", function (error, graph) {
+d3.json("data/ingredients_italian.json", function (error, graph) {
   if (error) throw error;
 
   var link = svg.append("g")
@@ -117,18 +126,18 @@ d3.json("data/ingredients.json", function (error, graph) {
       .style("top", (d3.event.pageY - 28) + "px");
 
     // Increase this node's radius by 10 pixels
-    d3.select(this).transition()
-      .duration(0)
-      .attr("r", this.r.animVal.value + 10);
+    // d3.select(this).transition()
+    //   .duration(0)
+    //   .attr("r", this.r.animVal.value + 10);
   }
 
   function mouseout() {
     div.transition()
       .duration(500)
       .style("opacity", 0);
-    d3.select(this).transition()
-      .duration(0)
-      .attr("r", this.r.animVal.value - 10);
+    // d3.select(this).transition()
+    //   .duration(0)
+    //   .attr("r", this.r.animVal.value - 10);
   }
 
 
