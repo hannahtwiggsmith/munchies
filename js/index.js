@@ -1,6 +1,6 @@
 // Vars for node highlighting
 var toggle = 0;
-var minRadius = 6;
+var minRadius = 4;
 var linkedByIndex = {};
 
 var w = window,

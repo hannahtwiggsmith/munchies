@@ -22,7 +22,7 @@ def make_links(data, num_recipes, cuisine):
   links = []
 
   for recipe in data[:num_recipes]:
-    if recipe["cuisine"] == cuisine:
+    if (cuisine == recipe["cuisine"]) or (cuisine == "all"):
       for ingredient in recipe["ingredients"]:
         nodelist.append(ingredient)
         for other_ingredient in recipe["ingredients"]:
@@ -70,15 +70,15 @@ def make_json(link_list, hist):
 
 if __name__ == '__main__':
   data = load_data("../data/train.json")
-  cuisine = "italian"
+  cuisine = "all"
   nodelist, links = make_links(data, len(data), cuisine)
 
   c = Counter(elem for elem in links)
   appearances = Counter(elem for elem in nodelist)
   ingredient_hist = {ing[0]: ing[1] for ing in appearances.items()}
 
-  l = [(key, value) for key, value in c.items()]
-  l_sorted = sorted(l, key=lambda x: x[1])[-250:]
+  l = [(key, value) for key, value in c.items() if value > 60]
+  l_sorted = sorted(l, key=lambda x: x[1])[-500:]
 
   # pprint(sorted(l, key=lambda x: x[1]))
   # make_groups(l)
