@@ -1,1 +1,3552 @@
-{"links": [{"value": 0.8585858585858586, "source": "corn starch", "target": "chicken breasts"}, {"value": 0.8585858585858586, "source": "shiitake", "target": "sesame oil"}, {"value": 0.8585858585858586, "source": "kosher salt", "target": "vegetable oil"}, {"value": 0.8585858585858586, "source": "vegetable oil", "target": "kosher salt"}, {"value": 0.8585858585858586, "source": "oil", "target": "light soy sauce"}, {"value": 0.8585858585858586, "source": "corn starch", "target": "black pepper"}, {"value": 0.8585858585858586, "source": "light soy sauce", "target": "oil"}, {"value": 0.8585858585858586, "source": "sesame oil", "target": "shiitake"}, {"value": 0.8585858585858586, "source": "black pepper", "target": "corn starch"}, {"value": 0.8585858585858586, "source": "chicken breasts", "target": "corn starch"}, {"value": 0.8754208754208754, "source": "garlic", "target": "low sodium soy sauce"}, {"value": 0.8754208754208754, "source": "brown sugar", "target": "ginger"}, {"value": 0.8754208754208754, "source": "light soy sauce", "target": "garlic cloves"}, {"value": 0.8754208754208754, "source": "soy sauce", "target": "Sriracha"}, {"value": 0.8754208754208754, "source": "green onions", "target": "light soy sauce"}, {"value": 0.8754208754208754, "source": "toasted sesame oil", "target": "fresh ginger"}, {"value": 0.8754208754208754, "source": "light soy sauce", "target": "oyster sauce"}, {"value": 0.8754208754208754, "source": "ginger", "target": "brown sugar"}, {"value": 0.8754208754208754, "source": "corn starch", "target": "cooking oil"}, {"value": 0.8754208754208754, "source": "green onions", "target": "red bell pepper"}, {"value": 0.8754208754208754, "source": "garlic", "target": "pepper"}, {"value": 0.8754208754208754, "source": "soy sauce", "target": "sauce"}, {"value": 0.8754208754208754, "source": "peanut oil", "target": "ginger"}, {"value": 0.8754208754208754, "source": "green onions", "target": "sesame seeds"}, {"value": 0.8754208754208754, "source": "red bell pepper", "target": "green onions"}, {"value": 0.8754208754208754, "source": "light soy sauce", "target": "scallions"}, {"value": 0.8754208754208754, "source": "light soy sauce", "target": "green onions"}, {"value": 0.8754208754208754, "source": "oyster sauce", "target": "light soy sauce"}, {"value": 0.8754208754208754, "source": "sauce", "target": "soy sauce"}, {"value": 0.8754208754208754, "source": "sugar", "target": "cooking oil"}, {"value": 0.8754208754208754, "source": "sesame seeds", "target": "green onions"}, {"value": 0.8754208754208754, "source": "fresh ginger", "target": "toasted sesame oil"}, {"value": 0.8754208754208754, "source": "honey", "target": "water"}, {"value": 0.8754208754208754, "source": "low sodium soy sauce", "target": "garlic"}, {"value": 0.8754208754208754, "source": "water", "target": "honey"}, {"value": 0.8754208754208754, "source": "scallions", "target": "light soy sauce"}, {"value": 0.8754208754208754, "source": "ginger", "target": "peanut oil"}, {"value": 0.8754208754208754, "source": "cooking oil", "target": "sugar"}, {"value": 0.8754208754208754, "source": "garlic cloves", "target": "light soy sauce"}, {"value": 0.8754208754208754, "source": "Sriracha", "target": "soy sauce"}, {"value": 0.8754208754208754, "source": "pepper", "target": "garlic"}, {"value": 0.8754208754208754, "source": "cooking oil", "target": "corn starch"}, {"value": 0.8922558922558922, "source": "sesame oil", "target": "beansprouts"}, {"value": 0.8922558922558922, "source": "beansprouts", "target": "sesame oil"}, {"value": 0.8922558922558922, "source": "soy sauce", "target": "wonton wrappers"}, {"value": 0.8922558922558922, "source": "sesame seeds", "target": "rice vinegar"}, {"value": 0.8922558922558922, "source": "star anise", "target": "soy sauce"}, {"value": 0.8922558922558922, "source": "soy sauce", "target": "star anise"}, {"value": 0.8922558922558922, "source": "garlic", "target": "red bell pepper"}, {"value": 0.8922558922558922, "source": "rice vinegar", "target": "sesame seeds"}, {"value": 0.8922558922558922, "source": "wonton wrappers", "target": "soy sauce"}, {"value": 0.8922558922558922, "source": "chinese rice wine", "target": "sugar"}, {"value": 0.8922558922558922, "source": "sugar", "target": "chinese rice wine"}, {"value": 0.8922558922558922, "source": "rice vinegar", "target": "minced garlic"}, {"value": 0.8922558922558922, "source": "green onions", "target": "white pepper"}, {"value": 0.8922558922558922, "source": "red bell pepper", "target": "garlic"}, {"value": 0.8922558922558922, "source": "white pepper", "target": "green onions"}, {"value": 0.8922558922558922, "source": "minced garlic", "target": "rice vinegar"}, {"value": 0.9090909090909092, "source": "vegetable oil", "target": "minced garlic"}, {"value": 0.9090909090909092, "source": "peanut oil", "target": "fresh ginger"}, {"value": 0.9090909090909092, "source": "scallions", "target": "minced garlic"}, {"value": 0.9090909090909092, "source": "sesame seeds", "target": "garlic"}, {"value": 0.9090909090909092, "source": "fresh ginger", "target": "peanut oil"}, {"value": 0.9090909090909092, "source": "flour", "target": "salt"}, {"value": 0.9090909090909092, "source": "fresh ginger", "target": "canola oil"}, {"value": 0.9090909090909092, "source": "red chili peppers", "target": "sesame oil"}, {"value": 0.9090909090909092, "source": "canola oil", "target": "fresh ginger"}, {"value": 0.9090909090909092, "source": "sesame seeds", "target": "corn starch"}, {"value": 0.9090909090909092, "source": "sesame oil", "target": "red chili peppers"}, {"value": 0.9090909090909092, "source": "garlic", "target": "ground black pepper"}, {"value": 0.9090909090909092, "source": "snow peas", "target": "soy sauce"}, {"value": 0.9090909090909092, "source": "rice vinegar", "target": "canola oil"}, {"value": 0.9090909090909092, "source": "garlic", "target": "sesame seeds"}, {"value": 0.9090909090909092, "source": "ground black pepper", "target": "garlic"}, {"value": 0.9090909090909092, "source": "minced garlic", "target": "scallions"}, {"value": 0.9090909090909092, "source": "salt", "target": "flour"}, {"value": 0.9090909090909092, "source": "soy sauce", "target": "snow peas"}, {"value": 0.9090909090909092, "source": "corn starch", "target": "sesame seeds"}, {"value": 0.9090909090909092, "source": "minced garlic", "target": "vegetable oil"}, {"value": 0.9090909090909092, "source": "canola oil", "target": "rice vinegar"}, {"value": 0.9259259259259258, "source": "oyster sauce", "target": "Shaoxing wine"}, {"value": 0.9259259259259258, "source": "ground white pepper", "target": "sugar"}, {"value": 0.9259259259259258, "source": "white sugar", "target": "soy sauce"}, {"value": 0.9259259259259258, "source": "onions", "target": "carrots"}, {"value": 0.9259259259259258, "source": "flank steak", "target": "corn starch"}, {"value": 0.9259259259259258, "source": "ginger", "target": "white pepper"}, {"value": 0.9259259259259258, "source": "Shaoxing wine", "target": "oyster sauce"}, {"value": 0.9259259259259258, "source": "sesame oil", "target": "canola oil"}, {"value": 0.9259259259259258, "source": "corn starch", "target": "flank steak"}, {"value": 0.9259259259259258, "source": "white pepper", "target": "ginger"}, {"value": 0.9259259259259258, "source": "sugar", "target": "ground white pepper"}, {"value": 0.9259259259259258, "source": "canola oil", "target": "sesame oil"}, {"value": 0.9259259259259258, "source": "corn starch", "target": "pepper"}, {"value": 0.9259259259259258, "source": "corn starch", "target": "ground black pepper"}, {"value": 0.9259259259259258, "source": "pepper", "target": "corn starch"}, {"value": 0.9259259259259258, "source": "ground black pepper", "target": "corn starch"}, {"value": 0.9259259259259258, "source": "soy sauce", "target": "white sugar"}, {"value": 0.9259259259259258, "source": "carrots", "target": "onions"}, {"value": 0.9259259259259258, "source": "sesame oil", "target": "rice wine"}, {"value": 0.9259259259259258, "source": "rice wine", "target": "sesame oil"}, {"value": 0.9427609427609428, "source": "Shaoxing wine", "target": "white pepper"}, {"value": 0.9427609427609428, "source": "oil", "target": "eggs"}, {"value": 0.9427609427609428, "source": "vegetable oil", "target": "light soy sauce"}, {"value": 0.9427609427609428, "source": "red bell pepper", "target": "sesame oil"}, {"value": 0.9427609427609428, "source": "soy sauce", "target": "all-purpose flour"}, {"value": 0.9427609427609428, "source": "fresh ginger", "target": "carrots"}, {"value": 0.9427609427609428, "source": "light soy sauce", "target": "vegetable oil"}, {"value": 0.9427609427609428, "source": "minced garlic", "target": "fresh ginger"}, {"value": 0.9427609427609428, "source": "corn starch", "target": "cold water"}, {"value": 0.9427609427609428, "source": "large eggs", "target": "corn starch"}, {"value": 0.9427609427609428, "source": "corn starch", "target": "chinese rice wine"}, {"value": 0.9427609427609428, "source": "sesame oil", "target": "red bell pepper"}, {"value": 0.9427609427609428, "source": "all-purpose flour", "target": "soy sauce"}, {"value": 0.9427609427609428, "source": "corn starch", "target": "large eggs"}, {"value": 0.9427609427609428, "source": "toasted sesame oil", "target": "corn starch"}, {"value": 0.9427609427609428, "source": "boneless skinless chicken breasts", "target": "vegetable oil"}, {"value": 0.9427609427609428, "source": "cold water", "target": "corn starch"}, {"value": 0.9427609427609428, "source": "white pepper", "target": "Shaoxing wine"}, {"value": 0.9427609427609428, "source": "carrots", "target": "fresh ginger"}, {"value": 0.9427609427609428, "source": "ginger", "target": "dark soy sauce"}, {"value": 0.9427609427609428, "source": "sesame oil", "target": "spring onions"}, {"value": 0.9427609427609428, "source": "corn starch", "target": "toasted sesame oil"}, {"value": 0.9427609427609428, "source": "oil", "target": "oyster sauce"}, {"value": 0.9427609427609428, "source": "chinese rice wine", "target": "corn starch"}, {"value": 0.9427609427609428, "source": "eggs", "target": "oil"}, {"value": 0.9427609427609428, "source": "fresh ginger", "target": "minced garlic"}, {"value": 0.9427609427609428, "source": "spring onions", "target": "sesame oil"}, {"value": 0.9427609427609428, "source": "oyster sauce", "target": "oil"}, {"value": 0.9427609427609428, "source": "vegetable oil", "target": "boneless skinless chicken breasts"}, {"value": 0.9427609427609428, "source": "dark soy sauce", "target": "ginger"}, {"value": 0.9595959595959596, "source": "flour", "target": "soy sauce"}, {"value": 0.9595959595959596, "source": "oyster sauce", "target": "fresh ginger"}, {"value": 0.9595959595959596, "source": "canola oil", "target": "garlic"}, {"value": 0.9595959595959596, "source": "salt", "target": "canola oil"}, {"value": 0.9595959595959596, "source": "green onions", "target": "chicken broth"}, {"value": 0.9595959595959596, "source": "chicken stock", "target": "salt"}, {"value": 0.9595959595959596, "source": "onions", "target": "ginger"}, {"value": 0.9595959595959596, "source": "ginger", "target": "onions"}, {"value": 0.9595959595959596, "source": "shiitake", "target": "soy sauce"}, {"value": 0.9595959595959596, "source": "peeled fresh ginger", "target": "green onions"}, {"value": 0.9595959595959596, "source": "canola oil", "target": "salt"}, {"value": 0.9595959595959596, "source": "chicken broth", "target": "green onions"}, {"value": 0.9595959595959596, "source": "soy sauce", "target": "fresh ginger root"}, {"value": 0.9595959595959596, "source": "salt", "target": "chicken stock"}, {"value": 0.9595959595959596, "source": "garlic", "target": "canola oil"}, {"value": 0.9595959595959596, "source": "soy sauce", "target": "flour"}, {"value": 0.9595959595959596, "source": "green onions", "target": "peeled fresh ginger"}, {"value": 0.9595959595959596, "source": "fresh ginger root", "target": "soy sauce"}, {"value": 0.9595959595959596, "source": "soy sauce", "target": "shiitake"}, {"value": 0.9595959595959596, "source": "fresh ginger", "target": "oyster sauce"}, {"value": 0.9764309764309764, "source": "minced garlic", "target": "green onions"}, {"value": 0.9764309764309764, "source": "sesame oil", "target": "wonton wrappers"}, {"value": 0.9764309764309764, "source": "sugar", "target": "boneless skinless chicken breasts"}, {"value": 0.9764309764309764, "source": "wonton wrappers", "target": "sesame oil"}, {"value": 0.9764309764309764, "source": "red pepper flakes", "target": "corn starch"}, {"value": 0.9764309764309764, "source": "peeled fresh ginger", "target": "corn starch"}, {"value": 0.9764309764309764, "source": "boneless skinless chicken breasts", "target": "sugar"}, {"value": 0.9764309764309764, "source": "all-purpose flour", "target": "water"}, {"value": 0.9764309764309764, "source": "corn starch", "target": "red pepper flakes"}, {"value": 0.9764309764309764, "source": "corn starch", "target": "peeled fresh ginger"}, {"value": 0.9764309764309764, "source": "green onions", "target": "minced garlic"}, {"value": 0.9764309764309764, "source": "water", "target": "all-purpose flour"}, {"value": 0.9932659932659933, "source": "peeled fresh ginger", "target": "sesame oil"}, {"value": 0.9932659932659933, "source": "peeled fresh ginger", "target": "water"}, {"value": 0.9932659932659933, "source": "salt", "target": "water chestnuts"}, {"value": 0.9932659932659933, "source": "water chestnuts", "target": "salt"}, {"value": 0.9932659932659933, "source": "sugar", "target": "rice wine"}, {"value": 0.9932659932659933, "source": "oil", "target": "dark soy sauce"}, {"value": 0.9932659932659933, "source": "sugar", "target": "chinese five-spice powder"}, {"value": 0.9932659932659933, "source": "green onions", "target": "boneless skinless chicken breasts"}, {"value": 0.9932659932659933, "source": "spring onions", "target": "salt"}, {"value": 0.9932659932659933, "source": "rice wine", "target": "sugar"}, {"value": 0.9932659932659933, "source": "water", "target": "peeled fresh ginger"}, {"value": 0.9932659932659933, "source": "boneless skinless chicken breasts", "target": "green onions"}, {"value": 0.9932659932659933, "source": "chinese five-spice powder", "target": "sugar"}, {"value": 0.9932659932659933, "source": "sesame oil", "target": "peeled fresh ginger"}, {"value": 0.9932659932659933, "source": "soy sauce", "target": "cold water"}, {"value": 0.9932659932659933, "source": "dark soy sauce", "target": "oil"}, {"value": 0.9932659932659933, "source": "salt", "target": "spring onions"}, {"value": 0.9932659932659933, "source": "cold water", "target": "soy sauce"}, {"value": 1.0101010101010102, "source": "rice wine", "target": "corn starch"}, {"value": 1.0101010101010102, "source": "cooking oil", "target": "salt"}, {"value": 1.0101010101010102, "source": "red chili peppers", "target": "sugar"}, {"value": 1.0101010101010102, "source": "sesame oil", "target": "water chestnuts"}, {"value": 1.0101010101010102, "source": "light soy sauce", "target": "Shaoxing wine"}, {"value": 1.0101010101010102, "source": "water chestnuts", "target": "sesame oil"}, {"value": 1.0101010101010102, "source": "corn starch", "target": "ground pork"}, {"value": 1.0101010101010102, "source": "salt", "target": "cooking oil"}, {"value": 1.0101010101010102, "source": "ground pork", "target": "corn starch"}, {"value": 1.0101010101010102, "source": "sugar", "target": "red chili peppers"}, {"value": 1.0101010101010102, "source": "Shaoxing wine", "target": "light soy sauce"}, {"value": 1.0101010101010102, "source": "corn starch", "target": "rice wine"}, {"value": 1.026936026936027, "source": "salt", "target": "peeled fresh ginger"}, {"value": 1.026936026936027, "source": "scallions", "target": "hoisin sauce"}, {"value": 1.026936026936027, "source": "garlic", "target": "chicken broth"}, {"value": 1.026936026936027, "source": "white pepper", "target": "oyster sauce"}, {"value": 1.026936026936027, "source": "hoisin sauce", "target": "scallions"}, {"value": 1.026936026936027, "source": "peeled fresh ginger", "target": "sugar"}, {"value": 1.026936026936027, "source": "honey", "target": "green onions"}, {"value": 1.026936026936027, "source": "green onions", "target": "honey"}, {"value": 1.026936026936027, "source": "oyster sauce", "target": "white pepper"}, {"value": 1.026936026936027, "source": "chicken broth", "target": "garlic"}, {"value": 1.026936026936027, "source": "sugar", "target": "peeled fresh ginger"}, {"value": 1.026936026936027, "source": "peeled fresh ginger", "target": "salt"}, {"value": 1.0437710437710437, "source": "napa cabbage", "target": "soy sauce"}, {"value": 1.0437710437710437, "source": "scallions", "target": "ground pork"}, {"value": 1.0437710437710437, "source": "salt", "target": "brown sugar"}, {"value": 1.0437710437710437, "source": "ground pork", "target": "garlic"}, {"value": 1.0437710437710437, "source": "garlic", "target": "ground pork"}, {"value": 1.0437710437710437, "source": "sesame oil", "target": "ground black pepper"}, {"value": 1.0437710437710437, "source": "kosher salt", "target": "garlic"}, {"value": 1.0437710437710437, "source": "ground pork", "target": "scallions"}, {"value": 1.0437710437710437, "source": "chicken breasts", "target": "soy sauce"}, {"value": 1.0437710437710437, "source": "vegetable oil", "target": "carrots"}, {"value": 1.0437710437710437, "source": "soy sauce", "target": "dark soy sauce"}, {"value": 1.0437710437710437, "source": "eggs", "target": "vegetable oil"}, {"value": 1.0437710437710437, "source": "ground white pepper", "target": "salt"}, {"value": 1.0437710437710437, "source": "salt", "target": "ground white pepper"}, {"value": 1.0437710437710437, "source": "soy sauce", "target": "napa cabbage"}, {"value": 1.0437710437710437, "source": "ground black pepper", "target": "sesame oil"}, {"value": 1.0437710437710437, "source": "brown sugar", "target": "salt"}, {"value": 1.0437710437710437, "source": "soy sauce", "target": "chicken breasts"}, {"value": 1.0437710437710437, "source": "vegetable oil", "target": "eggs"}, {"value": 1.0437710437710437, "source": "dark soy sauce", "target": "soy sauce"}, {"value": 1.0437710437710437, "source": "garlic", "target": "kosher salt"}, {"value": 1.0437710437710437, "source": "carrots", "target": "vegetable oil"}, {"value": 1.0606060606060606, "source": "salt", "target": "low sodium soy sauce"}, {"value": 1.0606060606060606, "source": "soy sauce", "target": "shrimp"}, {"value": 1.0606060606060606, "source": "onions", "target": "sugar"}, {"value": 1.0606060606060606, "source": "sugar", "target": "ground pork"}, {"value": 1.0606060606060606, "source": "ground pork", "target": "sugar"}, {"value": 1.0606060606060606, "source": "green onions", "target": "oil"}, {"value": 1.0606060606060606, "source": "fresh ginger", "target": "hoisin sauce"}, {"value": 1.0606060606060606, "source": "salt", "target": "chicken broth"}, {"value": 1.0606060606060606, "source": "sesame oil", "target": "ground white pepper"}, {"value": 1.0606060606060606, "source": "oil", "target": "green onions"}, {"value": 1.0606060606060606, "source": "ground black pepper", "target": "salt"}, {"value": 1.0606060606060606, "source": "large eggs", "target": "salt"}, {"value": 1.0606060606060606, "source": "low sodium soy sauce", "target": "salt"}, {"value": 1.0606060606060606, "source": "chicken broth", "target": "salt"}, {"value": 1.0606060606060606, "source": "shrimp", "target": "soy sauce"}, {"value": 1.0606060606060606, "source": "hoisin sauce", "target": "fresh ginger"}, {"value": 1.0606060606060606, "source": "salt", "target": "large eggs"}, {"value": 1.0606060606060606, "source": "szechwan peppercorns", "target": "soy sauce"}, {"value": 1.0606060606060606, "source": "low sodium soy sauce", "target": "rice vinegar"}, {"value": 1.0606060606060606, "source": "ground white pepper", "target": "sesame oil"}, {"value": 1.0606060606060606, "source": "rice vinegar", "target": "low sodium soy sauce"}, {"value": 1.0606060606060606, "source": "soy sauce", "target": "szechwan peppercorns"}, {"value": 1.0606060606060606, "source": "salt", "target": "ground black pepper"}, {"value": 1.0606060606060606, "source": "sugar", "target": "onions"}, {"value": 1.0774410774410774, "source": "sesame oil", "target": "shrimp"}, {"value": 1.0774410774410774, "source": "rice vinegar", "target": "honey"}, {"value": 1.0774410774410774, "source": "shrimp", "target": "sesame oil"}, {"value": 1.0774410774410774, "source": "low sodium soy sauce", "target": "peeled fresh ginger"}, {"value": 1.0774410774410774, "source": "honey", "target": "rice vinegar"}, {"value": 1.0774410774410774, "source": "peeled fresh ginger", "target": "low sodium soy sauce"}, {"value": 1.0942760942760943, "source": "corn starch", "target": "ketchup"}, {"value": 1.0942760942760943, "source": "boneless skinless chicken breasts", "target": "rice vinegar"}, {"value": 1.0942760942760943, "source": "hoisin sauce", "target": "ginger"}, {"value": 1.0942760942760943, "source": "cooking oil", "target": "soy sauce"}, {"value": 1.0942760942760943, "source": "green onions", "target": "ground pork"}, {"value": 1.0942760942760943, "source": "rice vinegar", "target": "boneless skinless chicken breasts"}, {"value": 1.0942760942760943, "source": "chinese five-spice powder", "target": "honey"}, {"value": 1.0942760942760943, "source": "minced garlic", "target": "salt"}, {"value": 1.0942760942760943, "source": "soy sauce", "target": "cooking oil"}, {"value": 1.0942760942760943, "source": "ketchup", "target": "corn starch"}, {"value": 1.0942760942760943, "source": "green onions", "target": "peanut oil"}, {"value": 1.0942760942760943, "source": "salt", "target": "all-purpose flour"}, {"value": 1.0942760942760943, "source": "water", "target": "peanut oil"}, {"value": 1.0942760942760943, "source": "all-purpose flour", "target": "salt"}, {"value": 1.0942760942760943, "source": "ginger", "target": "hoisin sauce"}, {"value": 1.0942760942760943, "source": "water", "target": "low sodium soy sauce"}, {"value": 1.0942760942760943, "source": "salt", "target": "minced garlic"}, {"value": 1.0942760942760943, "source": "red chili peppers", "target": "garlic"}, {"value": 1.0942760942760943, "source": "peanut oil", "target": "water"}, {"value": 1.0942760942760943, "source": "low sodium soy sauce", "target": "water"}, {"value": 1.0942760942760943, "source": "honey", "target": "chinese five-spice powder"}, {"value": 1.0942760942760943, "source": "ground pork", "target": "green onions"}, {"value": 1.0942760942760943, "source": "garlic", "target": "red chili peppers"}, {"value": 1.0942760942760943, "source": "peanut oil", "target": "green onions"}, {"value": 1.1111111111111112, "source": "corn starch", "target": "honey"}, {"value": 1.1111111111111112, "source": "spring onions", "target": "soy sauce"}, {"value": 1.1111111111111112, "source": "soy sauce", "target": "ketchup"}, {"value": 1.1111111111111112, "source": "scallions", "target": "white pepper"}, {"value": 1.1111111111111112, "source": "garlic", "target": "toasted sesame oil"}, {"value": 1.1111111111111112, "source": "honey", "target": "corn starch"}, {"value": 1.1111111111111112, "source": "soy sauce", "target": "spring onions"}, {"value": 1.1111111111111112, "source": "corn starch", "target": "ground white pepper"}, {"value": 1.1111111111111112, "source": "ground white pepper", "target": "corn starch"}, {"value": 1.1111111111111112, "source": "ground white pepper", "target": "soy sauce"}, {"value": 1.1111111111111112, "source": "toasted sesame oil", "target": "scallions"}, {"value": 1.1111111111111112, "source": "toasted sesame oil", "target": "garlic"}, {"value": 1.1111111111111112, "source": "scallions", "target": "toasted sesame oil"}, {"value": 1.1111111111111112, "source": "ketchup", "target": "soy sauce"}, {"value": 1.1111111111111112, "source": "white pepper", "target": "scallions"}, {"value": 1.1111111111111112, "source": "soy sauce", "target": "ground white pepper"}, {"value": 1.127946127946128, "source": "soy sauce", "target": "red pepper flakes"}, {"value": 1.127946127946128, "source": "water", "target": "boneless skinless chicken breasts"}, {"value": 1.127946127946128, "source": "corn starch", "target": "dry sherry"}, {"value": 1.127946127946128, "source": "red pepper flakes", "target": "soy sauce"}, {"value": 1.127946127946128, "source": "boneless skinless chicken breasts", "target": "water"}, {"value": 1.127946127946128, "source": "garlic cloves", "target": "peanut oil"}, {"value": 1.127946127946128, "source": "dry sherry", "target": "corn starch"}, {"value": 1.127946127946128, "source": "peanut oil", "target": "garlic cloves"}, {"value": 1.144781144781145, "source": "sesame oil", "target": "sesame seeds"}, {"value": 1.144781144781145, "source": "sesame seeds", "target": "sesame oil"}, {"value": 1.144781144781145, "source": "sugar", "target": "kosher salt"}, {"value": 1.144781144781145, "source": "carrots", "target": "rice vinegar"}, {"value": 1.144781144781145, "source": "kosher salt", "target": "sugar"}, {"value": 1.144781144781145, "source": "rice vinegar", "target": "carrots"}, {"value": 1.1616161616161615, "source": "garlic cloves", "target": "ginger"}, {"value": 1.1616161616161615, "source": "water", "target": "minced garlic"}, {"value": 1.1616161616161615, "source": "chicken stock", "target": "sugar"}, {"value": 1.1616161616161615, "source": "white pepper", "target": "oil"}, {"value": 1.1616161616161615, "source": "soy sauce", "target": "large eggs"}, {"value": 1.1616161616161615, "source": "ginger", "target": "light soy sauce"}, {"value": 1.1616161616161615, "source": "ground pork", "target": "water"}, {"value": 1.1616161616161615, "source": "large eggs", "target": "soy sauce"}, {"value": 1.1616161616161615, "source": "chinese rice wine", "target": "sesame oil"}, {"value": 1.1616161616161615, "source": "oil", "target": "white pepper"}, {"value": 1.1616161616161615, "source": "sesame oil", "target": "chinese rice wine"}, {"value": 1.1616161616161615, "source": "water", "target": "ground pork"}, {"value": 1.1616161616161615, "source": "ginger", "target": "garlic cloves"}, {"value": 1.1616161616161615, "source": "light soy sauce", "target": "ginger"}, {"value": 1.1616161616161615, "source": "sugar", "target": "chicken stock"}, {"value": 1.1616161616161615, "source": "minced garlic", "target": "water"}, {"value": 1.1784511784511784, "source": "corn starch", "target": "kosher salt"}, {"value": 1.1784511784511784, "source": "carrots", "target": "ginger"}, {"value": 1.1784511784511784, "source": "water", "target": "hoisin sauce"}, {"value": 1.1784511784511784, "source": "garlic cloves", "target": "peeled fresh ginger"}, {"value": 1.1784511784511784, "source": "salt", "target": "hoisin sauce"}, {"value": 1.1784511784511784, "source": "garlic", "target": "chinese five-spice powder"}, {"value": 1.1784511784511784, "source": "chinese five-spice powder", "target": "garlic"}, {"value": 1.1784511784511784, "source": "hoisin sauce", "target": "salt"}, {"value": 1.1784511784511784, "source": "peeled fresh ginger", "target": "garlic cloves"}, {"value": 1.1784511784511784, "source": "kosher salt", "target": "corn starch"}, {"value": 1.1784511784511784, "source": "ginger", "target": "carrots"}, {"value": 1.1784511784511784, "source": "scallions", "target": "carrots"}, {"value": 1.1784511784511784, "source": "carrots", "target": "scallions"}, {"value": 1.1784511784511784, "source": "hoisin sauce", "target": "water"}, {"value": 1.1952861952861953, "source": "salt", "target": "honey"}, {"value": 1.1952861952861953, "source": "sesame oil", "target": "kosher salt"}, {"value": 1.1952861952861953, "source": "dark soy sauce", "target": "scallions"}, {"value": 1.1952861952861953, "source": "garlic", "target": "eggs"}, {"value": 1.1952861952861953, "source": "scallions", "target": "dark soy sauce"}, {"value": 1.1952861952861953, "source": "low sodium soy sauce", "target": "garlic cloves"}, {"value": 1.1952861952861953, "source": "kosher salt", "target": "sesame oil"}, {"value": 1.1952861952861953, "source": "honey", "target": "salt"}, {"value": 1.1952861952861953, "source": "garlic cloves", "target": "low sodium soy sauce"}, {"value": 1.1952861952861953, "source": "eggs", "target": "garlic"}, {"value": 1.2121212121212122, "source": "green onions", "target": "oyster sauce"}, {"value": 1.2121212121212122, "source": "green onions", "target": "low sodium soy sauce"}, {"value": 1.2121212121212122, "source": "light soy sauce", "target": "water"}, {"value": 1.2121212121212122, "source": "oyster sauce", "target": "green onions"}, {"value": 1.2121212121212122, "source": "peanut oil", "target": "garlic"}, {"value": 1.2121212121212122, "source": "water", "target": "light soy sauce"}, {"value": 1.2121212121212122, "source": "garlic", "target": "peanut oil"}, {"value": 1.2121212121212122, "source": "onions", "target": "vegetable oil"}, {"value": 1.2121212121212122, "source": "vegetable oil", "target": "onions"}, {"value": 1.2121212121212122, "source": "boneless skinless chicken breasts", "target": "sesame oil"}, {"value": 1.2121212121212122, "source": "brown sugar", "target": "green onions"}, {"value": 1.2121212121212122, "source": "sesame oil", "target": "boneless skinless chicken breasts"}, {"value": 1.2121212121212122, "source": "low sodium soy sauce", "target": "green onions"}, {"value": 1.2121212121212122, "source": "green onions", "target": "brown sugar"}, {"value": 1.2289562289562288, "source": "boneless skinless chicken breasts", "target": "salt"}, {"value": 1.2289562289562288, "source": "ground ginger", "target": "soy sauce"}, {"value": 1.2289562289562288, "source": "corn starch", "target": "carrots"}, {"value": 1.2289562289562288, "source": "salt", "target": "boneless skinless chicken breasts"}, {"value": 1.2289562289562288, "source": "carrots", "target": "corn starch"}, {"value": 1.2289562289562288, "source": "sesame oil", "target": "chinese five-spice powder"}, {"value": 1.2289562289562288, "source": "soy sauce", "target": "ground ginger"}, {"value": 1.2289562289562288, "source": "chinese five-spice powder", "target": "sesame oil"}, {"value": 1.245791245791246, "source": "honey", "target": "sesame oil"}, {"value": 1.245791245791246, "source": "garlic", "target": "boneless skinless chicken breasts"}, {"value": 1.245791245791246, "source": "salt", "target": "black pepper"}, {"value": 1.245791245791246, "source": "dark soy sauce", "target": "Shaoxing wine"}, {"value": 1.245791245791246, "source": "oyster sauce", "target": "vegetable oil"}, {"value": 1.245791245791246, "source": "soy sauce", "target": "beansprouts"}, {"value": 1.245791245791246, "source": "salt", "target": "chinese five-spice powder"}, {"value": 1.245791245791246, "source": "sugar", "target": "eggs"}, {"value": 1.245791245791246, "source": "beansprouts", "target": "soy sauce"}, {"value": 1.245791245791246, "source": "vegetable oil", "target": "oyster sauce"}, {"value": 1.245791245791246, "source": "Shaoxing wine", "target": "dark soy sauce"}, {"value": 1.245791245791246, "source": "chinese five-spice powder", "target": "salt"}, {"value": 1.245791245791246, "source": "black pepper", "target": "salt"}, {"value": 1.245791245791246, "source": "eggs", "target": "sugar"}, {"value": 1.245791245791246, "source": "sesame oil", "target": "honey"}, {"value": 1.245791245791246, "source": "boneless skinless chicken breasts", "target": "garlic"}, {"value": 1.2626262626262628, "source": "water chestnuts", "target": "corn starch"}, {"value": 1.2626262626262628, "source": "rice vinegar", "target": "brown sugar"}, {"value": 1.2626262626262628, "source": "brown sugar", "target": "rice vinegar"}, {"value": 1.2626262626262628, "source": "soy sauce", "target": "olive oil"}, {"value": 1.2626262626262628, "source": "sesame oil", "target": "chicken broth"}, {"value": 1.2626262626262628, "source": "soy sauce", "target": "peeled fresh ginger"}, {"value": 1.2626262626262628, "source": "olive oil", "target": "soy sauce"}, {"value": 1.2626262626262628, "source": "white pepper", "target": "garlic"}, {"value": 1.2626262626262628, "source": "chicken broth", "target": "sesame oil"}, {"value": 1.2626262626262628, "source": "peeled fresh ginger", "target": "soy sauce"}, {"value": 1.2626262626262628, "source": "corn starch", "target": "water chestnuts"}, {"value": 1.2626262626262628, "source": "garlic", "target": "white pepper"}, {"value": 1.2794612794612794, "source": "ginger", "target": "vegetable oil"}, {"value": 1.2794612794612794, "source": "brown sugar", "target": "sesame oil"}, {"value": 1.2794612794612794, "source": "oil", "target": "Shaoxing wine"}, {"value": 1.2794612794612794, "source": "sesame oil", "target": "brown sugar"}, {"value": 1.2794612794612794, "source": "Shaoxing wine", "target": "oil"}, {"value": 1.2794612794612794, "source": "water chestnuts", "target": "soy sauce"}, {"value": 1.2794612794612794, "source": "soy sauce", "target": "water chestnuts"}, {"value": 1.2794612794612794, "source": "vegetable oil", "target": "ginger"}, {"value": 1.2794612794612794, "source": "ginger", "target": "oyster sauce"}, {"value": 1.2794612794612794, "source": "oyster sauce", "target": "ginger"}, {"value": 1.2962962962962963, "source": "hoisin sauce", "target": "honey"}, {"value": 1.2962962962962963, "source": "water", "target": "carrots"}, {"value": 1.2962962962962963, "source": "sugar", "target": "carrots"}, {"value": 1.2962962962962963, "source": "carrots", "target": "sugar"}, {"value": 1.2962962962962963, "source": "honey", "target": "hoisin sauce"}, {"value": 1.2962962962962963, "source": "carrots", "target": "water"}, {"value": 1.3131313131313131, "source": "soy sauce", "target": "red chili peppers"}, {"value": 1.3131313131313131, "source": "red chili peppers", "target": "soy sauce"}, {"value": 1.3131313131313131, "source": "scallions", "target": "kosher salt"}, {"value": 1.3131313131313131, "source": "canola oil", "target": "soy sauce"}, {"value": 1.3131313131313131, "source": "soy sauce", "target": "canola oil"}, {"value": 1.3131313131313131, "source": "kosher salt", "target": "scallions"}, {"value": 1.32996632996633, "source": "water", "target": "onions"}, {"value": 1.32996632996633, "source": "sugar", "target": "hoisin sauce"}, {"value": 1.32996632996633, "source": "hoisin sauce", "target": "sugar"}, {"value": 1.32996632996633, "source": "onions", "target": "water"}, {"value": 1.3468013468013469, "source": "dry sherry", "target": "soy sauce"}, {"value": 1.3468013468013469, "source": "soy sauce", "target": "dry sherry"}, {"value": 1.3468013468013469, "source": "brown sugar", "target": "water"}, {"value": 1.3468013468013469, "source": "dark soy sauce", "target": "water"}, {"value": 1.3468013468013469, "source": "water", "target": "dark soy sauce"}, {"value": 1.3468013468013469, "source": "water", "target": "brown sugar"}, {"value": 1.3468013468013469, "source": "garlic", "target": "light soy sauce"}, {"value": 1.3468013468013469, "source": "light soy sauce", "target": "garlic"}, {"value": 1.3636363636363635, "source": "soy sauce", "target": "rice wine"}, {"value": 1.3636363636363635, "source": "soy sauce", "target": "chinese rice wine"}, {"value": 1.3636363636363635, "source": "rice wine", "target": "soy sauce"}, {"value": 1.3636363636363635, "source": "chinese rice wine", "target": "soy sauce"}, {"value": 1.3804713804713806, "source": "green onions", "target": "carrots"}, {"value": 1.3804713804713806, "source": "scallions", "target": "oyster sauce"}, {"value": 1.3804713804713806, "source": "oyster sauce", "target": "scallions"}, {"value": 1.3804713804713806, "source": "hoisin sauce", "target": "chinese five-spice powder"}, {"value": 1.3804713804713806, "source": "chinese five-spice powder", "target": "hoisin sauce"}, {"value": 1.3804713804713806, "source": "carrots", "target": "green onions"}, {"value": 1.3973063973063973, "source": "Shaoxing wine", "target": "water"}, {"value": 1.3973063973063973, "source": "water", "target": "Shaoxing wine"}, {"value": 1.4141414141414141, "source": "chicken stock", "target": "corn starch"}, {"value": 1.4141414141414141, "source": "soy sauce", "target": "black pepper"}, {"value": 1.4141414141414141, "source": "corn starch", "target": "chicken stock"}, {"value": 1.4141414141414141, "source": "black pepper", "target": "soy sauce"}, {"value": 1.4309764309764308, "source": "sesame oil", "target": "onions"}, {"value": 1.4309764309764308, "source": "ground pork", "target": "salt"}, {"value": 1.4309764309764308, "source": "salt", "target": "ground pork"}, {"value": 1.4309764309764308, "source": "minced garlic", "target": "sesame oil"}, {"value": 1.4309764309764308, "source": "ginger", "target": "Shaoxing wine"}, {"value": 1.4309764309764308, "source": "Shaoxing wine", "target": "ginger"}, {"value": 1.4309764309764308, "source": "sesame oil", "target": "minced garlic"}, {"value": 1.4309764309764308, "source": "onions", "target": "sesame oil"}, {"value": 1.4478114478114479, "source": "garlic", "target": "Shaoxing wine"}, {"value": 1.4478114478114479, "source": "corn starch", "target": "light soy sauce"}, {"value": 1.4478114478114479, "source": "sesame oil", "target": "chicken stock"}, {"value": 1.4478114478114479, "source": "light soy sauce", "target": "corn starch"}, {"value": 1.4478114478114479, "source": "chicken stock", "target": "sesame oil"}, {"value": 1.4478114478114479, "source": "minced garlic", "target": "sugar"}, {"value": 1.4478114478114479, "source": "corn starch", "target": "canola oil"}, {"value": 1.4478114478114479, "source": "canola oil", "target": "corn starch"}, {"value": 1.4478114478114479, "source": "Shaoxing wine", "target": "garlic"}, {"value": 1.4478114478114479, "source": "sugar", "target": "minced garlic"}, {"value": 1.4646464646464645, "source": "white pepper", "target": "water"}, {"value": 1.4646464646464645, "source": "water", "target": "white pepper"}, {"value": 1.4646464646464645, "source": "scallions", "target": "peanut oil"}, {"value": 1.4646464646464645, "source": "red bell pepper", "target": "soy sauce"}, {"value": 1.4646464646464645, "source": "soy sauce", "target": "red bell pepper"}, {"value": 1.4646464646464645, "source": "peanut oil", "target": "scallions"}, {"value": 1.4814814814814814, "source": "salt", "target": "dark soy sauce"}, {"value": 1.4814814814814814, "source": "dark soy sauce", "target": "light soy sauce"}, {"value": 1.4814814814814814, "source": "light soy sauce", "target": "dark soy sauce"}, {"value": 1.4814814814814814, "source": "hoisin sauce", "target": "rice vinegar"}, {"value": 1.4814814814814814, "source": "rice vinegar", "target": "hoisin sauce"}, {"value": 1.4814814814814814, "source": "dark soy sauce", "target": "salt"}, {"value": 1.4983164983164985, "source": "sesame oil", "target": "eggs"}, {"value": 1.4983164983164985, "source": "scallions", "target": "Shaoxing wine"}, {"value": 1.4983164983164985, "source": "Shaoxing wine", "target": "scallions"}, {"value": 1.4983164983164985, "source": "ground black pepper", "target": "soy sauce"}, {"value": 1.4983164983164985, "source": "soy sauce", "target": "ground black pepper"}, {"value": 1.4983164983164985, "source": "eggs", "target": "sesame oil"}, {"value": 1.5151515151515151, "source": "corn starch", "target": "dark soy sauce"}, {"value": 1.5151515151515151, "source": "garlic", "target": "dark soy sauce"}, {"value": 1.5151515151515151, "source": "peanut oil", "target": "salt"}, {"value": 1.5151515151515151, "source": "dark soy sauce", "target": "corn starch"}, {"value": 1.5151515151515151, "source": "dark soy sauce", "target": "garlic"}, {"value": 1.5151515151515151, "source": "scallions", "target": "garlic cloves"}, {"value": 1.5151515151515151, "source": "garlic cloves", "target": "scallions"}, {"value": 1.5151515151515151, "source": "salt", "target": "peanut oil"}, {"value": 1.531986531986532, "source": "ginger", "target": "rice vinegar"}, {"value": 1.531986531986532, "source": "rice vinegar", "target": "ginger"}, {"value": 1.5488215488215487, "source": "red bell pepper", "target": "corn starch"}, {"value": 1.5488215488215487, "source": "honey", "target": "garlic"}, {"value": 1.5488215488215487, "source": "green onions", "target": "eggs"}, {"value": 1.5488215488215487, "source": "eggs", "target": "green onions"}, {"value": 1.5488215488215487, "source": "ground pork", "target": "sesame oil"}, {"value": 1.5488215488215487, "source": "corn starch", "target": "red bell pepper"}, {"value": 1.5488215488215487, "source": "oil", "target": "ginger"}, {"value": 1.5488215488215487, "source": "ginger", "target": "oil"}, {"value": 1.5488215488215487, "source": "garlic", "target": "honey"}, {"value": 1.5488215488215487, "source": "sesame oil", "target": "ground pork"}, {"value": 1.5656565656565657, "source": "kosher salt", "target": "soy sauce"}, {"value": 1.5656565656565657, "source": "soy sauce", "target": "kosher salt"}, {"value": 1.5656565656565657, "source": "soy sauce", "target": "toasted sesame oil"}, {"value": 1.5656565656565657, "source": "sesame oil", "target": "dark soy sauce"}, {"value": 1.5656565656565657, "source": "soy sauce", "target": "chicken stock"}, {"value": 1.5656565656565657, "source": "dark soy sauce", "target": "sesame oil"}, {"value": 1.5656565656565657, "source": "white pepper", "target": "corn starch"}, {"value": 1.5656565656565657, "source": "chicken stock", "target": "soy sauce"}, {"value": 1.5656565656565657, "source": "toasted sesame oil", "target": "soy sauce"}, {"value": 1.5656565656565657, "source": "corn starch", "target": "white pepper"}, {"value": 1.5993265993265993, "source": "low sodium soy sauce", "target": "corn starch"}, {"value": 1.5993265993265993, "source": "corn starch", "target": "low sodium soy sauce"}, {"value": 1.6161616161616164, "source": "hoisin sauce", "target": "green onions"}, {"value": 1.6161616161616164, "source": "eggs", "target": "water"}, {"value": 1.6161616161616164, "source": "garlic", "target": "brown sugar"}, {"value": 1.6161616161616164, "source": "brown sugar", "target": "garlic"}, {"value": 1.6161616161616164, "source": "water", "target": "eggs"}, {"value": 1.6161616161616164, "source": "green onions", "target": "hoisin sauce"}, {"value": 1.632996632996633, "source": "soy sauce", "target": "pepper"}, {"value": 1.632996632996633, "source": "corn starch", "target": "onions"}, {"value": 1.632996632996633, "source": "onions", "target": "corn starch"}, {"value": 1.632996632996633, "source": "pepper", "target": "soy sauce"}, {"value": 1.632996632996633, "source": "light soy sauce", "target": "salt"}, {"value": 1.632996632996633, "source": "salt", "target": "light soy sauce"}, {"value": 1.6498316498316499, "source": "soy sauce", "target": "sesame seeds"}, {"value": 1.6498316498316499, "source": "sesame seeds", "target": "soy sauce"}, {"value": 1.6666666666666665, "source": "scallions", "target": "oil"}, {"value": 1.6666666666666665, "source": "oil", "target": "scallions"}, {"value": 1.7171717171717171, "source": "onions", "target": "salt"}, {"value": 1.7171717171717171, "source": "corn starch", "target": "minced garlic"}, {"value": 1.7171717171717171, "source": "minced garlic", "target": "corn starch"}, {"value": 1.7171717171717171, "source": "salt", "target": "onions"}, {"value": 1.734006734006734, "source": "carrots", "target": "salt"}, {"value": 1.734006734006734, "source": "fresh ginger", "target": "garlic cloves"}, {"value": 1.734006734006734, "source": "salt", "target": "carrots"}, {"value": 1.734006734006734, "source": "green onions", "target": "garlic cloves"}, {"value": 1.734006734006734, "source": "garlic cloves", "target": "green onions"}, {"value": 1.734006734006734, "source": "garlic cloves", "target": "fresh ginger"}, {"value": 1.7508417508417509, "source": "Shaoxing wine", "target": "salt"}, {"value": 1.7508417508417509, "source": "corn starch", "target": "hoisin sauce"}, {"value": 1.7508417508417509, "source": "salt", "target": "Shaoxing wine"}, {"value": 1.7508417508417509, "source": "hoisin sauce", "target": "corn starch"}, {"value": 1.7676767676767677, "source": "corn starch", "target": "chicken broth"}, {"value": 1.7676767676767677, "source": "chicken broth", "target": "corn starch"}, {"value": 1.7845117845117844, "source": "garlic cloves", "target": "rice vinegar"}, {"value": 1.7845117845117844, "source": "rice vinegar", "target": "garlic cloves"}, {"value": 1.8013468013468015, "source": "sugar", "target": "white pepper"}, {"value": 1.8013468013468015, "source": "white pepper", "target": "sugar"}, {"value": 1.8181818181818183, "source": "onions", "target": "garlic"}, {"value": 1.8181818181818183, "source": "carrots", "target": "garlic"}, {"value": 1.8181818181818183, "source": "brown sugar", "target": "corn starch"}, {"value": 1.8181818181818183, "source": "corn starch", "target": "brown sugar"}, {"value": 1.8181818181818183, "source": "garlic", "target": "onions"}, {"value": 1.8181818181818183, "source": "garlic", "target": "carrots"}, {"value": 1.835016835016835, "source": "garlic cloves", "target": "vegetable oil"}, {"value": 1.835016835016835, "source": "vegetable oil", "target": "garlic cloves"}, {"value": 1.8518518518518516, "source": "corn starch", "target": "eggs"}, {"value": 1.8518518518518516, "source": "chinese five-spice powder", "target": "soy sauce"}, {"value": 1.8518518518518516, "source": "light soy sauce", "target": "sesame oil"}, {"value": 1.8518518518518516, "source": "sesame oil", "target": "light soy sauce"}, {"value": 1.8518518518518516, "source": "eggs", "target": "corn starch"}, {"value": 1.8518518518518516, "source": "soy sauce", "target": "chinese five-spice powder"}, {"value": 1.8686868686868687, "source": "vegetable oil", "target": "rice vinegar"}, {"value": 1.8686868686868687, "source": "rice vinegar", "target": "vegetable oil"}, {"value": 1.9023569023569022, "source": "sesame oil", "target": "peanut oil"}, {"value": 1.9023569023569022, "source": "oyster sauce", "target": "salt"}, {"value": 1.9023569023569022, "source": "salt", "target": "oyster sauce"}, {"value": 1.9023569023569022, "source": "sugar", "target": "peanut oil"}, {"value": 1.9023569023569022, "source": "peanut oil", "target": "sesame oil"}, {"value": 1.9023569023569022, "source": "peanut oil", "target": "sugar"}, {"value": 1.9191919191919191, "source": "Shaoxing wine", "target": "corn starch"}, {"value": 1.9191919191919191, "source": "corn starch", "target": "Shaoxing wine"}, {"value": 1.936026936026936, "source": "fresh ginger", "target": "rice vinegar"}, {"value": 1.936026936026936, "source": "rice vinegar", "target": "fresh ginger"}, {"value": 1.936026936026936, "source": "oil", "target": "garlic"}, {"value": 1.936026936026936, "source": "garlic", "target": "oil"}, {"value": 1.9528619528619529, "source": "sugar", "target": "dark soy sauce"}, {"value": 1.9528619528619529, "source": "garlic cloves", "target": "water"}, {"value": 1.9528619528619529, "source": "water", "target": "garlic cloves"}, {"value": 1.9528619528619529, "source": "dark soy sauce", "target": "sugar"}, {"value": 1.9696969696969697, "source": "soy sauce", "target": "chicken broth"}, {"value": 1.9696969696969697, "source": "sugar", "target": "light soy sauce"}, {"value": 1.9696969696969697, "source": "light soy sauce", "target": "sugar"}, {"value": 1.9696969696969697, "source": "chicken broth", "target": "soy sauce"}, {"value": 1.9865319865319866, "source": "hoisin sauce", "target": "garlic"}, {"value": 1.9865319865319866, "source": "garlic", "target": "hoisin sauce"}, {"value": 2.0202020202020203, "source": "sugar", "target": "garlic cloves"}, {"value": 2.0202020202020203, "source": "garlic cloves", "target": "sugar"}, {"value": 2.0202020202020203, "source": "sesame oil", "target": "oil"}, {"value": 2.0202020202020203, "source": "oil", "target": "sesame oil"}, {"value": 2.0370370370370368, "source": "pepper", "target": "salt"}, {"value": 2.0370370370370368, "source": "soy sauce", "target": "ground pork"}, {"value": 2.0370370370370368, "source": "ground pork", "target": "soy sauce"}, {"value": 2.0370370370370368, "source": "salt", "target": "pepper"}, {"value": 2.053872053872054, "source": "corn starch", "target": "peanut oil"}, {"value": 2.053872053872054, "source": "peanut oil", "target": "corn starch"}, {"value": 2.070707070707071, "source": "garlic cloves", "target": "salt"}, {"value": 2.070707070707071, "source": "white pepper", "target": "soy sauce"}, {"value": 2.070707070707071, "source": "Shaoxing wine", "target": "sesame oil"}, {"value": 2.070707070707071, "source": "salt", "target": "garlic cloves"}, {"value": 2.070707070707071, "source": "sesame oil", "target": "Shaoxing wine"}, {"value": 2.070707070707071, "source": "soy sauce", "target": "white pepper"}, {"value": 2.0875420875420874, "source": "scallions", "target": "rice vinegar"}, {"value": 2.0875420875420874, "source": "minced garlic", "target": "soy sauce"}, {"value": 2.0875420875420874, "source": "soy sauce", "target": "minced garlic"}, {"value": 2.0875420875420874, "source": "rice vinegar", "target": "scallions"}, {"value": 2.1043771043771047, "source": "soy sauce", "target": "boneless skinless chicken breasts"}, {"value": 2.1043771043771047, "source": "sugar", "target": "rice vinegar"}, {"value": 2.1043771043771047, "source": "rice vinegar", "target": "sugar"}, {"value": 2.1043771043771047, "source": "boneless skinless chicken breasts", "target": "soy sauce"}, {"value": 2.121212121212121, "source": "white pepper", "target": "salt"}, {"value": 2.121212121212121, "source": "salt", "target": "white pepper"}, {"value": 2.138047138047138, "source": "green onions", "target": "ginger"}, {"value": 2.138047138047138, "source": "ginger", "target": "green onions"}, {"value": 2.1717171717171717, "source": "water", "target": "oyster sauce"}, {"value": 2.1717171717171717, "source": "oyster sauce", "target": "water"}, {"value": 2.1885521885521886, "source": "rice vinegar", "target": "water"}, {"value": 2.1885521885521886, "source": "water", "target": "rice vinegar"}, {"value": 2.2053872053872055, "source": "oyster sauce", "target": "garlic"}, {"value": 2.2053872053872055, "source": "garlic", "target": "oyster sauce"}, {"value": 2.2222222222222223, "source": "sesame oil", "target": "hoisin sauce"}, {"value": 2.2222222222222223, "source": "hoisin sauce", "target": "sesame oil"}, {"value": 2.2222222222222223, "source": "white pepper", "target": "sesame oil"}, {"value": 2.2222222222222223, "source": "sesame oil", "target": "white pepper"}, {"value": 2.239057239057239, "source": "sugar", "target": "fresh ginger"}, {"value": 2.239057239057239, "source": "sesame oil", "target": "carrots"}, {"value": 2.239057239057239, "source": "vegetable oil", "target": "fresh ginger"}, {"value": 2.239057239057239, "source": "fresh ginger", "target": "vegetable oil"}, {"value": 2.239057239057239, "source": "rice vinegar", "target": "green onions"}, {"value": 2.239057239057239, "source": "carrots", "target": "sesame oil"}, {"value": 2.239057239057239, "source": "green onions", "target": "rice vinegar"}, {"value": 2.239057239057239, "source": "fresh ginger", "target": "sugar"}, {"value": 2.255892255892256, "source": "corn starch", "target": "oil"}, {"value": 2.255892255892256, "source": "oil", "target": "corn starch"}, {"value": 2.2727272727272725, "source": "salt", "target": "rice vinegar"}, {"value": 2.2727272727272725, "source": "rice vinegar", "target": "salt"}, {"value": 2.28956228956229, "source": "garlic cloves", "target": "sesame oil"}, {"value": 2.28956228956229, "source": "sugar", "target": "oyster sauce"}, {"value": 2.28956228956229, "source": "oyster sauce", "target": "sugar"}, {"value": 2.28956228956229, "source": "sesame oil", "target": "garlic cloves"}, {"value": 2.28956228956229, "source": "scallions", "target": "fresh ginger"}, {"value": 2.28956228956229, "source": "water", "target": "oil"}, {"value": 2.28956228956229, "source": "fresh ginger", "target": "scallions"}, {"value": 2.28956228956229, "source": "vegetable oil", "target": "scallions"}, {"value": 2.28956228956229, "source": "oil", "target": "water"}, {"value": 2.28956228956229, "source": "scallions", "target": "vegetable oil"}, {"value": 2.323232323232323, "source": "boneless skinless chicken breasts", "target": "corn starch"}, {"value": 2.323232323232323, "source": "soy sauce", "target": "Shaoxing wine"}, {"value": 2.323232323232323, "source": "Shaoxing wine", "target": "soy sauce"}, {"value": 2.323232323232323, "source": "corn starch", "target": "boneless skinless chicken breasts"}, {"value": 2.34006734006734, "source": "fresh ginger", "target": "water"}, {"value": 2.34006734006734, "source": "water", "target": "fresh ginger"}, {"value": 2.3905723905723906, "source": "salt", "target": "eggs"}, {"value": 2.3905723905723906, "source": "fresh ginger", "target": "green onions"}, {"value": 2.3905723905723906, "source": "green onions", "target": "fresh ginger"}, {"value": 2.3905723905723906, "source": "eggs", "target": "salt"}, {"value": 2.4242424242424243, "source": "sugar", "target": "Shaoxing wine"}, {"value": 2.4242424242424243, "source": "fresh ginger", "target": "salt"}, {"value": 2.4242424242424243, "source": "salt", "target": "fresh ginger"}, {"value": 2.4242424242424243, "source": "Shaoxing wine", "target": "sugar"}, {"value": 2.441077441077441, "source": "peanut oil", "target": "soy sauce"}, {"value": 2.441077441077441, "source": "honey", "target": "soy sauce"}, {"value": 2.441077441077441, "source": "soy sauce", "target": "honey"}, {"value": 2.441077441077441, "source": "soy sauce", "target": "peanut oil"}, {"value": 2.491582491582492, "source": "green onions", "target": "sugar"}, {"value": 2.491582491582492, "source": "sugar", "target": "green onions"}, {"value": 2.491582491582492, "source": "soy sauce", "target": "brown sugar"}, {"value": 2.491582491582492, "source": "brown sugar", "target": "soy sauce"}, {"value": 2.5252525252525255, "source": "garlic cloves", "target": "corn starch"}, {"value": 2.5252525252525255, "source": "corn starch", "target": "garlic cloves"}, {"value": 2.558922558922559, "source": "garlic", "target": "rice vinegar"}, {"value": 2.558922558922559, "source": "rice vinegar", "target": "garlic"}, {"value": 2.6262626262626263, "source": "vegetable oil", "target": "sugar"}, {"value": 2.6262626262626263, "source": "sugar", "target": "vegetable oil"}, {"value": 2.71043771043771, "source": "soy sauce", "target": "carrots"}, {"value": 2.71043771043771, "source": "carrots", "target": "soy sauce"}, {"value": 2.727272727272727, "source": "corn starch", "target": "oyster sauce"}, {"value": 2.727272727272727, "source": "oyster sauce", "target": "corn starch"}, {"value": 2.7777777777777777, "source": "water", "target": "ginger"}, {"value": 2.7777777777777777, "source": "ginger", "target": "water"}, {"value": 2.8114478114478114, "source": "garlic", "target": "fresh ginger"}, {"value": 2.8114478114478114, "source": "green onions", "target": "vegetable oil"}, {"value": 2.8114478114478114, "source": "vegetable oil", "target": "green onions"}, {"value": 2.8114478114478114, "source": "fresh ginger", "target": "garlic"}, {"value": 2.845117845117845, "source": "ginger", "target": "scallions"}, {"value": 2.845117845117845, "source": "scallions", "target": "ginger"}, {"value": 2.8619528619528616, "source": "oyster sauce", "target": "sesame oil"}, {"value": 2.8619528619528616, "source": "sesame oil", "target": "oyster sauce"}, {"value": 2.878787878787879, "source": "onions", "target": "soy sauce"}, {"value": 2.878787878787879, "source": "soy sauce", "target": "onions"}, {"value": 2.8956228956228958, "source": "water", "target": "vegetable oil"}, {"value": 2.8956228956228958, "source": "vegetable oil", "target": "water"}, {"value": 2.9124579124579126, "source": "ginger", "target": "sugar"}, {"value": 2.9124579124579126, "source": "sugar", "target": "ginger"}, {"value": 2.9124579124579126, "source": "eggs", "target": "soy sauce"}, {"value": 2.9124579124579126, "source": "garlic", "target": "vegetable oil"}, {"value": 2.9124579124579126, "source": "vegetable oil", "target": "garlic"}, {"value": 2.9124579124579126, "source": "soy sauce", "target": "eggs"}, {"value": 2.929292929292929, "source": "scallions", "target": "water"}, {"value": 2.929292929292929, "source": "water", "target": "scallions"}, {"value": 2.946127946127946, "source": "ginger", "target": "salt"}, {"value": 2.946127946127946, "source": "sugar", "target": "oil"}, {"value": 2.946127946127946, "source": "salt", "target": "ginger"}, {"value": 2.946127946127946, "source": "oil", "target": "sugar"}, {"value": 2.9797979797979797, "source": "sesame oil", "target": "vegetable oil"}, {"value": 2.9797979797979797, "source": "vegetable oil", "target": "sesame oil"}, {"value": 3.013468013468014, "source": "oil", "target": "salt"}, {"value": 3.013468013468014, "source": "salt", "target": "oil"}, {"value": 3.0303030303030303, "source": "ginger", "target": "corn starch"}, {"value": 3.0303030303030303, "source": "corn starch", "target": "ginger"}, {"value": 3.047138047138047, "source": "fresh ginger", "target": "sesame oil"}, {"value": 3.047138047138047, "source": "sesame oil", "target": "fresh ginger"}, {"value": 3.1144781144781146, "source": "scallions", "target": "garlic"}, {"value": 3.1144781144781146, "source": "garlic", "target": "scallions"}, {"value": 3.1481481481481484, "source": "oyster sauce", "target": "soy sauce"}, {"value": 3.1481481481481484, "source": "soy sauce", "target": "oyster sauce"}, {"value": 3.1986531986531985, "source": "fresh ginger", "target": "corn starch"}, {"value": 3.1986531986531985, "source": "corn starch", "target": "fresh ginger"}, {"value": 3.249158249158249, "source": "soy sauce", "target": "hoisin sauce"}, {"value": 3.249158249158249, "source": "hoisin sauce", "target": "soy sauce"}, {"value": 3.265993265993266, "source": "sesame oil", "target": "rice vinegar"}, {"value": 3.265993265993266, "source": "rice vinegar", "target": "sesame oil"}, {"value": 3.3164983164983166, "source": "soy sauce", "target": "oil"}, {"value": 3.3164983164983166, "source": "oil", "target": "soy sauce"}, {"value": 3.333333333333333, "source": "salt", "target": "vegetable oil"}, {"value": 3.333333333333333, "source": "vegetable oil", "target": "salt"}, {"value": 3.367003367003367, "source": "soy sauce", "target": "garlic cloves"}, {"value": 3.367003367003367, "source": "garlic cloves", "target": "soy sauce"}, {"value": 3.367003367003367, "source": "green onions", "target": "water"}, {"value": 3.367003367003367, "source": "water", "target": "green onions"}, {"value": 3.4848484848484853, "source": "scallions", "target": "salt"}, {"value": 3.4848484848484853, "source": "salt", "target": "scallions"}, {"value": 3.4848484848484853, "source": "garlic", "target": "green onions"}, {"value": 3.4848484848484853, "source": "green onions", "target": "garlic"}, {"value": 3.5016835016835017, "source": "corn starch", "target": "rice vinegar"}, {"value": 3.5016835016835017, "source": "rice vinegar", "target": "corn starch"}, {"value": 3.67003367003367, "source": "green onions", "target": "salt"}, {"value": 3.67003367003367, "source": "salt", "target": "green onions"}, {"value": 3.686868686868687, "source": "sesame oil", "target": "ginger"}, {"value": 3.686868686868687, "source": "ginger", "target": "sesame oil"}, {"value": 3.7373737373737375, "source": "water", "target": "garlic"}, {"value": 3.7373737373737375, "source": "garlic", "target": "water"}, {"value": 3.956228956228956, "source": "scallions", "target": "corn starch"}, {"value": 3.956228956228956, "source": "corn starch", "target": "scallions"}, {"value": 4.006734006734007, "source": "garlic", "target": "sugar"}, {"value": 4.006734006734007, "source": "sugar", "target": "garlic"}, {"value": 4.040404040404041, "source": "garlic", "target": "ginger"}, {"value": 4.040404040404041, "source": "ginger", "target": "garlic"}, {"value": 4.141414141414142, "source": "sugar", "target": "scallions"}, {"value": 4.141414141414142, "source": "scallions", "target": "sugar"}, {"value": 4.158249158249158, "source": "salt", "target": "garlic"}, {"value": 4.158249158249158, "source": "garlic", "target": "salt"}, {"value": 4.175084175084175, "source": "corn starch", "target": "green onions"}, {"value": 4.175084175084175, "source": "green onions", "target": "corn starch"}, {"value": 4.30976430976431, "source": "sesame oil", "target": "green onions"}, {"value": 4.30976430976431, "source": "green onions", "target": "sesame oil"}, {"value": 4.393939393939394, "source": "scallions", "target": "sesame oil"}, {"value": 4.393939393939394, "source": "sesame oil", "target": "scallions"}, {"value": 4.444444444444445, "source": "fresh ginger", "target": "soy sauce"}, {"value": 4.444444444444445, "source": "soy sauce", "target": "fresh ginger"}, {"value": 4.545454545454545, "source": "vegetable oil", "target": "corn starch"}, {"value": 4.545454545454545, "source": "corn starch", "target": "vegetable oil"}, {"value": 4.6632996632996635, "source": "water", "target": "sugar"}, {"value": 4.6632996632996635, "source": "sugar", "target": "water"}, {"value": 4.730639730639731, "source": "sesame oil", "target": "water"}, {"value": 4.730639730639731, "source": "water", "target": "sesame oil"}, {"value": 4.848484848484849, "source": "rice vinegar", "target": "soy sauce"}, {"value": 4.848484848484849, "source": "soy sauce", "target": "rice vinegar"}, {"value": 4.882154882154882, "source": "ginger", "target": "soy sauce"}, {"value": 4.882154882154882, "source": "soy sauce", "target": "ginger"}, {"value": 5.134680134680135, "source": "water", "target": "salt"}, {"value": 5.134680134680135, "source": "salt", "target": "water"}, {"value": 5.269360269360269, "source": "garlic", "target": "corn starch"}, {"value": 5.269360269360269, "source": "corn starch", "target": "garlic"}, {"value": 5.303030303030303, "source": "salt", "target": "corn starch"}, {"value": 5.303030303030303, "source": "corn starch", "target": "salt"}, {"value": 5.31986531986532, "source": "sesame oil", "target": "garlic"}, {"value": 5.31986531986532, "source": "garlic", "target": "sesame oil"}, {"value": 5.538720538720538, "source": "vegetable oil", "target": "soy sauce"}, {"value": 5.538720538720538, "source": "soy sauce", "target": "vegetable oil"}, {"value": 5.572390572390572, "source": "sesame oil", "target": "salt"}, {"value": 5.572390572390572, "source": "salt", "target": "sesame oil"}, {"value": 5.589225589225589, "source": "sesame oil", "target": "sugar"}, {"value": 5.589225589225589, "source": "sugar", "target": "sesame oil"}, {"value": 5.757575757575758, "source": "corn starch", "target": "sesame oil"}, {"value": 5.757575757575758, "source": "sesame oil", "target": "corn starch"}, {"value": 5.824915824915825, "source": "sugar", "target": "salt"}, {"value": 5.824915824915825, "source": "salt", "target": "sugar"}, {"value": 5.925925925925926, "source": "scallions", "target": "soy sauce"}, {"value": 5.925925925925926, "source": "sugar", "target": "corn starch"}, {"value": 5.925925925925926, "source": "corn starch", "target": "sugar"}, {"value": 5.925925925925926, "source": "soy sauce", "target": "scallions"}, {"value": 6.043771043771043, "source": "green onions", "target": "soy sauce"}, {"value": 6.043771043771043, "source": "water", "target": "corn starch"}, {"value": 6.043771043771043, "source": "corn starch", "target": "water"}, {"value": 6.043771043771043, "source": "soy sauce", "target": "green onions"}, {"value": 6.750841750841751, "source": "water", "target": "soy sauce"}, {"value": 6.750841750841751, "source": "soy sauce", "target": "water"}, {"value": 7.34006734006734, "source": "salt", "target": "soy sauce"}, {"value": 7.34006734006734, "source": "soy sauce", "target": "salt"}, {"value": 7.811447811447811, "source": "sugar", "target": "soy sauce"}, {"value": 7.811447811447811, "source": "soy sauce", "target": "sugar"}, {"value": 8.181818181818182, "source": "garlic", "target": "soy sauce"}, {"value": 8.181818181818182, "source": "soy sauce", "target": "garlic"}, {"value": 8.98989898989899, "source": "corn starch", "target": "soy sauce"}, {"value": 8.98989898989899, "source": "soy sauce", "target": "corn starch"}, {"value": 10.0, "source": "sesame oil", "target": "soy sauce"}, {"value": 10.0, "source": "soy sauce", "target": "sesame oil"}], "nodes": [{"id": "corn starch", "group": 1, "appearances": 906}, {"id": "shiitake", "group": 4, "appearances": 106}, {"id": "kosher salt", "group": 3, "appearances": 185}, {"id": "vegetable oil", "group": 5, "appearances": 602}, {"id": "oil", "group": 5, "appearances": 338}, {"id": "light soy sauce", "group": 3, "appearances": 254}, {"id": "sesame oil", "group": 5, "appearances": 915}, {"id": "black pepper", "group": 3, "appearances": 121}, {"id": "chicken breasts", "group": 2, "appearances": 111}, {"id": "garlic", "group": 3, "appearances": 763}, {"id": "brown sugar", "group": 1, "appearances": 235}, {"id": "soy sauce", "group": 3, "appearances": 1363}, {"id": "green onions", "group": 4, "appearances": 628}, {"id": "toasted sesame oil", "group": 5, "appearances": 164}, {"id": "ginger", "group": 4, "appearances": 490}, {"id": "peanut oil", "group": 5, "appearances": 280}, {"id": "red bell pepper", "group": 4, "appearances": 157}, {"id": "oyster sauce", "group": 3, "appearances": 333}, {"id": "sauce", "group": 3, "appearances": 76}, {"id": "sugar", "group": 0, "appearances": 824}, {"id": "sesame seeds", "group": 3, "appearances": 162}, {"id": "fresh ginger", "group": 4, "appearances": 469}, {"id": "honey", "group": 3, "appearances": 241}, {"id": "low sodium soy sauce", "group": 3, "appearances": 213}, {"id": "water", "group": 5, "appearances": 762}, {"id": "scallions", "group": 4, "appearances": 591}, {"id": "cooking oil", "group": 5, "appearances": 111}, {"id": "garlic cloves", "group": 3, "appearances": 421}, {"id": "Sriracha", "group": 3, "appearances": 90}, {"id": "pepper", "group": 3, "appearances": 158}, {"id": "beansprouts", "group": 4, "appearances": 109}, {"id": "star anise", "group": 3, "appearances": 103}, {"id": "rice vinegar", "group": 5, "appearances": 461}, {"id": "wonton wrappers", "group": 1, "appearances": 101}, {"id": "chinese rice wine", "group": 5, "appearances": 126}, {"id": "white pepper", "group": 3, "appearances": 222}, {"id": "minced garlic", "group": 3, "appearances": 212}, {"id": "flour", "group": 1, "appearances": 93}, {"id": "red chili peppers", "group": 4, "appearances": 137}, {"id": "canola oil", "group": 5, "appearances": 177}, {"id": "snow peas", "group": 4, "appearances": 98}, {"id": "ground black pepper", "group": 3, "appearances": 153}, {"id": "salt", "group": 3, "appearances": 907}, {"id": "ground white pepper", "group": 3, "appearances": 124}, {"id": "white sugar", "group": 5, "appearances": 102}, {"id": "onions", "group": 4, "appearances": 280}, {"id": "flank steak", "group": 2, "appearances": 72}, {"id": "Shaoxing wine", "group": 5, "appearances": 247}, {"id": "carrots", "group": 4, "appearances": 298}, {"id": "rice wine", "group": 5, "appearances": 135}, {"id": "large eggs", "group": 0, "appearances": 145}, {"id": "all-purpose flour", "group": 1, "appearances": 129}, {"id": "boneless skinless chicken breasts", "group": 2, "appearances": 198}, {"id": "cold water", "group": 5, "appearances": 91}, {"id": "eggs", "group": 0, "appearances": 288}, {"id": "spring onions", "group": 4, "appearances": 148}, {"id": "dark soy sauce", "group": 3, "appearances": 230}, {"id": "chicken stock", "group": 5, "appearances": 161}, {"id": "peeled fresh ginger", "group": 4, "appearances": 182}, {"id": "chicken broth", "group": 5, "appearances": 165}, {"id": "fresh ginger root", "group": 4, "appearances": 96}, {"id": "red pepper flakes", "group": 3, "appearances": 98}, {"id": "water chestnuts", "group": 4, "appearances": 143}, {"id": "chinese five-spice powder", "group": 3, "appearances": 223}, {"id": "ground pork", "group": 2, "appearances": 179}, {"id": "hoisin sauce", "group": 3, "appearances": 323}, {"id": "napa cabbage", "group": 4, "appearances": 84}, {"id": "shrimp", "group": 2, "appearances": 119}, {"id": "szechwan peppercorns", "group": 3, "appearances": 134}, {"id": "ketchup", "group": 3, "appearances": 110}, {"id": "dry sherry", "group": 5, "appearances": 129}, {"id": "ground ginger", "group": 3, "appearances": 111}, {"id": "olive oil", "group": 5, "appearances": 135}]}
+{
+  "links": [{
+    "value": 0.8585858585858586,
+    "source": "corn starch",
+    "target": "chicken breasts"
+  }, {
+    "value": 0.8585858585858586,
+    "source": "shiitake",
+    "target": "sesame oil"
+  }, {
+    "value": 0.8585858585858586,
+    "source": "kosher salt",
+    "target": "vegetable oil"
+  }, {
+    "value": 0.8585858585858586,
+    "source": "vegetable oil",
+    "target": "kosher salt"
+  }, {
+    "value": 0.8585858585858586,
+    "source": "oil",
+    "target": "light soy sauce"
+  }, {
+    "value": 0.8585858585858586,
+    "source": "corn starch",
+    "target": "black pepper"
+  }, {
+    "value": 0.8585858585858586,
+    "source": "light soy sauce",
+    "target": "oil"
+  }, {
+    "value": 0.8585858585858586,
+    "source": "sesame oil",
+    "target": "shiitake"
+  }, {
+    "value": 0.8585858585858586,
+    "source": "black pepper",
+    "target": "corn starch"
+  }, {
+    "value": 0.8585858585858586,
+    "source": "chicken breasts",
+    "target": "corn starch"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "garlic",
+    "target": "low sodium soy sauce"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "brown sugar",
+    "target": "ginger"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "light soy sauce",
+    "target": "garlic cloves"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "soy sauce",
+    "target": "Sriracha"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "green onions",
+    "target": "light soy sauce"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "toasted sesame oil",
+    "target": "fresh ginger"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "light soy sauce",
+    "target": "oyster sauce"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "ginger",
+    "target": "brown sugar"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "corn starch",
+    "target": "cooking oil"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "green onions",
+    "target": "red bell pepper"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "garlic",
+    "target": "pepper"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "soy sauce",
+    "target": "sauce"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "peanut oil",
+    "target": "ginger"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "green onions",
+    "target": "sesame seeds"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "red bell pepper",
+    "target": "green onions"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "light soy sauce",
+    "target": "scallions"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "light soy sauce",
+    "target": "green onions"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "oyster sauce",
+    "target": "light soy sauce"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "sauce",
+    "target": "soy sauce"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "sugar",
+    "target": "cooking oil"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "sesame seeds",
+    "target": "green onions"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "fresh ginger",
+    "target": "toasted sesame oil"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "honey",
+    "target": "water"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "low sodium soy sauce",
+    "target": "garlic"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "water",
+    "target": "honey"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "scallions",
+    "target": "light soy sauce"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "ginger",
+    "target": "peanut oil"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "cooking oil",
+    "target": "sugar"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "garlic cloves",
+    "target": "light soy sauce"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "Sriracha",
+    "target": "soy sauce"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "pepper",
+    "target": "garlic"
+  }, {
+    "value": 0.8754208754208754,
+    "source": "cooking oil",
+    "target": "corn starch"
+  }, {
+    "value": 0.8922558922558922,
+    "source": "sesame oil",
+    "target": "beansprouts"
+  }, {
+    "value": 0.8922558922558922,
+    "source": "beansprouts",
+    "target": "sesame oil"
+  }, {
+    "value": 0.8922558922558922,
+    "source": "soy sauce",
+    "target": "wonton wrappers"
+  }, {
+    "value": 0.8922558922558922,
+    "source": "sesame seeds",
+    "target": "rice vinegar"
+  }, {
+    "value": 0.8922558922558922,
+    "source": "star anise",
+    "target": "soy sauce"
+  }, {
+    "value": 0.8922558922558922,
+    "source": "soy sauce",
+    "target": "star anise"
+  }, {
+    "value": 0.8922558922558922,
+    "source": "garlic",
+    "target": "red bell pepper"
+  }, {
+    "value": 0.8922558922558922,
+    "source": "rice vinegar",
+    "target": "sesame seeds"
+  }, {
+    "value": 0.8922558922558922,
+    "source": "wonton wrappers",
+    "target": "soy sauce"
+  }, {
+    "value": 0.8922558922558922,
+    "source": "chinese rice wine",
+    "target": "sugar"
+  }, {
+    "value": 0.8922558922558922,
+    "source": "sugar",
+    "target": "chinese rice wine"
+  }, {
+    "value": 0.8922558922558922,
+    "source": "rice vinegar",
+    "target": "minced garlic"
+  }, {
+    "value": 0.8922558922558922,
+    "source": "green onions",
+    "target": "white pepper"
+  }, {
+    "value": 0.8922558922558922,
+    "source": "red bell pepper",
+    "target": "garlic"
+  }, {
+    "value": 0.8922558922558922,
+    "source": "white pepper",
+    "target": "green onions"
+  }, {
+    "value": 0.8922558922558922,
+    "source": "minced garlic",
+    "target": "rice vinegar"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "vegetable oil",
+    "target": "minced garlic"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "peanut oil",
+    "target": "fresh ginger"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "scallions",
+    "target": "minced garlic"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "sesame seeds",
+    "target": "garlic"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "fresh ginger",
+    "target": "peanut oil"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "flour",
+    "target": "salt"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "fresh ginger",
+    "target": "canola oil"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "red chili peppers",
+    "target": "sesame oil"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "canola oil",
+    "target": "fresh ginger"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "sesame seeds",
+    "target": "corn starch"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "sesame oil",
+    "target": "red chili peppers"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "garlic",
+    "target": "ground black pepper"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "snow peas",
+    "target": "soy sauce"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "rice vinegar",
+    "target": "canola oil"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "garlic",
+    "target": "sesame seeds"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "ground black pepper",
+    "target": "garlic"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "minced garlic",
+    "target": "scallions"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "salt",
+    "target": "flour"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "soy sauce",
+    "target": "snow peas"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "corn starch",
+    "target": "sesame seeds"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "minced garlic",
+    "target": "vegetable oil"
+  }, {
+    "value": 0.9090909090909092,
+    "source": "canola oil",
+    "target": "rice vinegar"
+  }, {
+    "value": 0.9259259259259258,
+    "source": "oyster sauce",
+    "target": "Shaoxing wine"
+  }, {
+    "value": 0.9259259259259258,
+    "source": "ground white pepper",
+    "target": "sugar"
+  }, {
+    "value": 0.9259259259259258,
+    "source": "white sugar",
+    "target": "soy sauce"
+  }, {
+    "value": 0.9259259259259258,
+    "source": "onions",
+    "target": "carrots"
+  }, {
+    "value": 0.9259259259259258,
+    "source": "flank steak",
+    "target": "corn starch"
+  }, {
+    "value": 0.9259259259259258,
+    "source": "ginger",
+    "target": "white pepper"
+  }, {
+    "value": 0.9259259259259258,
+    "source": "Shaoxing wine",
+    "target": "oyster sauce"
+  }, {
+    "value": 0.9259259259259258,
+    "source": "sesame oil",
+    "target": "canola oil"
+  }, {
+    "value": 0.9259259259259258,
+    "source": "corn starch",
+    "target": "flank steak"
+  }, {
+    "value": 0.9259259259259258,
+    "source": "white pepper",
+    "target": "ginger"
+  }, {
+    "value": 0.9259259259259258,
+    "source": "sugar",
+    "target": "ground white pepper"
+  }, {
+    "value": 0.9259259259259258,
+    "source": "canola oil",
+    "target": "sesame oil"
+  }, {
+    "value": 0.9259259259259258,
+    "source": "corn starch",
+    "target": "pepper"
+  }, {
+    "value": 0.9259259259259258,
+    "source": "corn starch",
+    "target": "ground black pepper"
+  }, {
+    "value": 0.9259259259259258,
+    "source": "pepper",
+    "target": "corn starch"
+  }, {
+    "value": 0.9259259259259258,
+    "source": "ground black pepper",
+    "target": "corn starch"
+  }, {
+    "value": 0.9259259259259258,
+    "source": "soy sauce",
+    "target": "white sugar"
+  }, {
+    "value": 0.9259259259259258,
+    "source": "carrots",
+    "target": "onions"
+  }, {
+    "value": 0.9259259259259258,
+    "source": "sesame oil",
+    "target": "rice wine"
+  }, {
+    "value": 0.9259259259259258,
+    "source": "rice wine",
+    "target": "sesame oil"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "Shaoxing wine",
+    "target": "white pepper"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "oil",
+    "target": "eggs"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "vegetable oil",
+    "target": "light soy sauce"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "red bell pepper",
+    "target": "sesame oil"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "soy sauce",
+    "target": "all-purpose flour"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "fresh ginger",
+    "target": "carrots"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "light soy sauce",
+    "target": "vegetable oil"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "minced garlic",
+    "target": "fresh ginger"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "corn starch",
+    "target": "cold water"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "large eggs",
+    "target": "corn starch"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "corn starch",
+    "target": "chinese rice wine"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "sesame oil",
+    "target": "red bell pepper"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "all-purpose flour",
+    "target": "soy sauce"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "corn starch",
+    "target": "large eggs"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "toasted sesame oil",
+    "target": "corn starch"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "boneless skinless chicken breasts",
+    "target": "vegetable oil"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "cold water",
+    "target": "corn starch"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "white pepper",
+    "target": "Shaoxing wine"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "carrots",
+    "target": "fresh ginger"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "ginger",
+    "target": "dark soy sauce"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "sesame oil",
+    "target": "spring onions"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "corn starch",
+    "target": "toasted sesame oil"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "oil",
+    "target": "oyster sauce"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "chinese rice wine",
+    "target": "corn starch"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "eggs",
+    "target": "oil"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "fresh ginger",
+    "target": "minced garlic"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "spring onions",
+    "target": "sesame oil"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "oyster sauce",
+    "target": "oil"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "vegetable oil",
+    "target": "boneless skinless chicken breasts"
+  }, {
+    "value": 0.9427609427609428,
+    "source": "dark soy sauce",
+    "target": "ginger"
+  }, {
+    "value": 0.9595959595959596,
+    "source": "flour",
+    "target": "soy sauce"
+  }, {
+    "value": 0.9595959595959596,
+    "source": "oyster sauce",
+    "target": "fresh ginger"
+  }, {
+    "value": 0.9595959595959596,
+    "source": "canola oil",
+    "target": "garlic"
+  }, {
+    "value": 0.9595959595959596,
+    "source": "salt",
+    "target": "canola oil"
+  }, {
+    "value": 0.9595959595959596,
+    "source": "green onions",
+    "target": "chicken broth"
+  }, {
+    "value": 0.9595959595959596,
+    "source": "chicken stock",
+    "target": "salt"
+  }, {
+    "value": 0.9595959595959596,
+    "source": "onions",
+    "target": "ginger"
+  }, {
+    "value": 0.9595959595959596,
+    "source": "ginger",
+    "target": "onions"
+  }, {
+    "value": 0.9595959595959596,
+    "source": "shiitake",
+    "target": "soy sauce"
+  }, {
+    "value": 0.9595959595959596,
+    "source": "peeled fresh ginger",
+    "target": "green onions"
+  }, {
+    "value": 0.9595959595959596,
+    "source": "canola oil",
+    "target": "salt"
+  }, {
+    "value": 0.9595959595959596,
+    "source": "chicken broth",
+    "target": "green onions"
+  }, {
+    "value": 0.9595959595959596,
+    "source": "soy sauce",
+    "target": "fresh ginger root"
+  }, {
+    "value": 0.9595959595959596,
+    "source": "salt",
+    "target": "chicken stock"
+  }, {
+    "value": 0.9595959595959596,
+    "source": "garlic",
+    "target": "canola oil"
+  }, {
+    "value": 0.9595959595959596,
+    "source": "soy sauce",
+    "target": "flour"
+  }, {
+    "value": 0.9595959595959596,
+    "source": "green onions",
+    "target": "peeled fresh ginger"
+  }, {
+    "value": 0.9595959595959596,
+    "source": "fresh ginger root",
+    "target": "soy sauce"
+  }, {
+    "value": 0.9595959595959596,
+    "source": "soy sauce",
+    "target": "shiitake"
+  }, {
+    "value": 0.9595959595959596,
+    "source": "fresh ginger",
+    "target": "oyster sauce"
+  }, {
+    "value": 0.9764309764309764,
+    "source": "minced garlic",
+    "target": "green onions"
+  }, {
+    "value": 0.9764309764309764,
+    "source": "sesame oil",
+    "target": "wonton wrappers"
+  }, {
+    "value": 0.9764309764309764,
+    "source": "sugar",
+    "target": "boneless skinless chicken breasts"
+  }, {
+    "value": 0.9764309764309764,
+    "source": "wonton wrappers",
+    "target": "sesame oil"
+  }, {
+    "value": 0.9764309764309764,
+    "source": "red pepper flakes",
+    "target": "corn starch"
+  }, {
+    "value": 0.9764309764309764,
+    "source": "peeled fresh ginger",
+    "target": "corn starch"
+  }, {
+    "value": 0.9764309764309764,
+    "source": "boneless skinless chicken breasts",
+    "target": "sugar"
+  }, {
+    "value": 0.9764309764309764,
+    "source": "all-purpose flour",
+    "target": "water"
+  }, {
+    "value": 0.9764309764309764,
+    "source": "corn starch",
+    "target": "red pepper flakes"
+  }, {
+    "value": 0.9764309764309764,
+    "source": "corn starch",
+    "target": "peeled fresh ginger"
+  }, {
+    "value": 0.9764309764309764,
+    "source": "green onions",
+    "target": "minced garlic"
+  }, {
+    "value": 0.9764309764309764,
+    "source": "water",
+    "target": "all-purpose flour"
+  }, {
+    "value": 0.9932659932659933,
+    "source": "peeled fresh ginger",
+    "target": "sesame oil"
+  }, {
+    "value": 0.9932659932659933,
+    "source": "peeled fresh ginger",
+    "target": "water"
+  }, {
+    "value": 0.9932659932659933,
+    "source": "salt",
+    "target": "water chestnuts"
+  }, {
+    "value": 0.9932659932659933,
+    "source": "water chestnuts",
+    "target": "salt"
+  }, {
+    "value": 0.9932659932659933,
+    "source": "sugar",
+    "target": "rice wine"
+  }, {
+    "value": 0.9932659932659933,
+    "source": "oil",
+    "target": "dark soy sauce"
+  }, {
+    "value": 0.9932659932659933,
+    "source": "sugar",
+    "target": "chinese five-spice powder"
+  }, {
+    "value": 0.9932659932659933,
+    "source": "green onions",
+    "target": "boneless skinless chicken breasts"
+  }, {
+    "value": 0.9932659932659933,
+    "source": "spring onions",
+    "target": "salt"
+  }, {
+    "value": 0.9932659932659933,
+    "source": "rice wine",
+    "target": "sugar"
+  }, {
+    "value": 0.9932659932659933,
+    "source": "water",
+    "target": "peeled fresh ginger"
+  }, {
+    "value": 0.9932659932659933,
+    "source": "boneless skinless chicken breasts",
+    "target": "green onions"
+  }, {
+    "value": 0.9932659932659933,
+    "source": "chinese five-spice powder",
+    "target": "sugar"
+  }, {
+    "value": 0.9932659932659933,
+    "source": "sesame oil",
+    "target": "peeled fresh ginger"
+  }, {
+    "value": 0.9932659932659933,
+    "source": "soy sauce",
+    "target": "cold water"
+  }, {
+    "value": 0.9932659932659933,
+    "source": "dark soy sauce",
+    "target": "oil"
+  }, {
+    "value": 0.9932659932659933,
+    "source": "salt",
+    "target": "spring onions"
+  }, {
+    "value": 0.9932659932659933,
+    "source": "cold water",
+    "target": "soy sauce"
+  }, {
+    "value": 1.0101010101010102,
+    "source": "rice wine",
+    "target": "corn starch"
+  }, {
+    "value": 1.0101010101010102,
+    "source": "cooking oil",
+    "target": "salt"
+  }, {
+    "value": 1.0101010101010102,
+    "source": "red chili peppers",
+    "target": "sugar"
+  }, {
+    "value": 1.0101010101010102,
+    "source": "sesame oil",
+    "target": "water chestnuts"
+  }, {
+    "value": 1.0101010101010102,
+    "source": "light soy sauce",
+    "target": "Shaoxing wine"
+  }, {
+    "value": 1.0101010101010102,
+    "source": "water chestnuts",
+    "target": "sesame oil"
+  }, {
+    "value": 1.0101010101010102,
+    "source": "corn starch",
+    "target": "ground pork"
+  }, {
+    "value": 1.0101010101010102,
+    "source": "salt",
+    "target": "cooking oil"
+  }, {
+    "value": 1.0101010101010102,
+    "source": "ground pork",
+    "target": "corn starch"
+  }, {
+    "value": 1.0101010101010102,
+    "source": "sugar",
+    "target": "red chili peppers"
+  }, {
+    "value": 1.0101010101010102,
+    "source": "Shaoxing wine",
+    "target": "light soy sauce"
+  }, {
+    "value": 1.0101010101010102,
+    "source": "corn starch",
+    "target": "rice wine"
+  }, {
+    "value": 1.026936026936027,
+    "source": "salt",
+    "target": "peeled fresh ginger"
+  }, {
+    "value": 1.026936026936027,
+    "source": "scallions",
+    "target": "hoisin sauce"
+  }, {
+    "value": 1.026936026936027,
+    "source": "garlic",
+    "target": "chicken broth"
+  }, {
+    "value": 1.026936026936027,
+    "source": "white pepper",
+    "target": "oyster sauce"
+  }, {
+    "value": 1.026936026936027,
+    "source": "hoisin sauce",
+    "target": "scallions"
+  }, {
+    "value": 1.026936026936027,
+    "source": "peeled fresh ginger",
+    "target": "sugar"
+  }, {
+    "value": 1.026936026936027,
+    "source": "honey",
+    "target": "green onions"
+  }, {
+    "value": 1.026936026936027,
+    "source": "green onions",
+    "target": "honey"
+  }, {
+    "value": 1.026936026936027,
+    "source": "oyster sauce",
+    "target": "white pepper"
+  }, {
+    "value": 1.026936026936027,
+    "source": "chicken broth",
+    "target": "garlic"
+  }, {
+    "value": 1.026936026936027,
+    "source": "sugar",
+    "target": "peeled fresh ginger"
+  }, {
+    "value": 1.026936026936027,
+    "source": "peeled fresh ginger",
+    "target": "salt"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "napa cabbage",
+    "target": "soy sauce"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "scallions",
+    "target": "ground pork"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "salt",
+    "target": "brown sugar"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "ground pork",
+    "target": "garlic"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "garlic",
+    "target": "ground pork"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "sesame oil",
+    "target": "ground black pepper"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "kosher salt",
+    "target": "garlic"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "ground pork",
+    "target": "scallions"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "chicken breasts",
+    "target": "soy sauce"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "vegetable oil",
+    "target": "carrots"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "soy sauce",
+    "target": "dark soy sauce"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "eggs",
+    "target": "vegetable oil"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "ground white pepper",
+    "target": "salt"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "salt",
+    "target": "ground white pepper"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "soy sauce",
+    "target": "napa cabbage"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "ground black pepper",
+    "target": "sesame oil"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "brown sugar",
+    "target": "salt"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "soy sauce",
+    "target": "chicken breasts"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "vegetable oil",
+    "target": "eggs"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "dark soy sauce",
+    "target": "soy sauce"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "garlic",
+    "target": "kosher salt"
+  }, {
+    "value": 1.0437710437710437,
+    "source": "carrots",
+    "target": "vegetable oil"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "salt",
+    "target": "low sodium soy sauce"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "soy sauce",
+    "target": "shrimp"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "onions",
+    "target": "sugar"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "sugar",
+    "target": "ground pork"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "ground pork",
+    "target": "sugar"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "green onions",
+    "target": "oil"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "fresh ginger",
+    "target": "hoisin sauce"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "salt",
+    "target": "chicken broth"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "sesame oil",
+    "target": "ground white pepper"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "oil",
+    "target": "green onions"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "ground black pepper",
+    "target": "salt"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "large eggs",
+    "target": "salt"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "low sodium soy sauce",
+    "target": "salt"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "chicken broth",
+    "target": "salt"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "shrimp",
+    "target": "soy sauce"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "hoisin sauce",
+    "target": "fresh ginger"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "salt",
+    "target": "large eggs"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "szechwan peppercorns",
+    "target": "soy sauce"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "low sodium soy sauce",
+    "target": "rice vinegar"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "ground white pepper",
+    "target": "sesame oil"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "rice vinegar",
+    "target": "low sodium soy sauce"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "soy sauce",
+    "target": "szechwan peppercorns"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "salt",
+    "target": "ground black pepper"
+  }, {
+    "value": 1.0606060606060606,
+    "source": "sugar",
+    "target": "onions"
+  }, {
+    "value": 1.0774410774410774,
+    "source": "sesame oil",
+    "target": "shrimp"
+  }, {
+    "value": 1.0774410774410774,
+    "source": "rice vinegar",
+    "target": "honey"
+  }, {
+    "value": 1.0774410774410774,
+    "source": "shrimp",
+    "target": "sesame oil"
+  }, {
+    "value": 1.0774410774410774,
+    "source": "low sodium soy sauce",
+    "target": "peeled fresh ginger"
+  }, {
+    "value": 1.0774410774410774,
+    "source": "honey",
+    "target": "rice vinegar"
+  }, {
+    "value": 1.0774410774410774,
+    "source": "peeled fresh ginger",
+    "target": "low sodium soy sauce"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "corn starch",
+    "target": "ketchup"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "boneless skinless chicken breasts",
+    "target": "rice vinegar"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "hoisin sauce",
+    "target": "ginger"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "cooking oil",
+    "target": "soy sauce"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "green onions",
+    "target": "ground pork"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "rice vinegar",
+    "target": "boneless skinless chicken breasts"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "chinese five-spice powder",
+    "target": "honey"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "minced garlic",
+    "target": "salt"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "soy sauce",
+    "target": "cooking oil"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "ketchup",
+    "target": "corn starch"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "green onions",
+    "target": "peanut oil"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "salt",
+    "target": "all-purpose flour"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "water",
+    "target": "peanut oil"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "all-purpose flour",
+    "target": "salt"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "ginger",
+    "target": "hoisin sauce"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "water",
+    "target": "low sodium soy sauce"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "salt",
+    "target": "minced garlic"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "red chili peppers",
+    "target": "garlic"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "peanut oil",
+    "target": "water"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "low sodium soy sauce",
+    "target": "water"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "honey",
+    "target": "chinese five-spice powder"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "ground pork",
+    "target": "green onions"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "garlic",
+    "target": "red chili peppers"
+  }, {
+    "value": 1.0942760942760943,
+    "source": "peanut oil",
+    "target": "green onions"
+  }, {
+    "value": 1.1111111111111112,
+    "source": "corn starch",
+    "target": "honey"
+  }, {
+    "value": 1.1111111111111112,
+    "source": "spring onions",
+    "target": "soy sauce"
+  }, {
+    "value": 1.1111111111111112,
+    "source": "soy sauce",
+    "target": "ketchup"
+  }, {
+    "value": 1.1111111111111112,
+    "source": "scallions",
+    "target": "white pepper"
+  }, {
+    "value": 1.1111111111111112,
+    "source": "garlic",
+    "target": "toasted sesame oil"
+  }, {
+    "value": 1.1111111111111112,
+    "source": "honey",
+    "target": "corn starch"
+  }, {
+    "value": 1.1111111111111112,
+    "source": "soy sauce",
+    "target": "spring onions"
+  }, {
+    "value": 1.1111111111111112,
+    "source": "corn starch",
+    "target": "ground white pepper"
+  }, {
+    "value": 1.1111111111111112,
+    "source": "ground white pepper",
+    "target": "corn starch"
+  }, {
+    "value": 1.1111111111111112,
+    "source": "ground white pepper",
+    "target": "soy sauce"
+  }, {
+    "value": 1.1111111111111112,
+    "source": "toasted sesame oil",
+    "target": "scallions"
+  }, {
+    "value": 1.1111111111111112,
+    "source": "toasted sesame oil",
+    "target": "garlic"
+  }, {
+    "value": 1.1111111111111112,
+    "source": "scallions",
+    "target": "toasted sesame oil"
+  }, {
+    "value": 1.1111111111111112,
+    "source": "ketchup",
+    "target": "soy sauce"
+  }, {
+    "value": 1.1111111111111112,
+    "source": "white pepper",
+    "target": "scallions"
+  }, {
+    "value": 1.1111111111111112,
+    "source": "soy sauce",
+    "target": "ground white pepper"
+  }, {
+    "value": 1.127946127946128,
+    "source": "soy sauce",
+    "target": "red pepper flakes"
+  }, {
+    "value": 1.127946127946128,
+    "source": "water",
+    "target": "boneless skinless chicken breasts"
+  }, {
+    "value": 1.127946127946128,
+    "source": "corn starch",
+    "target": "dry sherry"
+  }, {
+    "value": 1.127946127946128,
+    "source": "red pepper flakes",
+    "target": "soy sauce"
+  }, {
+    "value": 1.127946127946128,
+    "source": "boneless skinless chicken breasts",
+    "target": "water"
+  }, {
+    "value": 1.127946127946128,
+    "source": "garlic cloves",
+    "target": "peanut oil"
+  }, {
+    "value": 1.127946127946128,
+    "source": "dry sherry",
+    "target": "corn starch"
+  }, {
+    "value": 1.127946127946128,
+    "source": "peanut oil",
+    "target": "garlic cloves"
+  }, {
+    "value": 1.144781144781145,
+    "source": "sesame oil",
+    "target": "sesame seeds"
+  }, {
+    "value": 1.144781144781145,
+    "source": "sesame seeds",
+    "target": "sesame oil"
+  }, {
+    "value": 1.144781144781145,
+    "source": "sugar",
+    "target": "kosher salt"
+  }, {
+    "value": 1.144781144781145,
+    "source": "carrots",
+    "target": "rice vinegar"
+  }, {
+    "value": 1.144781144781145,
+    "source": "kosher salt",
+    "target": "sugar"
+  }, {
+    "value": 1.144781144781145,
+    "source": "rice vinegar",
+    "target": "carrots"
+  }, {
+    "value": 1.1616161616161615,
+    "source": "garlic cloves",
+    "target": "ginger"
+  }, {
+    "value": 1.1616161616161615,
+    "source": "water",
+    "target": "minced garlic"
+  }, {
+    "value": 1.1616161616161615,
+    "source": "chicken stock",
+    "target": "sugar"
+  }, {
+    "value": 1.1616161616161615,
+    "source": "white pepper",
+    "target": "oil"
+  }, {
+    "value": 1.1616161616161615,
+    "source": "soy sauce",
+    "target": "large eggs"
+  }, {
+    "value": 1.1616161616161615,
+    "source": "ginger",
+    "target": "light soy sauce"
+  }, {
+    "value": 1.1616161616161615,
+    "source": "ground pork",
+    "target": "water"
+  }, {
+    "value": 1.1616161616161615,
+    "source": "large eggs",
+    "target": "soy sauce"
+  }, {
+    "value": 1.1616161616161615,
+    "source": "chinese rice wine",
+    "target": "sesame oil"
+  }, {
+    "value": 1.1616161616161615,
+    "source": "oil",
+    "target": "white pepper"
+  }, {
+    "value": 1.1616161616161615,
+    "source": "sesame oil",
+    "target": "chinese rice wine"
+  }, {
+    "value": 1.1616161616161615,
+    "source": "water",
+    "target": "ground pork"
+  }, {
+    "value": 1.1616161616161615,
+    "source": "ginger",
+    "target": "garlic cloves"
+  }, {
+    "value": 1.1616161616161615,
+    "source": "light soy sauce",
+    "target": "ginger"
+  }, {
+    "value": 1.1616161616161615,
+    "source": "sugar",
+    "target": "chicken stock"
+  }, {
+    "value": 1.1616161616161615,
+    "source": "minced garlic",
+    "target": "water"
+  }, {
+    "value": 1.1784511784511784,
+    "source": "corn starch",
+    "target": "kosher salt"
+  }, {
+    "value": 1.1784511784511784,
+    "source": "carrots",
+    "target": "ginger"
+  }, {
+    "value": 1.1784511784511784,
+    "source": "water",
+    "target": "hoisin sauce"
+  }, {
+    "value": 1.1784511784511784,
+    "source": "garlic cloves",
+    "target": "peeled fresh ginger"
+  }, {
+    "value": 1.1784511784511784,
+    "source": "salt",
+    "target": "hoisin sauce"
+  }, {
+    "value": 1.1784511784511784,
+    "source": "garlic",
+    "target": "chinese five-spice powder"
+  }, {
+    "value": 1.1784511784511784,
+    "source": "chinese five-spice powder",
+    "target": "garlic"
+  }, {
+    "value": 1.1784511784511784,
+    "source": "hoisin sauce",
+    "target": "salt"
+  }, {
+    "value": 1.1784511784511784,
+    "source": "peeled fresh ginger",
+    "target": "garlic cloves"
+  }, {
+    "value": 1.1784511784511784,
+    "source": "kosher salt",
+    "target": "corn starch"
+  }, {
+    "value": 1.1784511784511784,
+    "source": "ginger",
+    "target": "carrots"
+  }, {
+    "value": 1.1784511784511784,
+    "source": "scallions",
+    "target": "carrots"
+  }, {
+    "value": 1.1784511784511784,
+    "source": "carrots",
+    "target": "scallions"
+  }, {
+    "value": 1.1784511784511784,
+    "source": "hoisin sauce",
+    "target": "water"
+  }, {
+    "value": 1.1952861952861953,
+    "source": "salt",
+    "target": "honey"
+  }, {
+    "value": 1.1952861952861953,
+    "source": "sesame oil",
+    "target": "kosher salt"
+  }, {
+    "value": 1.1952861952861953,
+    "source": "dark soy sauce",
+    "target": "scallions"
+  }, {
+    "value": 1.1952861952861953,
+    "source": "garlic",
+    "target": "eggs"
+  }, {
+    "value": 1.1952861952861953,
+    "source": "scallions",
+    "target": "dark soy sauce"
+  }, {
+    "value": 1.1952861952861953,
+    "source": "low sodium soy sauce",
+    "target": "garlic cloves"
+  }, {
+    "value": 1.1952861952861953,
+    "source": "kosher salt",
+    "target": "sesame oil"
+  }, {
+    "value": 1.1952861952861953,
+    "source": "honey",
+    "target": "salt"
+  }, {
+    "value": 1.1952861952861953,
+    "source": "garlic cloves",
+    "target": "low sodium soy sauce"
+  }, {
+    "value": 1.1952861952861953,
+    "source": "eggs",
+    "target": "garlic"
+  }, {
+    "value": 1.2121212121212122,
+    "source": "green onions",
+    "target": "oyster sauce"
+  }, {
+    "value": 1.2121212121212122,
+    "source": "green onions",
+    "target": "low sodium soy sauce"
+  }, {
+    "value": 1.2121212121212122,
+    "source": "light soy sauce",
+    "target": "water"
+  }, {
+    "value": 1.2121212121212122,
+    "source": "oyster sauce",
+    "target": "green onions"
+  }, {
+    "value": 1.2121212121212122,
+    "source": "peanut oil",
+    "target": "garlic"
+  }, {
+    "value": 1.2121212121212122,
+    "source": "water",
+    "target": "light soy sauce"
+  }, {
+    "value": 1.2121212121212122,
+    "source": "garlic",
+    "target": "peanut oil"
+  }, {
+    "value": 1.2121212121212122,
+    "source": "onions",
+    "target": "vegetable oil"
+  }, {
+    "value": 1.2121212121212122,
+    "source": "vegetable oil",
+    "target": "onions"
+  }, {
+    "value": 1.2121212121212122,
+    "source": "boneless skinless chicken breasts",
+    "target": "sesame oil"
+  }, {
+    "value": 1.2121212121212122,
+    "source": "brown sugar",
+    "target": "green onions"
+  }, {
+    "value": 1.2121212121212122,
+    "source": "sesame oil",
+    "target": "boneless skinless chicken breasts"
+  }, {
+    "value": 1.2121212121212122,
+    "source": "low sodium soy sauce",
+    "target": "green onions"
+  }, {
+    "value": 1.2121212121212122,
+    "source": "green onions",
+    "target": "brown sugar"
+  }, {
+    "value": 1.2289562289562288,
+    "source": "boneless skinless chicken breasts",
+    "target": "salt"
+  }, {
+    "value": 1.2289562289562288,
+    "source": "ground ginger",
+    "target": "soy sauce"
+  }, {
+    "value": 1.2289562289562288,
+    "source": "corn starch",
+    "target": "carrots"
+  }, {
+    "value": 1.2289562289562288,
+    "source": "salt",
+    "target": "boneless skinless chicken breasts"
+  }, {
+    "value": 1.2289562289562288,
+    "source": "carrots",
+    "target": "corn starch"
+  }, {
+    "value": 1.2289562289562288,
+    "source": "sesame oil",
+    "target": "chinese five-spice powder"
+  }, {
+    "value": 1.2289562289562288,
+    "source": "soy sauce",
+    "target": "ground ginger"
+  }, {
+    "value": 1.2289562289562288,
+    "source": "chinese five-spice powder",
+    "target": "sesame oil"
+  }, {
+    "value": 1.245791245791246,
+    "source": "honey",
+    "target": "sesame oil"
+  }, {
+    "value": 1.245791245791246,
+    "source": "garlic",
+    "target": "boneless skinless chicken breasts"
+  }, {
+    "value": 1.245791245791246,
+    "source": "salt",
+    "target": "black pepper"
+  }, {
+    "value": 1.245791245791246,
+    "source": "dark soy sauce",
+    "target": "Shaoxing wine"
+  }, {
+    "value": 1.245791245791246,
+    "source": "oyster sauce",
+    "target": "vegetable oil"
+  }, {
+    "value": 1.245791245791246,
+    "source": "soy sauce",
+    "target": "beansprouts"
+  }, {
+    "value": 1.245791245791246,
+    "source": "salt",
+    "target": "chinese five-spice powder"
+  }, {
+    "value": 1.245791245791246,
+    "source": "sugar",
+    "target": "eggs"
+  }, {
+    "value": 1.245791245791246,
+    "source": "beansprouts",
+    "target": "soy sauce"
+  }, {
+    "value": 1.245791245791246,
+    "source": "vegetable oil",
+    "target": "oyster sauce"
+  }, {
+    "value": 1.245791245791246,
+    "source": "Shaoxing wine",
+    "target": "dark soy sauce"
+  }, {
+    "value": 1.245791245791246,
+    "source": "chinese five-spice powder",
+    "target": "salt"
+  }, {
+    "value": 1.245791245791246,
+    "source": "black pepper",
+    "target": "salt"
+  }, {
+    "value": 1.245791245791246,
+    "source": "eggs",
+    "target": "sugar"
+  }, {
+    "value": 1.245791245791246,
+    "source": "sesame oil",
+    "target": "honey"
+  }, {
+    "value": 1.245791245791246,
+    "source": "boneless skinless chicken breasts",
+    "target": "garlic"
+  }, {
+    "value": 1.2626262626262628,
+    "source": "water chestnuts",
+    "target": "corn starch"
+  }, {
+    "value": 1.2626262626262628,
+    "source": "rice vinegar",
+    "target": "brown sugar"
+  }, {
+    "value": 1.2626262626262628,
+    "source": "brown sugar",
+    "target": "rice vinegar"
+  }, {
+    "value": 1.2626262626262628,
+    "source": "soy sauce",
+    "target": "olive oil"
+  }, {
+    "value": 1.2626262626262628,
+    "source": "sesame oil",
+    "target": "chicken broth"
+  }, {
+    "value": 1.2626262626262628,
+    "source": "soy sauce",
+    "target": "peeled fresh ginger"
+  }, {
+    "value": 1.2626262626262628,
+    "source": "olive oil",
+    "target": "soy sauce"
+  }, {
+    "value": 1.2626262626262628,
+    "source": "white pepper",
+    "target": "garlic"
+  }, {
+    "value": 1.2626262626262628,
+    "source": "chicken broth",
+    "target": "sesame oil"
+  }, {
+    "value": 1.2626262626262628,
+    "source": "peeled fresh ginger",
+    "target": "soy sauce"
+  }, {
+    "value": 1.2626262626262628,
+    "source": "corn starch",
+    "target": "water chestnuts"
+  }, {
+    "value": 1.2626262626262628,
+    "source": "garlic",
+    "target": "white pepper"
+  }, {
+    "value": 1.2794612794612794,
+    "source": "ginger",
+    "target": "vegetable oil"
+  }, {
+    "value": 1.2794612794612794,
+    "source": "brown sugar",
+    "target": "sesame oil"
+  }, {
+    "value": 1.2794612794612794,
+    "source": "oil",
+    "target": "Shaoxing wine"
+  }, {
+    "value": 1.2794612794612794,
+    "source": "sesame oil",
+    "target": "brown sugar"
+  }, {
+    "value": 1.2794612794612794,
+    "source": "Shaoxing wine",
+    "target": "oil"
+  }, {
+    "value": 1.2794612794612794,
+    "source": "water chestnuts",
+    "target": "soy sauce"
+  }, {
+    "value": 1.2794612794612794,
+    "source": "soy sauce",
+    "target": "water chestnuts"
+  }, {
+    "value": 1.2794612794612794,
+    "source": "vegetable oil",
+    "target": "ginger"
+  }, {
+    "value": 1.2794612794612794,
+    "source": "ginger",
+    "target": "oyster sauce"
+  }, {
+    "value": 1.2794612794612794,
+    "source": "oyster sauce",
+    "target": "ginger"
+  }, {
+    "value": 1.2962962962962963,
+    "source": "hoisin sauce",
+    "target": "honey"
+  }, {
+    "value": 1.2962962962962963,
+    "source": "water",
+    "target": "carrots"
+  }, {
+    "value": 1.2962962962962963,
+    "source": "sugar",
+    "target": "carrots"
+  }, {
+    "value": 1.2962962962962963,
+    "source": "carrots",
+    "target": "sugar"
+  }, {
+    "value": 1.2962962962962963,
+    "source": "honey",
+    "target": "hoisin sauce"
+  }, {
+    "value": 1.2962962962962963,
+    "source": "carrots",
+    "target": "water"
+  }, {
+    "value": 1.3131313131313131,
+    "source": "soy sauce",
+    "target": "red chili peppers"
+  }, {
+    "value": 1.3131313131313131,
+    "source": "red chili peppers",
+    "target": "soy sauce"
+  }, {
+    "value": 1.3131313131313131,
+    "source": "scallions",
+    "target": "kosher salt"
+  }, {
+    "value": 1.3131313131313131,
+    "source": "canola oil",
+    "target": "soy sauce"
+  }, {
+    "value": 1.3131313131313131,
+    "source": "soy sauce",
+    "target": "canola oil"
+  }, {
+    "value": 1.3131313131313131,
+    "source": "kosher salt",
+    "target": "scallions"
+  }, {
+    "value": 1.32996632996633,
+    "source": "water",
+    "target": "onions"
+  }, {
+    "value": 1.32996632996633,
+    "source": "sugar",
+    "target": "hoisin sauce"
+  }, {
+    "value": 1.32996632996633,
+    "source": "hoisin sauce",
+    "target": "sugar"
+  }, {
+    "value": 1.32996632996633,
+    "source": "onions",
+    "target": "water"
+  }, {
+    "value": 1.3468013468013469,
+    "source": "dry sherry",
+    "target": "soy sauce"
+  }, {
+    "value": 1.3468013468013469,
+    "source": "soy sauce",
+    "target": "dry sherry"
+  }, {
+    "value": 1.3468013468013469,
+    "source": "brown sugar",
+    "target": "water"
+  }, {
+    "value": 1.3468013468013469,
+    "source": "dark soy sauce",
+    "target": "water"
+  }, {
+    "value": 1.3468013468013469,
+    "source": "water",
+    "target": "dark soy sauce"
+  }, {
+    "value": 1.3468013468013469,
+    "source": "water",
+    "target": "brown sugar"
+  }, {
+    "value": 1.3468013468013469,
+    "source": "garlic",
+    "target": "light soy sauce"
+  }, {
+    "value": 1.3468013468013469,
+    "source": "light soy sauce",
+    "target": "garlic"
+  }, {
+    "value": 1.3636363636363635,
+    "source": "soy sauce",
+    "target": "rice wine"
+  }, {
+    "value": 1.3636363636363635,
+    "source": "soy sauce",
+    "target": "chinese rice wine"
+  }, {
+    "value": 1.3636363636363635,
+    "source": "rice wine",
+    "target": "soy sauce"
+  }, {
+    "value": 1.3636363636363635,
+    "source": "chinese rice wine",
+    "target": "soy sauce"
+  }, {
+    "value": 1.3804713804713806,
+    "source": "green onions",
+    "target": "carrots"
+  }, {
+    "value": 1.3804713804713806,
+    "source": "scallions",
+    "target": "oyster sauce"
+  }, {
+    "value": 1.3804713804713806,
+    "source": "oyster sauce",
+    "target": "scallions"
+  }, {
+    "value": 1.3804713804713806,
+    "source": "hoisin sauce",
+    "target": "chinese five-spice powder"
+  }, {
+    "value": 1.3804713804713806,
+    "source": "chinese five-spice powder",
+    "target": "hoisin sauce"
+  }, {
+    "value": 1.3804713804713806,
+    "source": "carrots",
+    "target": "green onions"
+  }, {
+    "value": 1.3973063973063973,
+    "source": "Shaoxing wine",
+    "target": "water"
+  }, {
+    "value": 1.3973063973063973,
+    "source": "water",
+    "target": "Shaoxing wine"
+  }, {
+    "value": 1.4141414141414141,
+    "source": "chicken stock",
+    "target": "corn starch"
+  }, {
+    "value": 1.4141414141414141,
+    "source": "soy sauce",
+    "target": "black pepper"
+  }, {
+    "value": 1.4141414141414141,
+    "source": "corn starch",
+    "target": "chicken stock"
+  }, {
+    "value": 1.4141414141414141,
+    "source": "black pepper",
+    "target": "soy sauce"
+  }, {
+    "value": 1.4309764309764308,
+    "source": "sesame oil",
+    "target": "onions"
+  }, {
+    "value": 1.4309764309764308,
+    "source": "ground pork",
+    "target": "salt"
+  }, {
+    "value": 1.4309764309764308,
+    "source": "salt",
+    "target": "ground pork"
+  }, {
+    "value": 1.4309764309764308,
+    "source": "minced garlic",
+    "target": "sesame oil"
+  }, {
+    "value": 1.4309764309764308,
+    "source": "ginger",
+    "target": "Shaoxing wine"
+  }, {
+    "value": 1.4309764309764308,
+    "source": "Shaoxing wine",
+    "target": "ginger"
+  }, {
+    "value": 1.4309764309764308,
+    "source": "sesame oil",
+    "target": "minced garlic"
+  }, {
+    "value": 1.4309764309764308,
+    "source": "onions",
+    "target": "sesame oil"
+  }, {
+    "value": 1.4478114478114479,
+    "source": "garlic",
+    "target": "Shaoxing wine"
+  }, {
+    "value": 1.4478114478114479,
+    "source": "corn starch",
+    "target": "light soy sauce"
+  }, {
+    "value": 1.4478114478114479,
+    "source": "sesame oil",
+    "target": "chicken stock"
+  }, {
+    "value": 1.4478114478114479,
+    "source": "light soy sauce",
+    "target": "corn starch"
+  }, {
+    "value": 1.4478114478114479,
+    "source": "chicken stock",
+    "target": "sesame oil"
+  }, {
+    "value": 1.4478114478114479,
+    "source": "minced garlic",
+    "target": "sugar"
+  }, {
+    "value": 1.4478114478114479,
+    "source": "corn starch",
+    "target": "canola oil"
+  }, {
+    "value": 1.4478114478114479,
+    "source": "canola oil",
+    "target": "corn starch"
+  }, {
+    "value": 1.4478114478114479,
+    "source": "Shaoxing wine",
+    "target": "garlic"
+  }, {
+    "value": 1.4478114478114479,
+    "source": "sugar",
+    "target": "minced garlic"
+  }, {
+    "value": 1.4646464646464645,
+    "source": "white pepper",
+    "target": "water"
+  }, {
+    "value": 1.4646464646464645,
+    "source": "water",
+    "target": "white pepper"
+  }, {
+    "value": 1.4646464646464645,
+    "source": "scallions",
+    "target": "peanut oil"
+  }, {
+    "value": 1.4646464646464645,
+    "source": "red bell pepper",
+    "target": "soy sauce"
+  }, {
+    "value": 1.4646464646464645,
+    "source": "soy sauce",
+    "target": "red bell pepper"
+  }, {
+    "value": 1.4646464646464645,
+    "source": "peanut oil",
+    "target": "scallions"
+  }, {
+    "value": 1.4814814814814814,
+    "source": "salt",
+    "target": "dark soy sauce"
+  }, {
+    "value": 1.4814814814814814,
+    "source": "dark soy sauce",
+    "target": "light soy sauce"
+  }, {
+    "value": 1.4814814814814814,
+    "source": "light soy sauce",
+    "target": "dark soy sauce"
+  }, {
+    "value": 1.4814814814814814,
+    "source": "hoisin sauce",
+    "target": "rice vinegar"
+  }, {
+    "value": 1.4814814814814814,
+    "source": "rice vinegar",
+    "target": "hoisin sauce"
+  }, {
+    "value": 1.4814814814814814,
+    "source": "dark soy sauce",
+    "target": "salt"
+  }, {
+    "value": 1.4983164983164985,
+    "source": "sesame oil",
+    "target": "eggs"
+  }, {
+    "value": 1.4983164983164985,
+    "source": "scallions",
+    "target": "Shaoxing wine"
+  }, {
+    "value": 1.4983164983164985,
+    "source": "Shaoxing wine",
+    "target": "scallions"
+  }, {
+    "value": 1.4983164983164985,
+    "source": "ground black pepper",
+    "target": "soy sauce"
+  }, {
+    "value": 1.4983164983164985,
+    "source": "soy sauce",
+    "target": "ground black pepper"
+  }, {
+    "value": 1.4983164983164985,
+    "source": "eggs",
+    "target": "sesame oil"
+  }, {
+    "value": 1.5151515151515151,
+    "source": "corn starch",
+    "target": "dark soy sauce"
+  }, {
+    "value": 1.5151515151515151,
+    "source": "garlic",
+    "target": "dark soy sauce"
+  }, {
+    "value": 1.5151515151515151,
+    "source": "peanut oil",
+    "target": "salt"
+  }, {
+    "value": 1.5151515151515151,
+    "source": "dark soy sauce",
+    "target": "corn starch"
+  }, {
+    "value": 1.5151515151515151,
+    "source": "dark soy sauce",
+    "target": "garlic"
+  }, {
+    "value": 1.5151515151515151,
+    "source": "scallions",
+    "target": "garlic cloves"
+  }, {
+    "value": 1.5151515151515151,
+    "source": "garlic cloves",
+    "target": "scallions"
+  }, {
+    "value": 1.5151515151515151,
+    "source": "salt",
+    "target": "peanut oil"
+  }, {
+    "value": 1.531986531986532,
+    "source": "ginger",
+    "target": "rice vinegar"
+  }, {
+    "value": 1.531986531986532,
+    "source": "rice vinegar",
+    "target": "ginger"
+  }, {
+    "value": 1.5488215488215487,
+    "source": "red bell pepper",
+    "target": "corn starch"
+  }, {
+    "value": 1.5488215488215487,
+    "source": "honey",
+    "target": "garlic"
+  }, {
+    "value": 1.5488215488215487,
+    "source": "green onions",
+    "target": "eggs"
+  }, {
+    "value": 1.5488215488215487,
+    "source": "eggs",
+    "target": "green onions"
+  }, {
+    "value": 1.5488215488215487,
+    "source": "ground pork",
+    "target": "sesame oil"
+  }, {
+    "value": 1.5488215488215487,
+    "source": "corn starch",
+    "target": "red bell pepper"
+  }, {
+    "value": 1.5488215488215487,
+    "source": "oil",
+    "target": "ginger"
+  }, {
+    "value": 1.5488215488215487,
+    "source": "ginger",
+    "target": "oil"
+  }, {
+    "value": 1.5488215488215487,
+    "source": "garlic",
+    "target": "honey"
+  }, {
+    "value": 1.5488215488215487,
+    "source": "sesame oil",
+    "target": "ground pork"
+  }, {
+    "value": 1.5656565656565657,
+    "source": "kosher salt",
+    "target": "soy sauce"
+  }, {
+    "value": 1.5656565656565657,
+    "source": "soy sauce",
+    "target": "kosher salt"
+  }, {
+    "value": 1.5656565656565657,
+    "source": "soy sauce",
+    "target": "toasted sesame oil"
+  }, {
+    "value": 1.5656565656565657,
+    "source": "sesame oil",
+    "target": "dark soy sauce"
+  }, {
+    "value": 1.5656565656565657,
+    "source": "soy sauce",
+    "target": "chicken stock"
+  }, {
+    "value": 1.5656565656565657,
+    "source": "dark soy sauce",
+    "target": "sesame oil"
+  }, {
+    "value": 1.5656565656565657,
+    "source": "white pepper",
+    "target": "corn starch"
+  }, {
+    "value": 1.5656565656565657,
+    "source": "chicken stock",
+    "target": "soy sauce"
+  }, {
+    "value": 1.5656565656565657,
+    "source": "toasted sesame oil",
+    "target": "soy sauce"
+  }, {
+    "value": 1.5656565656565657,
+    "source": "corn starch",
+    "target": "white pepper"
+  }, {
+    "value": 1.5993265993265993,
+    "source": "low sodium soy sauce",
+    "target": "corn starch"
+  }, {
+    "value": 1.5993265993265993,
+    "source": "corn starch",
+    "target": "low sodium soy sauce"
+  }, {
+    "value": 1.6161616161616164,
+    "source": "hoisin sauce",
+    "target": "green onions"
+  }, {
+    "value": 1.6161616161616164,
+    "source": "eggs",
+    "target": "water"
+  }, {
+    "value": 1.6161616161616164,
+    "source": "garlic",
+    "target": "brown sugar"
+  }, {
+    "value": 1.6161616161616164,
+    "source": "brown sugar",
+    "target": "garlic"
+  }, {
+    "value": 1.6161616161616164,
+    "source": "water",
+    "target": "eggs"
+  }, {
+    "value": 1.6161616161616164,
+    "source": "green onions",
+    "target": "hoisin sauce"
+  }, {
+    "value": 1.632996632996633,
+    "source": "soy sauce",
+    "target": "pepper"
+  }, {
+    "value": 1.632996632996633,
+    "source": "corn starch",
+    "target": "onions"
+  }, {
+    "value": 1.632996632996633,
+    "source": "onions",
+    "target": "corn starch"
+  }, {
+    "value": 1.632996632996633,
+    "source": "pepper",
+    "target": "soy sauce"
+  }, {
+    "value": 1.632996632996633,
+    "source": "light soy sauce",
+    "target": "salt"
+  }, {
+    "value": 1.632996632996633,
+    "source": "salt",
+    "target": "light soy sauce"
+  }, {
+    "value": 1.6498316498316499,
+    "source": "soy sauce",
+    "target": "sesame seeds"
+  }, {
+    "value": 1.6498316498316499,
+    "source": "sesame seeds",
+    "target": "soy sauce"
+  }, {
+    "value": 1.6666666666666665,
+    "source": "scallions",
+    "target": "oil"
+  }, {
+    "value": 1.6666666666666665,
+    "source": "oil",
+    "target": "scallions"
+  }, {
+    "value": 1.7171717171717171,
+    "source": "onions",
+    "target": "salt"
+  }, {
+    "value": 1.7171717171717171,
+    "source": "corn starch",
+    "target": "minced garlic"
+  }, {
+    "value": 1.7171717171717171,
+    "source": "minced garlic",
+    "target": "corn starch"
+  }, {
+    "value": 1.7171717171717171,
+    "source": "salt",
+    "target": "onions"
+  }, {
+    "value": 1.734006734006734,
+    "source": "carrots",
+    "target": "salt"
+  }, {
+    "value": 1.734006734006734,
+    "source": "fresh ginger",
+    "target": "garlic cloves"
+  }, {
+    "value": 1.734006734006734,
+    "source": "salt",
+    "target": "carrots"
+  }, {
+    "value": 1.734006734006734,
+    "source": "green onions",
+    "target": "garlic cloves"
+  }, {
+    "value": 1.734006734006734,
+    "source": "garlic cloves",
+    "target": "green onions"
+  }, {
+    "value": 1.734006734006734,
+    "source": "garlic cloves",
+    "target": "fresh ginger"
+  }, {
+    "value": 1.7508417508417509,
+    "source": "Shaoxing wine",
+    "target": "salt"
+  }, {
+    "value": 1.7508417508417509,
+    "source": "corn starch",
+    "target": "hoisin sauce"
+  }, {
+    "value": 1.7508417508417509,
+    "source": "salt",
+    "target": "Shaoxing wine"
+  }, {
+    "value": 1.7508417508417509,
+    "source": "hoisin sauce",
+    "target": "corn starch"
+  }, {
+    "value": 1.7676767676767677,
+    "source": "corn starch",
+    "target": "chicken broth"
+  }, {
+    "value": 1.7676767676767677,
+    "source": "chicken broth",
+    "target": "corn starch"
+  }, {
+    "value": 1.7845117845117844,
+    "source": "garlic cloves",
+    "target": "rice vinegar"
+  }, {
+    "value": 1.7845117845117844,
+    "source": "rice vinegar",
+    "target": "garlic cloves"
+  }, {
+    "value": 1.8013468013468015,
+    "source": "sugar",
+    "target": "white pepper"
+  }, {
+    "value": 1.8013468013468015,
+    "source": "white pepper",
+    "target": "sugar"
+  }, {
+    "value": 1.8181818181818183,
+    "source": "onions",
+    "target": "garlic"
+  }, {
+    "value": 1.8181818181818183,
+    "source": "carrots",
+    "target": "garlic"
+  }, {
+    "value": 1.8181818181818183,
+    "source": "brown sugar",
+    "target": "corn starch"
+  }, {
+    "value": 1.8181818181818183,
+    "source": "corn starch",
+    "target": "brown sugar"
+  }, {
+    "value": 1.8181818181818183,
+    "source": "garlic",
+    "target": "onions"
+  }, {
+    "value": 1.8181818181818183,
+    "source": "garlic",
+    "target": "carrots"
+  }, {
+    "value": 1.835016835016835,
+    "source": "garlic cloves",
+    "target": "vegetable oil"
+  }, {
+    "value": 1.835016835016835,
+    "source": "vegetable oil",
+    "target": "garlic cloves"
+  }, {
+    "value": 1.8518518518518516,
+    "source": "corn starch",
+    "target": "eggs"
+  }, {
+    "value": 1.8518518518518516,
+    "source": "chinese five-spice powder",
+    "target": "soy sauce"
+  }, {
+    "value": 1.8518518518518516,
+    "source": "light soy sauce",
+    "target": "sesame oil"
+  }, {
+    "value": 1.8518518518518516,
+    "source": "sesame oil",
+    "target": "light soy sauce"
+  }, {
+    "value": 1.8518518518518516,
+    "source": "eggs",
+    "target": "corn starch"
+  }, {
+    "value": 1.8518518518518516,
+    "source": "soy sauce",
+    "target": "chinese five-spice powder"
+  }, {
+    "value": 1.8686868686868687,
+    "source": "vegetable oil",
+    "target": "rice vinegar"
+  }, {
+    "value": 1.8686868686868687,
+    "source": "rice vinegar",
+    "target": "vegetable oil"
+  }, {
+    "value": 1.9023569023569022,
+    "source": "sesame oil",
+    "target": "peanut oil"
+  }, {
+    "value": 1.9023569023569022,
+    "source": "oyster sauce",
+    "target": "salt"
+  }, {
+    "value": 1.9023569023569022,
+    "source": "salt",
+    "target": "oyster sauce"
+  }, {
+    "value": 1.9023569023569022,
+    "source": "sugar",
+    "target": "peanut oil"
+  }, {
+    "value": 1.9023569023569022,
+    "source": "peanut oil",
+    "target": "sesame oil"
+  }, {
+    "value": 1.9023569023569022,
+    "source": "peanut oil",
+    "target": "sugar"
+  }, {
+    "value": 1.9191919191919191,
+    "source": "Shaoxing wine",
+    "target": "corn starch"
+  }, {
+    "value": 1.9191919191919191,
+    "source": "corn starch",
+    "target": "Shaoxing wine"
+  }, {
+    "value": 1.936026936026936,
+    "source": "fresh ginger",
+    "target": "rice vinegar"
+  }, {
+    "value": 1.936026936026936,
+    "source": "rice vinegar",
+    "target": "fresh ginger"
+  }, {
+    "value": 1.936026936026936,
+    "source": "oil",
+    "target": "garlic"
+  }, {
+    "value": 1.936026936026936,
+    "source": "garlic",
+    "target": "oil"
+  }, {
+    "value": 1.9528619528619529,
+    "source": "sugar",
+    "target": "dark soy sauce"
+  }, {
+    "value": 1.9528619528619529,
+    "source": "garlic cloves",
+    "target": "water"
+  }, {
+    "value": 1.9528619528619529,
+    "source": "water",
+    "target": "garlic cloves"
+  }, {
+    "value": 1.9528619528619529,
+    "source": "dark soy sauce",
+    "target": "sugar"
+  }, {
+    "value": 1.9696969696969697,
+    "source": "soy sauce",
+    "target": "chicken broth"
+  }, {
+    "value": 1.9696969696969697,
+    "source": "sugar",
+    "target": "light soy sauce"
+  }, {
+    "value": 1.9696969696969697,
+    "source": "light soy sauce",
+    "target": "sugar"
+  }, {
+    "value": 1.9696969696969697,
+    "source": "chicken broth",
+    "target": "soy sauce"
+  }, {
+    "value": 1.9865319865319866,
+    "source": "hoisin sauce",
+    "target": "garlic"
+  }, {
+    "value": 1.9865319865319866,
+    "source": "garlic",
+    "target": "hoisin sauce"
+  }, {
+    "value": 2.0202020202020203,
+    "source": "sugar",
+    "target": "garlic cloves"
+  }, {
+    "value": 2.0202020202020203,
+    "source": "garlic cloves",
+    "target": "sugar"
+  }, {
+    "value": 2.0202020202020203,
+    "source": "sesame oil",
+    "target": "oil"
+  }, {
+    "value": 2.0202020202020203,
+    "source": "oil",
+    "target": "sesame oil"
+  }, {
+    "value": 2.0370370370370368,
+    "source": "pepper",
+    "target": "salt"
+  }, {
+    "value": 2.0370370370370368,
+    "source": "soy sauce",
+    "target": "ground pork"
+  }, {
+    "value": 2.0370370370370368,
+    "source": "ground pork",
+    "target": "soy sauce"
+  }, {
+    "value": 2.0370370370370368,
+    "source": "salt",
+    "target": "pepper"
+  }, {
+    "value": 2.053872053872054,
+    "source": "corn starch",
+    "target": "peanut oil"
+  }, {
+    "value": 2.053872053872054,
+    "source": "peanut oil",
+    "target": "corn starch"
+  }, {
+    "value": 2.070707070707071,
+    "source": "garlic cloves",
+    "target": "salt"
+  }, {
+    "value": 2.070707070707071,
+    "source": "white pepper",
+    "target": "soy sauce"
+  }, {
+    "value": 2.070707070707071,
+    "source": "Shaoxing wine",
+    "target": "sesame oil"
+  }, {
+    "value": 2.070707070707071,
+    "source": "salt",
+    "target": "garlic cloves"
+  }, {
+    "value": 2.070707070707071,
+    "source": "sesame oil",
+    "target": "Shaoxing wine"
+  }, {
+    "value": 2.070707070707071,
+    "source": "soy sauce",
+    "target": "white pepper"
+  }, {
+    "value": 2.0875420875420874,
+    "source": "scallions",
+    "target": "rice vinegar"
+  }, {
+    "value": 2.0875420875420874,
+    "source": "minced garlic",
+    "target": "soy sauce"
+  }, {
+    "value": 2.0875420875420874,
+    "source": "soy sauce",
+    "target": "minced garlic"
+  }, {
+    "value": 2.0875420875420874,
+    "source": "rice vinegar",
+    "target": "scallions"
+  }, {
+    "value": 2.1043771043771047,
+    "source": "soy sauce",
+    "target": "boneless skinless chicken breasts"
+  }, {
+    "value": 2.1043771043771047,
+    "source": "sugar",
+    "target": "rice vinegar"
+  }, {
+    "value": 2.1043771043771047,
+    "source": "rice vinegar",
+    "target": "sugar"
+  }, {
+    "value": 2.1043771043771047,
+    "source": "boneless skinless chicken breasts",
+    "target": "soy sauce"
+  }, {
+    "value": 2.121212121212121,
+    "source": "white pepper",
+    "target": "salt"
+  }, {
+    "value": 2.121212121212121,
+    "source": "salt",
+    "target": "white pepper"
+  }, {
+    "value": 2.138047138047138,
+    "source": "green onions",
+    "target": "ginger"
+  }, {
+    "value": 2.138047138047138,
+    "source": "ginger",
+    "target": "green onions"
+  }, {
+    "value": 2.1717171717171717,
+    "source": "water",
+    "target": "oyster sauce"
+  }, {
+    "value": 2.1717171717171717,
+    "source": "oyster sauce",
+    "target": "water"
+  }, {
+    "value": 2.1885521885521886,
+    "source": "rice vinegar",
+    "target": "water"
+  }, {
+    "value": 2.1885521885521886,
+    "source": "water",
+    "target": "rice vinegar"
+  }, {
+    "value": 2.2053872053872055,
+    "source": "oyster sauce",
+    "target": "garlic"
+  }, {
+    "value": 2.2053872053872055,
+    "source": "garlic",
+    "target": "oyster sauce"
+  }, {
+    "value": 2.2222222222222223,
+    "source": "sesame oil",
+    "target": "hoisin sauce"
+  }, {
+    "value": 2.2222222222222223,
+    "source": "hoisin sauce",
+    "target": "sesame oil"
+  }, {
+    "value": 2.2222222222222223,
+    "source": "white pepper",
+    "target": "sesame oil"
+  }, {
+    "value": 2.2222222222222223,
+    "source": "sesame oil",
+    "target": "white pepper"
+  }, {
+    "value": 2.239057239057239,
+    "source": "sugar",
+    "target": "fresh ginger"
+  }, {
+    "value": 2.239057239057239,
+    "source": "sesame oil",
+    "target": "carrots"
+  }, {
+    "value": 2.239057239057239,
+    "source": "vegetable oil",
+    "target": "fresh ginger"
+  }, {
+    "value": 2.239057239057239,
+    "source": "fresh ginger",
+    "target": "vegetable oil"
+  }, {
+    "value": 2.239057239057239,
+    "source": "rice vinegar",
+    "target": "green onions"
+  }, {
+    "value": 2.239057239057239,
+    "source": "carrots",
+    "target": "sesame oil"
+  }, {
+    "value": 2.239057239057239,
+    "source": "green onions",
+    "target": "rice vinegar"
+  }, {
+    "value": 2.239057239057239,
+    "source": "fresh ginger",
+    "target": "sugar"
+  }, {
+    "value": 2.255892255892256,
+    "source": "corn starch",
+    "target": "oil"
+  }, {
+    "value": 2.255892255892256,
+    "source": "oil",
+    "target": "corn starch"
+  }, {
+    "value": 2.2727272727272725,
+    "source": "salt",
+    "target": "rice vinegar"
+  }, {
+    "value": 2.2727272727272725,
+    "source": "rice vinegar",
+    "target": "salt"
+  }, {
+    "value": 2.28956228956229,
+    "source": "garlic cloves",
+    "target": "sesame oil"
+  }, {
+    "value": 2.28956228956229,
+    "source": "sugar",
+    "target": "oyster sauce"
+  }, {
+    "value": 2.28956228956229,
+    "source": "oyster sauce",
+    "target": "sugar"
+  }, {
+    "value": 2.28956228956229,
+    "source": "sesame oil",
+    "target": "garlic cloves"
+  }, {
+    "value": 2.28956228956229,
+    "source": "scallions",
+    "target": "fresh ginger"
+  }, {
+    "value": 2.28956228956229,
+    "source": "water",
+    "target": "oil"
+  }, {
+    "value": 2.28956228956229,
+    "source": "fresh ginger",
+    "target": "scallions"
+  }, {
+    "value": 2.28956228956229,
+    "source": "vegetable oil",
+    "target": "scallions"
+  }, {
+    "value": 2.28956228956229,
+    "source": "oil",
+    "target": "water"
+  }, {
+    "value": 2.28956228956229,
+    "source": "scallions",
+    "target": "vegetable oil"
+  }, {
+    "value": 2.323232323232323,
+    "source": "boneless skinless chicken breasts",
+    "target": "corn starch"
+  }, {
+    "value": 2.323232323232323,
+    "source": "soy sauce",
+    "target": "Shaoxing wine"
+  }, {
+    "value": 2.323232323232323,
+    "source": "Shaoxing wine",
+    "target": "soy sauce"
+  }, {
+    "value": 2.323232323232323,
+    "source": "corn starch",
+    "target": "boneless skinless chicken breasts"
+  }, {
+    "value": 2.34006734006734,
+    "source": "fresh ginger",
+    "target": "water"
+  }, {
+    "value": 2.34006734006734,
+    "source": "water",
+    "target": "fresh ginger"
+  }, {
+    "value": 2.3905723905723906,
+    "source": "salt",
+    "target": "eggs"
+  }, {
+    "value": 2.3905723905723906,
+    "source": "fresh ginger",
+    "target": "green onions"
+  }, {
+    "value": 2.3905723905723906,
+    "source": "green onions",
+    "target": "fresh ginger"
+  }, {
+    "value": 2.3905723905723906,
+    "source": "eggs",
+    "target": "salt"
+  }, {
+    "value": 2.4242424242424243,
+    "source": "sugar",
+    "target": "Shaoxing wine"
+  }, {
+    "value": 2.4242424242424243,
+    "source": "fresh ginger",
+    "target": "salt"
+  }, {
+    "value": 2.4242424242424243,
+    "source": "salt",
+    "target": "fresh ginger"
+  }, {
+    "value": 2.4242424242424243,
+    "source": "Shaoxing wine",
+    "target": "sugar"
+  }, {
+    "value": 2.441077441077441,
+    "source": "peanut oil",
+    "target": "soy sauce"
+  }, {
+    "value": 2.441077441077441,
+    "source": "honey",
+    "target": "soy sauce"
+  }, {
+    "value": 2.441077441077441,
+    "source": "soy sauce",
+    "target": "honey"
+  }, {
+    "value": 2.441077441077441,
+    "source": "soy sauce",
+    "target": "peanut oil"
+  }, {
+    "value": 2.491582491582492,
+    "source": "green onions",
+    "target": "sugar"
+  }, {
+    "value": 2.491582491582492,
+    "source": "sugar",
+    "target": "green onions"
+  }, {
+    "value": 2.491582491582492,
+    "source": "soy sauce",
+    "target": "brown sugar"
+  }, {
+    "value": 2.491582491582492,
+    "source": "brown sugar",
+    "target": "soy sauce"
+  }, {
+    "value": 2.5252525252525255,
+    "source": "garlic cloves",
+    "target": "corn starch"
+  }, {
+    "value": 2.5252525252525255,
+    "source": "corn starch",
+    "target": "garlic cloves"
+  }, {
+    "value": 2.558922558922559,
+    "source": "garlic",
+    "target": "rice vinegar"
+  }, {
+    "value": 2.558922558922559,
+    "source": "rice vinegar",
+    "target": "garlic"
+  }, {
+    "value": 2.6262626262626263,
+    "source": "vegetable oil",
+    "target": "sugar"
+  }, {
+    "value": 2.6262626262626263,
+    "source": "sugar",
+    "target": "vegetable oil"
+  }, {
+    "value": 2.71043771043771,
+    "source": "soy sauce",
+    "target": "carrots"
+  }, {
+    "value": 2.71043771043771,
+    "source": "carrots",
+    "target": "soy sauce"
+  }, {
+    "value": 2.727272727272727,
+    "source": "corn starch",
+    "target": "oyster sauce"
+  }, {
+    "value": 2.727272727272727,
+    "source": "oyster sauce",
+    "target": "corn starch"
+  }, {
+    "value": 2.7777777777777777,
+    "source": "water",
+    "target": "ginger"
+  }, {
+    "value": 2.7777777777777777,
+    "source": "ginger",
+    "target": "water"
+  }, {
+    "value": 2.8114478114478114,
+    "source": "garlic",
+    "target": "fresh ginger"
+  }, {
+    "value": 2.8114478114478114,
+    "source": "green onions",
+    "target": "vegetable oil"
+  }, {
+    "value": 2.8114478114478114,
+    "source": "vegetable oil",
+    "target": "green onions"
+  }, {
+    "value": 2.8114478114478114,
+    "source": "fresh ginger",
+    "target": "garlic"
+  }, {
+    "value": 2.845117845117845,
+    "source": "ginger",
+    "target": "scallions"
+  }, {
+    "value": 2.845117845117845,
+    "source": "scallions",
+    "target": "ginger"
+  }, {
+    "value": 2.8619528619528616,
+    "source": "oyster sauce",
+    "target": "sesame oil"
+  }, {
+    "value": 2.8619528619528616,
+    "source": "sesame oil",
+    "target": "oyster sauce"
+  }, {
+    "value": 2.878787878787879,
+    "source": "onions",
+    "target": "soy sauce"
+  }, {
+    "value": 2.878787878787879,
+    "source": "soy sauce",
+    "target": "onions"
+  }, {
+    "value": 2.8956228956228958,
+    "source": "water",
+    "target": "vegetable oil"
+  }, {
+    "value": 2.8956228956228958,
+    "source": "vegetable oil",
+    "target": "water"
+  }, {
+    "value": 2.9124579124579126,
+    "source": "ginger",
+    "target": "sugar"
+  }, {
+    "value": 2.9124579124579126,
+    "source": "sugar",
+    "target": "ginger"
+  }, {
+    "value": 2.9124579124579126,
+    "source": "eggs",
+    "target": "soy sauce"
+  }, {
+    "value": 2.9124579124579126,
+    "source": "garlic",
+    "target": "vegetable oil"
+  }, {
+    "value": 2.9124579124579126,
+    "source": "vegetable oil",
+    "target": "garlic"
+  }, {
+    "value": 2.9124579124579126,
+    "source": "soy sauce",
+    "target": "eggs"
+  }, {
+    "value": 2.929292929292929,
+    "source": "scallions",
+    "target": "water"
+  }, {
+    "value": 2.929292929292929,
+    "source": "water",
+    "target": "scallions"
+  }, {
+    "value": 2.946127946127946,
+    "source": "ginger",
+    "target": "salt"
+  }, {
+    "value": 2.946127946127946,
+    "source": "sugar",
+    "target": "oil"
+  }, {
+    "value": 2.946127946127946,
+    "source": "salt",
+    "target": "ginger"
+  }, {
+    "value": 2.946127946127946,
+    "source": "oil",
+    "target": "sugar"
+  }, {
+    "value": 2.9797979797979797,
+    "source": "sesame oil",
+    "target": "vegetable oil"
+  }, {
+    "value": 2.9797979797979797,
+    "source": "vegetable oil",
+    "target": "sesame oil"
+  }, {
+    "value": 3.013468013468014,
+    "source": "oil",
+    "target": "salt"
+  }, {
+    "value": 3.013468013468014,
+    "source": "salt",
+    "target": "oil"
+  }, {
+    "value": 3.0303030303030303,
+    "source": "ginger",
+    "target": "corn starch"
+  }, {
+    "value": 3.0303030303030303,
+    "source": "corn starch",
+    "target": "ginger"
+  }, {
+    "value": 3.047138047138047,
+    "source": "fresh ginger",
+    "target": "sesame oil"
+  }, {
+    "value": 3.047138047138047,
+    "source": "sesame oil",
+    "target": "fresh ginger"
+  }, {
+    "value": 3.1144781144781146,
+    "source": "scallions",
+    "target": "garlic"
+  }, {
+    "value": 3.1144781144781146,
+    "source": "garlic",
+    "target": "scallions"
+  }, {
+    "value": 3.1481481481481484,
+    "source": "oyster sauce",
+    "target": "soy sauce"
+  }, {
+    "value": 3.1481481481481484,
+    "source": "soy sauce",
+    "target": "oyster sauce"
+  }, {
+    "value": 3.1986531986531985,
+    "source": "fresh ginger",
+    "target": "corn starch"
+  }, {
+    "value": 3.1986531986531985,
+    "source": "corn starch",
+    "target": "fresh ginger"
+  }, {
+    "value": 3.249158249158249,
+    "source": "soy sauce",
+    "target": "hoisin sauce"
+  }, {
+    "value": 3.249158249158249,
+    "source": "hoisin sauce",
+    "target": "soy sauce"
+  }, {
+    "value": 3.265993265993266,
+    "source": "sesame oil",
+    "target": "rice vinegar"
+  }, {
+    "value": 3.265993265993266,
+    "source": "rice vinegar",
+    "target": "sesame oil"
+  }, {
+    "value": 3.3164983164983166,
+    "source": "soy sauce",
+    "target": "oil"
+  }, {
+    "value": 3.3164983164983166,
+    "source": "oil",
+    "target": "soy sauce"
+  }, {
+    "value": 3.333333333333333,
+    "source": "salt",
+    "target": "vegetable oil"
+  }, {
+    "value": 3.333333333333333,
+    "source": "vegetable oil",
+    "target": "salt"
+  }, {
+    "value": 3.367003367003367,
+    "source": "soy sauce",
+    "target": "garlic cloves"
+  }, {
+    "value": 3.367003367003367,
+    "source": "garlic cloves",
+    "target": "soy sauce"
+  }, {
+    "value": 3.367003367003367,
+    "source": "green onions",
+    "target": "water"
+  }, {
+    "value": 3.367003367003367,
+    "source": "water",
+    "target": "green onions"
+  }, {
+    "value": 3.4848484848484853,
+    "source": "scallions",
+    "target": "salt"
+  }, {
+    "value": 3.4848484848484853,
+    "source": "salt",
+    "target": "scallions"
+  }, {
+    "value": 3.4848484848484853,
+    "source": "garlic",
+    "target": "green onions"
+  }, {
+    "value": 3.4848484848484853,
+    "source": "green onions",
+    "target": "garlic"
+  }, {
+    "value": 3.5016835016835017,
+    "source": "corn starch",
+    "target": "rice vinegar"
+  }, {
+    "value": 3.5016835016835017,
+    "source": "rice vinegar",
+    "target": "corn starch"
+  }, {
+    "value": 3.67003367003367,
+    "source": "green onions",
+    "target": "salt"
+  }, {
+    "value": 3.67003367003367,
+    "source": "salt",
+    "target": "green onions"
+  }, {
+    "value": 3.686868686868687,
+    "source": "sesame oil",
+    "target": "ginger"
+  }, {
+    "value": 3.686868686868687,
+    "source": "ginger",
+    "target": "sesame oil"
+  }, {
+    "value": 3.7373737373737375,
+    "source": "water",
+    "target": "garlic"
+  }, {
+    "value": 3.7373737373737375,
+    "source": "garlic",
+    "target": "water"
+  }, {
+    "value": 3.956228956228956,
+    "source": "scallions",
+    "target": "corn starch"
+  }, {
+    "value": 3.956228956228956,
+    "source": "corn starch",
+    "target": "scallions"
+  }, {
+    "value": 4.006734006734007,
+    "source": "garlic",
+    "target": "sugar"
+  }, {
+    "value": 4.006734006734007,
+    "source": "sugar",
+    "target": "garlic"
+  }, {
+    "value": 4.040404040404041,
+    "source": "garlic",
+    "target": "ginger"
+  }, {
+    "value": 4.040404040404041,
+    "source": "ginger",
+    "target": "garlic"
+  }, {
+    "value": 4.141414141414142,
+    "source": "sugar",
+    "target": "scallions"
+  }, {
+    "value": 4.141414141414142,
+    "source": "scallions",
+    "target": "sugar"
+  }, {
+    "value": 4.158249158249158,
+    "source": "salt",
+    "target": "garlic"
+  }, {
+    "value": 4.158249158249158,
+    "source": "garlic",
+    "target": "salt"
+  }, {
+    "value": 4.175084175084175,
+    "source": "corn starch",
+    "target": "green onions"
+  }, {
+    "value": 4.175084175084175,
+    "source": "green onions",
+    "target": "corn starch"
+  }, {
+    "value": 4.30976430976431,
+    "source": "sesame oil",
+    "target": "green onions"
+  }, {
+    "value": 4.30976430976431,
+    "source": "green onions",
+    "target": "sesame oil"
+  }, {
+    "value": 4.393939393939394,
+    "source": "scallions",
+    "target": "sesame oil"
+  }, {
+    "value": 4.393939393939394,
+    "source": "sesame oil",
+    "target": "scallions"
+  }, {
+    "value": 4.444444444444445,
+    "source": "fresh ginger",
+    "target": "soy sauce"
+  }, {
+    "value": 4.444444444444445,
+    "source": "soy sauce",
+    "target": "fresh ginger"
+  }, {
+    "value": 4.545454545454545,
+    "source": "vegetable oil",
+    "target": "corn starch"
+  }, {
+    "value": 4.545454545454545,
+    "source": "corn starch",
+    "target": "vegetable oil"
+  }, {
+    "value": 4.6632996632996635,
+    "source": "water",
+    "target": "sugar"
+  }, {
+    "value": 4.6632996632996635,
+    "source": "sugar",
+    "target": "water"
+  }, {
+    "value": 4.730639730639731,
+    "source": "sesame oil",
+    "target": "water"
+  }, {
+    "value": 4.730639730639731,
+    "source": "water",
+    "target": "sesame oil"
+  }, {
+    "value": 4.848484848484849,
+    "source": "rice vinegar",
+    "target": "soy sauce"
+  }, {
+    "value": 4.848484848484849,
+    "source": "soy sauce",
+    "target": "rice vinegar"
+  }, {
+    "value": 4.882154882154882,
+    "source": "ginger",
+    "target": "soy sauce"
+  }, {
+    "value": 4.882154882154882,
+    "source": "soy sauce",
+    "target": "ginger"
+  }, {
+    "value": 5.134680134680135,
+    "source": "water",
+    "target": "salt"
+  }, {
+    "value": 5.134680134680135,
+    "source": "salt",
+    "target": "water"
+  }, {
+    "value": 5.269360269360269,
+    "source": "garlic",
+    "target": "corn starch"
+  }, {
+    "value": 5.269360269360269,
+    "source": "corn starch",
+    "target": "garlic"
+  }, {
+    "value": 5.303030303030303,
+    "source": "salt",
+    "target": "corn starch"
+  }, {
+    "value": 5.303030303030303,
+    "source": "corn starch",
+    "target": "salt"
+  }, {
+    "value": 5.31986531986532,
+    "source": "sesame oil",
+    "target": "garlic"
+  }, {
+    "value": 5.31986531986532,
+    "source": "garlic",
+    "target": "sesame oil"
+  }, {
+    "value": 5.538720538720538,
+    "source": "vegetable oil",
+    "target": "soy sauce"
+  }, {
+    "value": 5.538720538720538,
+    "source": "soy sauce",
+    "target": "vegetable oil"
+  }, {
+    "value": 5.572390572390572,
+    "source": "sesame oil",
+    "target": "salt"
+  }, {
+    "value": 5.572390572390572,
+    "source": "salt",
+    "target": "sesame oil"
+  }, {
+    "value": 5.589225589225589,
+    "source": "sesame oil",
+    "target": "sugar"
+  }, {
+    "value": 5.589225589225589,
+    "source": "sugar",
+    "target": "sesame oil"
+  }, {
+    "value": 5.757575757575758,
+    "source": "corn starch",
+    "target": "sesame oil"
+  }, {
+    "value": 5.757575757575758,
+    "source": "sesame oil",
+    "target": "corn starch"
+  }, {
+    "value": 5.824915824915825,
+    "source": "sugar",
+    "target": "salt"
+  }, {
+    "value": 5.824915824915825,
+    "source": "salt",
+    "target": "sugar"
+  }, {
+    "value": 5.925925925925926,
+    "source": "scallions",
+    "target": "soy sauce"
+  }, {
+    "value": 5.925925925925926,
+    "source": "sugar",
+    "target": "corn starch"
+  }, {
+    "value": 5.925925925925926,
+    "source": "corn starch",
+    "target": "sugar"
+  }, {
+    "value": 5.925925925925926,
+    "source": "soy sauce",
+    "target": "scallions"
+  }, {
+    "value": 6.043771043771043,
+    "source": "green onions",
+    "target": "soy sauce"
+  }, {
+    "value": 6.043771043771043,
+    "source": "water",
+    "target": "corn starch"
+  }, {
+    "value": 6.043771043771043,
+    "source": "corn starch",
+    "target": "water"
+  }, {
+    "value": 6.043771043771043,
+    "source": "soy sauce",
+    "target": "green onions"
+  }, {
+    "value": 6.750841750841751,
+    "source": "water",
+    "target": "soy sauce"
+  }, {
+    "value": 6.750841750841751,
+    "source": "soy sauce",
+    "target": "water"
+  }, {
+    "value": 7.34006734006734,
+    "source": "salt",
+    "target": "soy sauce"
+  }, {
+    "value": 7.34006734006734,
+    "source": "soy sauce",
+    "target": "salt"
+  }, {
+    "value": 7.811447811447811,
+    "source": "sugar",
+    "target": "soy sauce"
+  }, {
+    "value": 7.811447811447811,
+    "source": "soy sauce",
+    "target": "sugar"
+  }, {
+    "value": 8.181818181818182,
+    "source": "garlic",
+    "target": "soy sauce"
+  }, {
+    "value": 8.181818181818182,
+    "source": "soy sauce",
+    "target": "garlic"
+  }, {
+    "value": 8.98989898989899,
+    "source": "corn starch",
+    "target": "soy sauce"
+  }, {
+    "value": 8.98989898989899,
+    "source": "soy sauce",
+    "target": "corn starch"
+  }, {
+    "value": 10.0,
+    "source": "sesame oil",
+    "target": "soy sauce"
+  }, {
+    "value": 10.0,
+    "source": "soy sauce",
+    "target": "sesame oil"
+  }],
+  "nodes": [{
+    "id": "kosher salt",
+    "group": 3,
+    "appearances": 185
+  }, {
+    "id": "sugar",
+    "group": 0,
+    "appearances": 824
+  }, {
+    "id": "shiitake",
+    "group": 4,
+    "appearances": 106
+  }, {
+    "id": "vegetable oil",
+    "group": 5,
+    "appearances": 602
+  }, {
+    "id": "corn starch",
+    "group": 1,
+    "appearances": 906
+  }, {
+    "id": "oil",
+    "group": 5,
+    "appearances": 338
+  }, {
+    "id": "light soy sauce",
+    "group": 3,
+    "appearances": 254
+  }, {
+    "id": "sesame oil",
+    "group": 5,
+    "appearances": 915
+  }, {
+    "id": "black pepper",
+    "group": 3,
+    "appearances": 121
+  }, {
+    "id": "chicken breasts",
+    "group": 2,
+    "appearances": 111
+  }, {
+    "id": "garlic",
+    "group": 3,
+    "appearances": 763
+  }, {
+    "id": "brown sugar",
+    "group": 1,
+    "appearances": 235
+  }, {
+    "id": "soy sauce",
+    "group": 3,
+    "appearances": 1363
+  }, {
+    "id": "green onions",
+    "group": 4,
+    "appearances": 628
+  }, {
+    "id": "toasted sesame oil",
+    "group": 5,
+    "appearances": 164
+  }, {
+    "id": "ginger",
+    "group": 4,
+    "appearances": 490
+  }, {
+    "id": "peanut oil",
+    "group": 5,
+    "appearances": 280
+  }, {
+    "id": "red bell pepper",
+    "group": 4,
+    "appearances": 157
+  }, {
+    "id": "oyster sauce",
+    "group": 3,
+    "appearances": 333
+  }, {
+    "id": "sauce",
+    "group": 3,
+    "appearances": 76
+  }, {
+    "id": "sesame seeds",
+    "group": 3,
+    "appearances": 162
+  }, {
+    "id": "fresh ginger",
+    "group": 4,
+    "appearances": 469
+  }, {
+    "id": "honey",
+    "group": 3,
+    "appearances": 241
+  }, {
+    "id": "low sodium soy sauce",
+    "group": 3,
+    "appearances": 213
+  }, {
+    "id": "water",
+    "group": 5,
+    "appearances": 762
+  }, {
+    "id": "scallions",
+    "group": 4,
+    "appearances": 591
+  }, {
+    "id": "cooking oil",
+    "group": 5,
+    "appearances": 111
+  }, {
+    "id": "garlic cloves",
+    "group": 3,
+    "appearances": 421
+  }, {
+    "id": "Sriracha",
+    "group": 3,
+    "appearances": 90
+  }, {
+    "id": "pepper",
+    "group": 3,
+    "appearances": 158
+  }, {
+    "id": "beansprouts",
+    "group": 4,
+    "appearances": 109
+  }, {
+    "id": "star anise",
+    "group": 3,
+    "appearances": 103
+  }, {
+    "id": "rice vinegar",
+    "group": 5,
+    "appearances": 461
+  }, {
+    "id": "wonton wrappers",
+    "group": 1,
+    "appearances": 101
+  }, {
+    "id": "chinese rice wine",
+    "group": 5,
+    "appearances": 126
+  }, {
+    "id": "white pepper",
+    "group": 3,
+    "appearances": 222
+  }, {
+    "id": "minced garlic",
+    "group": 3,
+    "appearances": 212
+  }, {
+    "id": "flour",
+    "group": 1,
+    "appearances": 93
+  }, {
+    "id": "red chili peppers",
+    "group": 4,
+    "appearances": 137
+  }, {
+    "id": "canola oil",
+    "group": 5,
+    "appearances": 177
+  }, {
+    "id": "snow peas",
+    "group": 4,
+    "appearances": 98
+  }, {
+    "id": "ground black pepper",
+    "group": 3,
+    "appearances": 153
+  }, {
+    "id": "salt",
+    "group": 3,
+    "appearances": 907
+  }, {
+    "id": "ground white pepper",
+    "group": 3,
+    "appearances": 124
+  }, {
+    "id": "white sugar",
+    "group": 5,
+    "appearances": 102
+  }, {
+    "id": "onions",
+    "group": 4,
+    "appearances": 280
+  }, {
+    "id": "flank steak",
+    "group": 2,
+    "appearances": 72
+  }, {
+    "id": "Shaoxing wine",
+    "group": 5,
+    "appearances": 247
+  }, {
+    "id": "carrots",
+    "group": 4,
+    "appearances": 298
+  }, {
+    "id": "rice wine",
+    "group": 5,
+    "appearances": 135
+  }, {
+    "id": "large eggs",
+    "group": 0,
+    "appearances": 145
+  }, {
+    "id": "all-purpose flour",
+    "group": 1,
+    "appearances": 129
+  }, {
+    "id": "boneless skinless chicken breasts",
+    "group": 2,
+    "appearances": 198
+  }, {
+    "id": "cold water",
+    "group": 5,
+    "appearances": 91
+  }, {
+    "id": "eggs",
+    "group": 0,
+    "appearances": 288
+  }, {
+    "id": "spring onions",
+    "group": 4,
+    "appearances": 148
+  }, {
+    "id": "dark soy sauce",
+    "group": 3,
+    "appearances": 230
+  }, {
+    "id": "chicken stock",
+    "group": 5,
+    "appearances": 161
+  }, {
+    "id": "peeled fresh ginger",
+    "group": 4,
+    "appearances": 182
+  }, {
+    "id": "chicken broth",
+    "group": 5,
+    "appearances": 165
+  }, {
+    "id": "fresh ginger root",
+    "group": 4,
+    "appearances": 96
+  }, {
+    "id": "red pepper flakes",
+    "group": 3,
+    "appearances": 98
+  }, {
+    "id": "water chestnuts",
+    "group": 4,
+    "appearances": 143
+  }, {
+    "id": "chinese five-spice powder",
+    "group": 3,
+    "appearances": 223
+  }, {
+    "id": "ground pork",
+    "group": 2,
+    "appearances": 179
+  }, {
+    "id": "hoisin sauce",
+    "group": 3,
+    "appearances": 323
+  }, {
+    "id": "napa cabbage",
+    "group": 4,
+    "appearances": 84
+  }, {
+    "id": "shrimp",
+    "group": 2,
+    "appearances": 119
+  }, {
+    "id": "szechwan peppercorns",
+    "group": 3,
+    "appearances": 134
+  }, {
+    "id": "ketchup",
+    "group": 3,
+    "appearances": 110
+  }, {
+    "id": "dry sherry",
+    "group": 5,
+    "appearances": 129
+  }, {
+    "id": "ground ginger",
+    "group": 3,
+    "appearances": 111
+  }, {
+    "id": "olive oil",
+    "group": 5,
+    "appearances": 135
+  }]
+}

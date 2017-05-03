@@ -1,1 +1,2240 @@
-{"nodes": [{"group": 3, "id": "ground cumin", "appearances": 683}, {"group": 4, "id": "onions", "appearances": 1195}, {"group": 3, "id": "garlic paste", "appearances": 221}, {"group": 4, "id": "green chilies", "appearances": 484}, {"group": 3, "id": "garam masala", "appearances": 862}, {"group": 4, "id": "lemon", "appearances": 134}, {"group": 3, "id": "salt", "appearances": 1934}, {"group": 3, "id": "tumeric", "appearances": 492}, {"group": 3, "id": "ground turmeric", "appearances": 728}, {"group": 4, "id": "fresh ginger", "appearances": 379}, {"group": 1, "id": "basmati rice", "appearances": 246}, {"group": 5, "id": "oil", "appearances": 546}, {"group": 4, "id": "potatoes", "appearances": 251}, {"group": 5, "id": "water", "appearances": 820}, {"group": 2, "id": "chicken", "appearances": 122}, {"group": 3, "id": "clove", "appearances": 306}, {"group": 3, "id": "curry powder", "appearances": 403}, {"group": 4, "id": "tomato paste", "appearances": 160}, {"group": 5, "id": "vegetable oil", "appearances": 593}, {"group": 4, "id": "tomatoes", "appearances": 521}, {"group": 3, "id": "bay leaf", "appearances": 118}, {"group": 3, "id": "ground coriander", "appearances": 380}, {"group": 0, "id": "ghee", "appearances": 273}, {"group": 3, "id": "cumin seed", "appearances": 697}, {"group": 3, "id": "cumin", "appearances": 178}, {"group": 5, "id": "sugar", "appearances": 335}, {"group": 4, "id": "peeled fresh ginger", "appearances": 155}, {"group": 3, "id": "chili powder", "appearances": 485}, {"group": 3, "id": "cinnamon sticks", "appearances": 256}, {"group": 5, "id": "olive oil", "appearances": 359}, {"group": 0, "id": "yoghurt", "appearances": 211}, {"group": 3, "id": "coriander powder", "appearances": 213}, {"group": 4, "id": "coconut milk", "appearances": 216}, {"group": 4, "id": "garlic", "appearances": 726}, {"group": 3, "id": "coriander", "appearances": 227}, {"group": 4, "id": "carrots", "appearances": 197}, {"group": 3, "id": "red chili powder", "appearances": 171}, {"group": 3, "id": "curry leaves", "appearances": 208}, {"group": 0, "id": "butter", "appearances": 273}, {"group": 3, "id": "garlic cloves", "appearances": 446}, {"group": 5, "id": "canola oil", "appearances": 159}, {"group": 4, "id": "ginger", "appearances": 526}, {"group": 3, "id": "cinnamon", "appearances": 156}, {"group": 4, "id": "cilantro leaves", "appearances": 353}, {"group": 4, "id": "purple onion", "appearances": 170}, {"group": 4, "id": "cilantro", "appearances": 156}, {"group": 4, "id": "chopped cilantro", "appearances": 155}, {"group": 3, "id": "cayenne pepper", "appearances": 249}, {"group": 3, "id": "red chili peppers", "appearances": 165}, {"group": 3, "id": "coriander seeds", "appearances": 210}, {"group": 3, "id": "mustard seeds", "appearances": 254}, {"group": 1, "id": "all-purpose flour", "appearances": 150}, {"group": 3, "id": "pepper", "appearances": 205}, {"group": 4, "id": "lemon juice", "appearances": 271}, {"group": 3, "id": "ground black pepper", "appearances": 210}, {"group": 3, "id": "paprika", "appearances": 189}, {"group": 3, "id": "black pepper", "appearances": 161}, {"group": 0, "id": "plain yogurt", "appearances": 244}, {"group": 4, "id": "chopped cilantro fresh", "appearances": 239}], "links": [{"value": 1.0655737704918031, "source": "ground cumin", "target": "chopped cilantro fresh"}, {"value": 1.0655737704918031, "source": "onions", "target": "ground black pepper"}, {"value": 1.0655737704918031, "source": "garlic paste", "target": "green chilies"}, {"value": 1.0655737704918031, "source": "green chilies", "target": "garlic paste"}, {"value": 1.0772833723653394, "source": "garam masala", "target": "potatoes"}, {"value": 1.0772833723653394, "source": "lemon", "target": "salt"}, {"value": 1.0772833723653394, "source": "salt", "target": "lemon"}, {"value": 1.0772833723653394, "source": "tumeric", "target": "fresh ginger"}, {"value": 1.0772833723653394, "source": "ground turmeric", "target": "fresh ginger"}, {"value": 1.0772833723653394, "source": "fresh ginger", "target": "tumeric"}, {"value": 1.0772833723653394, "source": "fresh ginger", "target": "ground turmeric"}, {"value": 1.0772833723653394, "source": "ground cumin", "target": "oil"}, {"value": 1.0772833723653394, "source": "basmati rice", "target": "water"}, {"value": 1.0772833723653394, "source": "oil", "target": "ground cumin"}, {"value": 1.0772833723653394, "source": "potatoes", "target": "garam masala"}, {"value": 1.0772833723653394, "source": "water", "target": "basmati rice"}, {"value": 1.0889929742388758, "source": "salt", "target": "chicken"}, {"value": 1.0889929742388758, "source": "chicken", "target": "salt"}, {"value": 1.100702576112412, "source": "clove", "target": "green chilies"}, {"value": 1.100702576112412, "source": "curry powder", "target": "vegetable oil"}, {"value": 1.100702576112412, "source": "clove", "target": "tomatoes"}, {"value": 1.100702576112412, "source": "tomato paste", "target": "onions"}, {"value": 1.100702576112412, "source": "vegetable oil", "target": "curry powder"}, {"value": 1.100702576112412, "source": "salt", "target": "bay leaf"}, {"value": 1.100702576112412, "source": "green chilies", "target": "clove"}, {"value": 1.100702576112412, "source": "tomatoes", "target": "clove"}, {"value": 1.100702576112412, "source": "bay leaf", "target": "salt"}, {"value": 1.100702576112412, "source": "onions", "target": "tomato paste"}, {"value": 1.1124121779859484, "source": "garam masala", "target": "ghee"}, {"value": 1.1124121779859484, "source": "ground coriander", "target": "fresh ginger"}, {"value": 1.1124121779859484, "source": "curry powder", "target": "water"}, {"value": 1.1124121779859484, "source": "water", "target": "curry powder"}, {"value": 1.1124121779859484, "source": "water", "target": "ghee"}, {"value": 1.1124121779859484, "source": "ghee", "target": "water"}, {"value": 1.1124121779859484, "source": "ghee", "target": "garam masala"}, {"value": 1.1124121779859484, "source": "fresh ginger", "target": "ground coriander"}, {"value": 1.1241217798594847, "source": "salt", "target": "peeled fresh ginger"}, {"value": 1.1241217798594847, "source": "cumin seed", "target": "potatoes"}, {"value": 1.1241217798594847, "source": "cumin", "target": "garam masala"}, {"value": 1.1241217798594847, "source": "garam masala", "target": "cumin"}, {"value": 1.1241217798594847, "source": "water", "target": "sugar"}, {"value": 1.1241217798594847, "source": "sugar", "target": "water"}, {"value": 1.1241217798594847, "source": "peeled fresh ginger", "target": "salt"}, {"value": 1.1241217798594847, "source": "potatoes", "target": "cumin seed"}, {"value": 1.135831381733021, "source": "garlic paste", "target": "ground turmeric"}, {"value": 1.135831381733021, "source": "tumeric", "target": "chili powder"}, {"value": 1.135831381733021, "source": "chili powder", "target": "tumeric"}, {"value": 1.135831381733021, "source": "cumin seed", "target": "cinnamon sticks"}, {"value": 1.135831381733021, "source": "ground turmeric", "target": "garlic paste"}, {"value": 1.135831381733021, "source": "tomatoes", "target": "garlic paste"}, {"value": 1.135831381733021, "source": "cinnamon sticks", "target": "cumin seed"}, {"value": 1.135831381733021, "source": "garlic paste", "target": "tomatoes"}, {"value": 1.1475409836065573, "source": "olive oil", "target": "ground cumin"}, {"value": 1.1475409836065573, "source": "yoghurt", "target": "onions"}, {"value": 1.1475409836065573, "source": "tomatoes", "target": "coriander powder"}, {"value": 1.1475409836065573, "source": "coriander powder", "target": "tomatoes"}, {"value": 1.1475409836065573, "source": "onions", "target": "yoghurt"}, {"value": 1.1475409836065573, "source": "ground cumin", "target": "olive oil"}, {"value": 1.1592505854800936, "source": "garam masala", "target": "coriander"}, {"value": 1.1592505854800936, "source": "cumin seed", "target": "ground cumin"}, {"value": 1.1592505854800936, "source": "coconut milk", "target": "garlic"}, {"value": 1.1592505854800936, "source": "tomato paste", "target": "garam masala"}, {"value": 1.1592505854800936, "source": "ground cumin", "target": "cumin seed"}, {"value": 1.1592505854800936, "source": "garlic", "target": "coconut milk"}, {"value": 1.1592505854800936, "source": "coriander", "target": "garam masala"}, {"value": 1.1592505854800936, "source": "garam masala", "target": "tomato paste"}, {"value": 1.17096018735363, "source": "carrots", "target": "onions"}, {"value": 1.17096018735363, "source": "vegetable oil", "target": "fresh ginger"}, {"value": 1.17096018735363, "source": "oil", "target": "tumeric"}, {"value": 1.17096018735363, "source": "tumeric", "target": "oil"}, {"value": 1.17096018735363, "source": "oil", "target": "red chili powder"}, {"value": 1.17096018735363, "source": "onions", "target": "carrots"}, {"value": 1.17096018735363, "source": "red chili powder", "target": "oil"}, {"value": 1.17096018735363, "source": "fresh ginger", "target": "vegetable oil"}, {"value": 1.1826697892271663, "source": "garlic", "target": "butter"}, {"value": 1.1826697892271663, "source": "garam masala", "target": "clove"}, {"value": 1.1826697892271663, "source": "clove", "target": "garam masala"}, {"value": 1.1826697892271663, "source": "curry leaves", "target": "ground turmeric"}, {"value": 1.1826697892271663, "source": "butter", "target": "garlic"}, {"value": 1.1826697892271663, "source": "garlic", "target": "oil"}, {"value": 1.1826697892271663, "source": "ground turmeric", "target": "curry leaves"}, {"value": 1.1826697892271663, "source": "oil", "target": "garlic"}, {"value": 1.2060889929742389, "source": "red chili powder", "target": "onions"}, {"value": 1.2060889929742389, "source": "onions", "target": "red chili powder"}, {"value": 1.2060889929742389, "source": "tumeric", "target": "green chilies"}, {"value": 1.2060889929742389, "source": "garlic cloves", "target": "ginger"}, {"value": 1.2060889929742389, "source": "tumeric", "target": "garlic cloves"}, {"value": 1.2060889929742389, "source": "salt", "target": "canola oil"}, {"value": 1.2060889929742389, "source": "green chilies", "target": "tumeric"}, {"value": 1.2060889929742389, "source": "garlic cloves", "target": "tumeric"}, {"value": 1.2060889929742389, "source": "canola oil", "target": "salt"}, {"value": 1.2060889929742389, "source": "ginger", "target": "garlic cloves"}, {"value": 1.2177985948477752, "source": "water", "target": "cinnamon sticks"}, {"value": 1.2177985948477752, "source": "cinnamon sticks", "target": "water"}, {"value": 1.2177985948477752, "source": "tomatoes", "target": "vegetable oil"}, {"value": 1.2177985948477752, "source": "vegetable oil", "target": "tomatoes"}, {"value": 1.2295081967213115, "source": "cumin seed", "target": "cilantro leaves"}, {"value": 1.2295081967213115, "source": "ground coriander", "target": "tumeric"}, {"value": 1.2295081967213115, "source": "tumeric", "target": "ground coriander"}, {"value": 1.2295081967213115, "source": "cinnamon", "target": "salt"}, {"value": 1.2295081967213115, "source": "garlic cloves", "target": "ground coriander"}, {"value": 1.2295081967213115, "source": "cilantro leaves", "target": "cumin seed"}, {"value": 1.2295081967213115, "source": "salt", "target": "cinnamon"}, {"value": 1.2295081967213115, "source": "salt", "target": "purple onion"}, {"value": 1.2295081967213115, "source": "purple onion", "target": "salt"}, {"value": 1.2295081967213115, "source": "ground coriander", "target": "garlic cloves"}, {"value": 1.2412177985948478, "source": "water", "target": "cilantro leaves"}, {"value": 1.2412177985948478, "source": "cilantro", "target": "salt"}, {"value": 1.2412177985948478, "source": "salt", "target": "cilantro"}, {"value": 1.2412177985948478, "source": "cilantro leaves", "target": "water"}, {"value": 1.2529274004683841, "source": "clove", "target": "cumin seed"}, {"value": 1.2529274004683841, "source": "cumin seed", "target": "clove"}, {"value": 1.2646370023419204, "source": "clove", "target": "ground turmeric"}, {"value": 1.2646370023419204, "source": "ghee", "target": "onions"}, {"value": 1.2646370023419204, "source": "onions", "target": "ghee"}, {"value": 1.2646370023419204, "source": "ground coriander", "target": "vegetable oil"}, {"value": 1.2646370023419204, "source": "chopped cilantro", "target": "salt"}, {"value": 1.2646370023419204, "source": "vegetable oil", "target": "ground coriander"}, {"value": 1.2646370023419204, "source": "ground turmeric", "target": "clove"}, {"value": 1.2646370023419204, "source": "salt", "target": "chopped cilantro"}, {"value": 1.2763466042154568, "source": "onions", "target": "cayenne pepper"}, {"value": 1.2763466042154568, "source": "water", "target": "fresh ginger"}, {"value": 1.2763466042154568, "source": "fresh ginger", "target": "water"}, {"value": 1.2763466042154568, "source": "cayenne pepper", "target": "onions"}, {"value": 1.288056206088993, "source": "ground cumin", "target": "cayenne pepper"}, {"value": 1.288056206088993, "source": "garlic cloves", "target": "water"}, {"value": 1.288056206088993, "source": "water", "target": "garlic cloves"}, {"value": 1.288056206088993, "source": "cayenne pepper", "target": "ground cumin"}, {"value": 1.2997658079625294, "source": "fresh ginger", "target": "cumin seed"}, {"value": 1.2997658079625294, "source": "chili powder", "target": "coriander powder"}, {"value": 1.2997658079625294, "source": "coriander powder", "target": "chili powder"}, {"value": 1.2997658079625294, "source": "cumin seed", "target": "fresh ginger"}, {"value": 1.3114754098360657, "source": "red chili peppers", "target": "salt"}, {"value": 1.3114754098360657, "source": "curry powder", "target": "olive oil"}, {"value": 1.3114754098360657, "source": "olive oil", "target": "garlic"}, {"value": 1.3114754098360657, "source": "olive oil", "target": "garam masala"}, {"value": 1.3114754098360657, "source": "olive oil", "target": "curry powder"}, {"value": 1.3114754098360657, "source": "garlic", "target": "olive oil"}, {"value": 1.3114754098360657, "source": "garam masala", "target": "olive oil"}, {"value": 1.3114754098360657, "source": "salt", "target": "red chili peppers"}, {"value": 1.323185011709602, "source": "coriander seeds", "target": "salt"}, {"value": 1.323185011709602, "source": "curry leaves", "target": "green chilies"}, {"value": 1.323185011709602, "source": "fresh ginger", "target": "garlic cloves"}, {"value": 1.323185011709602, "source": "garlic cloves", "target": "fresh ginger"}, {"value": 1.323185011709602, "source": "cayenne pepper", "target": "garam masala"}, {"value": 1.323185011709602, "source": "green chilies", "target": "curry leaves"}, {"value": 1.323185011709602, "source": "salt", "target": "coriander seeds"}, {"value": 1.323185011709602, "source": "garam masala", "target": "butter"}, {"value": 1.323185011709602, "source": "garam masala", "target": "cayenne pepper"}, {"value": 1.323185011709602, "source": "butter", "target": "garam masala"}, {"value": 1.3348946135831383, "source": "garlic", "target": "cayenne pepper"}, {"value": 1.3348946135831383, "source": "chili powder", "target": "cilantro leaves"}, {"value": 1.3348946135831383, "source": "ground turmeric", "target": "mustard seeds"}, {"value": 1.3348946135831383, "source": "cayenne pepper", "target": "garlic"}, {"value": 1.3348946135831383, "source": "cilantro leaves", "target": "chili powder"}, {"value": 1.3348946135831383, "source": "mustard seeds", "target": "ground turmeric"}, {"value": 1.3466042154566746, "source": "salt", "target": "all-purpose flour"}, {"value": 1.3466042154566746, "source": "all-purpose flour", "target": "salt"}, {"value": 1.3466042154566746, "source": "water", "target": "clove"}, {"value": 1.3466042154566746, "source": "clove", "target": "water"}, {"value": 1.358313817330211, "source": "coriander powder", "target": "oil"}, {"value": 1.358313817330211, "source": "onions", "target": "pepper"}, {"value": 1.358313817330211, "source": "pepper", "target": "onions"}, {"value": 1.358313817330211, "source": "oil", "target": "coriander powder"}, {"value": 1.3700234192037473, "source": "oil", "target": "garlic paste"}, {"value": 1.3700234192037473, "source": "garlic paste", "target": "oil"}, {"value": 1.3700234192037473, "source": "tomatoes", "target": "tumeric"}, {"value": 1.3700234192037473, "source": "lemon juice", "target": "garam masala"}, {"value": 1.3700234192037473, "source": "garam masala", "target": "lemon juice"}, {"value": 1.3700234192037473, "source": "garlic cloves", "target": "cumin seed"}, {"value": 1.3700234192037473, "source": "tumeric", "target": "tomatoes"}, {"value": 1.3700234192037473, "source": "onions", "target": "curry leaves"}, {"value": 1.3700234192037473, "source": "curry leaves", "target": "onions"}, {"value": 1.3700234192037473, "source": "cumin seed", "target": "garlic cloves"}, {"value": 1.3817330210772831, "source": "coconut milk", "target": "onions"}, {"value": 1.3817330210772831, "source": "onions", "target": "basmati rice"}, {"value": 1.3817330210772831, "source": "basmati rice", "target": "onions"}, {"value": 1.3817330210772831, "source": "onions", "target": "coconut milk"}, {"value": 1.4051522248243558, "source": "carrots", "target": "salt"}, {"value": 1.4051522248243558, "source": "curry powder", "target": "garlic"}, {"value": 1.4051522248243558, "source": "water", "target": "ground coriander"}, {"value": 1.4051522248243558, "source": "salt", "target": "carrots"}, {"value": 1.4051522248243558, "source": "ground coriander", "target": "water"}, {"value": 1.4051522248243558, "source": "garlic", "target": "curry powder"}, {"value": 1.4168618266978923, "source": "lemon juice", "target": "onions"}, {"value": 1.4168618266978923, "source": "onions", "target": "butter"}, {"value": 1.4168618266978923, "source": "butter", "target": "onions"}, {"value": 1.4168618266978923, "source": "onions", "target": "lemon juice"}, {"value": 1.4285714285714284, "source": "onions", "target": "mustard seeds"}, {"value": 1.4285714285714284, "source": "cumin seed", "target": "mustard seeds"}, {"value": 1.4285714285714284, "source": "mustard seeds", "target": "onions"}, {"value": 1.4285714285714284, "source": "mustard seeds", "target": "cumin seed"}, {"value": 1.440281030444965, "source": "cumin seed", "target": "chili powder"}, {"value": 1.440281030444965, "source": "chili powder", "target": "cumin seed"}, {"value": 1.451990632318501, "source": "fresh ginger", "target": "ground cumin"}, {"value": 1.451990632318501, "source": "ground cumin", "target": "fresh ginger"}, {"value": 1.4637002341920375, "source": "tumeric", "target": "vegetable oil"}, {"value": 1.4637002341920375, "source": "onions", "target": "coriander"}, {"value": 1.4637002341920375, "source": "vegetable oil", "target": "tumeric"}, {"value": 1.4637002341920375, "source": "coriander", "target": "onions"}, {"value": 1.4754098360655736, "source": "ginger", "target": "ground cumin"}, {"value": 1.4754098360655736, "source": "ground cumin", "target": "ginger"}, {"value": 1.4754098360655736, "source": "garlic paste", "target": "garam masala"}, {"value": 1.4754098360655736, "source": "garam masala", "target": "garlic paste"}, {"value": 1.4871194379391102, "source": "green chilies", "target": "garlic"}, {"value": 1.4871194379391102, "source": "ground cumin", "target": "tumeric"}, {"value": 1.4871194379391102, "source": "garlic", "target": "green chilies"}, {"value": 1.4871194379391102, "source": "tumeric", "target": "ground cumin"}, {"value": 1.5105386416861828, "source": "ground black pepper", "target": "salt"}, {"value": 1.5105386416861828, "source": "paprika", "target": "salt"}, {"value": 1.5105386416861828, "source": "salt", "target": "ground black pepper"}, {"value": 1.5105386416861828, "source": "salt", "target": "paprika"}, {"value": 1.5222482435597189, "source": "garlic cloves", "target": "ground turmeric"}, {"value": 1.5222482435597189, "source": "ground turmeric", "target": "garlic cloves"}, {"value": 1.5456674473067915, "source": "chili powder", "target": "ginger"}, {"value": 1.5456674473067915, "source": "water", "target": "chili powder"}, {"value": 1.5456674473067915, "source": "ginger", "target": "chili powder"}, {"value": 1.5456674473067915, "source": "chili powder", "target": "water"}, {"value": 1.5690866510538641, "source": "cumin", "target": "salt"}, {"value": 1.5690866510538641, "source": "salt", "target": "cumin"}, {"value": 1.5807962529274007, "source": "salt", "target": "black pepper"}, {"value": 1.5807962529274007, "source": "ground turmeric", "target": "coriander powder"}, {"value": 1.5807962529274007, "source": "black pepper", "target": "salt"}, {"value": 1.5807962529274007, "source": "coriander powder", "target": "ground turmeric"}, {"value": 1.6042154566744733, "source": "garlic cloves", "target": "vegetable oil"}, {"value": 1.6042154566744733, "source": "vegetable oil", "target": "garlic cloves"}, {"value": 1.6042154566744733, "source": "cilantro leaves", "target": "tomatoes"}, {"value": 1.6042154566744733, "source": "garlic", "target": "ground coriander"}, {"value": 1.6042154566744733, "source": "tomatoes", "target": "cilantro leaves"}, {"value": 1.6042154566744733, "source": "ground coriander", "target": "garlic"}, {"value": 1.6159250585480094, "source": "ginger", "target": "oil"}, {"value": 1.6159250585480094, "source": "water", "target": "ginger"}, {"value": 1.6159250585480094, "source": "oil", "target": "ginger"}, {"value": 1.6159250585480094, "source": "ginger", "target": "water"}, {"value": 1.6276346604215455, "source": "garam masala", "target": "cilantro leaves"}, {"value": 1.6276346604215455, "source": "cilantro leaves", "target": "ground turmeric"}, {"value": 1.6276346604215455, "source": "ground turmeric", "target": "cilantro leaves"}, {"value": 1.6276346604215455, "source": "cilantro leaves", "target": "garam masala"}, {"value": 1.651053864168618, "source": "chili powder", "target": "green chilies"}, {"value": 1.651053864168618, "source": "green chilies", "target": "chili powder"}, {"value": 1.651053864168618, "source": "garam masala", "target": "coriander powder"}, {"value": 1.651053864168618, "source": "cinnamon sticks", "target": "onions"}, {"value": 1.651053864168618, "source": "onions", "target": "cinnamon sticks"}, {"value": 1.651053864168618, "source": "coriander powder", "target": "garam masala"}, {"value": 1.6744730679156907, "source": "coconut milk", "target": "salt"}, {"value": 1.6744730679156907, "source": "potatoes", "target": "onions"}, {"value": 1.6744730679156907, "source": "salt", "target": "coconut milk"}, {"value": 1.6744730679156907, "source": "onions", "target": "potatoes"}, {"value": 1.686182669789227, "source": "water", "target": "tumeric"}, {"value": 1.686182669789227, "source": "clove", "target": "cinnamon sticks"}, {"value": 1.686182669789227, "source": "cinnamon sticks", "target": "clove"}, {"value": 1.686182669789227, "source": "tumeric", "target": "water"}, {"value": 1.6978922716627634, "source": "ground coriander", "target": "garam masala"}, {"value": 1.6978922716627634, "source": "garam masala", "target": "ground coriander"}, {"value": 1.6978922716627634, "source": "cumin seed", "target": "coriander seeds"}, {"value": 1.6978922716627634, "source": "coriander seeds", "target": "cumin seed"}, {"value": 1.6978922716627634, "source": "tomatoes", "target": "ginger"}, {"value": 1.6978922716627634, "source": "ginger", "target": "tomatoes"}, {"value": 1.7096018735362997, "source": "garlic", "target": "vegetable oil"}, {"value": 1.7096018735362997, "source": "olive oil", "target": "onions"}, {"value": 1.7096018735362997, "source": "vegetable oil", "target": "garlic"}, {"value": 1.7096018735362997, "source": "onions", "target": "olive oil"}, {"value": 1.721311475409836, "source": "ground turmeric", "target": "ground coriander"}, {"value": 1.721311475409836, "source": "garlic", "target": "chili powder"}, {"value": 1.721311475409836, "source": "ground coriander", "target": "ground turmeric"}, {"value": 1.721311475409836, "source": "chili powder", "target": "garlic"}, {"value": 1.721311475409836, "source": "salt", "target": "basmati rice"}, {"value": 1.721311475409836, "source": "basmati rice", "target": "salt"}, {"value": 1.721311475409836, "source": "chili powder", "target": "ground cumin"}, {"value": 1.721311475409836, "source": "ground cumin", "target": "chili powder"}, {"value": 1.7447306791569086, "source": "coriander powder", "target": "onions"}, {"value": 1.7447306791569086, "source": "onions", "target": "coriander powder"}, {"value": 1.7681498829039812, "source": "green chilies", "target": "cilantro leaves"}, {"value": 1.7681498829039812, "source": "cilantro leaves", "target": "green chilies"}, {"value": 1.7681498829039812, "source": "oil", "target": "cumin seed"}, {"value": 1.7681498829039812, "source": "cumin seed", "target": "oil"}, {"value": 1.7915690866510539, "source": "salt", "target": "red chili powder"}, {"value": 1.7915690866510539, "source": "red chili powder", "target": "salt"}, {"value": 1.8032786885245902, "source": "tomatoes", "target": "ground cumin"}, {"value": 1.8032786885245902, "source": "onions", "target": "garlic paste"}, {"value": 1.8032786885245902, "source": "ground cumin", "target": "tomatoes"}, {"value": 1.8032786885245902, "source": "yoghurt", "target": "salt"}, {"value": 1.8032786885245902, "source": "salt", "target": "yoghurt"}, {"value": 1.8032786885245902, "source": "garlic paste", "target": "onions"}, {"value": 1.8149882903981265, "source": "cumin seed", "target": "tumeric"}, {"value": 1.8149882903981265, "source": "water", "target": "green chilies"}, {"value": 1.8149882903981265, "source": "green chilies", "target": "water"}, {"value": 1.8149882903981265, "source": "salt", "target": "plain yogurt"}, {"value": 1.8149882903981265, "source": "plain yogurt", "target": "salt"}, {"value": 1.8149882903981265, "source": "tumeric", "target": "cumin seed"}, {"value": 1.8266978922716628, "source": "salt", "target": "chopped cilantro fresh"}, {"value": 1.8266978922716628, "source": "chopped cilantro fresh", "target": "salt"}, {"value": 1.838407494145199, "source": "fresh ginger", "target": "garam masala"}, {"value": 1.838407494145199, "source": "garam masala", "target": "fresh ginger"}, {"value": 1.8501170960187354, "source": "oil", "target": "cilantro leaves"}, {"value": 1.8501170960187354, "source": "cilantro leaves", "target": "oil"}, {"value": 1.8501170960187354, "source": "ginger", "target": "tumeric"}, {"value": 1.8501170960187354, "source": "tumeric", "target": "ginger"}, {"value": 1.8618266978922717, "source": "ginger", "target": "ground turmeric"}, {"value": 1.8618266978922717, "source": "coriander", "target": "salt"}, {"value": 1.8618266978922717, "source": "salt", "target": "coriander"}, {"value": 1.8618266978922717, "source": "ground turmeric", "target": "ginger"}, {"value": 1.873536299765808, "source": "tomatoes", "target": "green chilies"}, {"value": 1.873536299765808, "source": "water", "target": "tomatoes"}, {"value": 1.873536299765808, "source": "green chilies", "target": "tomatoes"}, {"value": 1.873536299765808, "source": "tomatoes", "target": "water"}, {"value": 1.8852459016393441, "source": "vegetable oil", "target": "ground cumin"}, {"value": 1.8852459016393441, "source": "tomatoes", "target": "chili powder"}, {"value": 1.8852459016393441, "source": "chili powder", "target": "tomatoes"}, {"value": 1.8852459016393441, "source": "ground cumin", "target": "vegetable oil"}, {"value": 1.8969555035128804, "source": "salt", "target": "cayenne pepper"}, {"value": 1.8969555035128804, "source": "garlic cloves", "target": "ground cumin"}, {"value": 1.8969555035128804, "source": "cayenne pepper", "target": "salt"}, {"value": 1.8969555035128804, "source": "ground cumin", "target": "garlic cloves"}, {"value": 1.9086651053864168, "source": "garlic", "target": "fresh ginger"}, {"value": 1.9086651053864168, "source": "fresh ginger", "target": "garlic"}, {"value": 1.920374707259953, "source": "curry leaves", "target": "salt"}, {"value": 1.920374707259953, "source": "garlic cloves", "target": "garam masala"}, {"value": 1.920374707259953, "source": "oil", "target": "tomatoes"}, {"value": 1.920374707259953, "source": "garam masala", "target": "garlic cloves"}, {"value": 1.920374707259953, "source": "tomatoes", "target": "oil"}, {"value": 1.920374707259953, "source": "salt", "target": "curry leaves"}, {"value": 1.9320843091334894, "source": "green chilies", "target": "ginger"}, {"value": 1.9320843091334894, "source": "ginger", "target": "green chilies"}, {"value": 1.9437939110070257, "source": "vegetable oil", "target": "garam masala"}, {"value": 1.9437939110070257, "source": "cumin seed", "target": "vegetable oil"}, {"value": 1.9437939110070257, "source": "garam masala", "target": "vegetable oil"}, {"value": 1.9437939110070257, "source": "vegetable oil", "target": "cumin seed"}, {"value": 2.0140515222482436, "source": "vegetable oil", "target": "ground turmeric"}, {"value": 2.0140515222482436, "source": "ground turmeric", "target": "vegetable oil"}, {"value": 2.0491803278688527, "source": "cinnamon sticks", "target": "salt"}, {"value": 2.0491803278688527, "source": "salt", "target": "cinnamon sticks"}, {"value": 2.060889929742389, "source": "water", "target": "ground cumin"}, {"value": 2.060889929742389, "source": "ground cumin", "target": "water"}, {"value": 2.096018735362998, "source": "oil", "target": "chili powder"}, {"value": 2.096018735362998, "source": "chili powder", "target": "oil"}, {"value": 2.11943793911007, "source": "oil", "target": "water"}, {"value": 2.11943793911007, "source": "ginger", "target": "cumin seed"}, {"value": 2.11943793911007, "source": "ground turmeric", "target": "green chilies"}, {"value": 2.11943793911007, "source": "cumin seed", "target": "ginger"}, {"value": 2.11943793911007, "source": "cumin seed", "target": "green chilies"}, {"value": 2.11943793911007, "source": "green chilies", "target": "cumin seed"}, {"value": 2.11943793911007, "source": "green chilies", "target": "ground turmeric"}, {"value": 2.11943793911007, "source": "water", "target": "oil"}, {"value": 2.1311475409836063, "source": "salt", "target": "ghee"}, {"value": 2.1311475409836063, "source": "ghee", "target": "salt"}, {"value": 2.154566744730679, "source": "fresh ginger", "target": "onions"}, {"value": 2.154566744730679, "source": "onions", "target": "fresh ginger"}, {"value": 2.154566744730679, "source": "green chilies", "target": "garam masala"}, {"value": 2.154566744730679, "source": "garam masala", "target": "green chilies"}, {"value": 2.1662763466042154, "source": "garlic", "target": "tumeric"}, {"value": 2.1662763466042154, "source": "tumeric", "target": "garlic"}, {"value": 2.1662763466042154, "source": "onions", "target": "ground coriander"}, {"value": 2.1662763466042154, "source": "ground coriander", "target": "onions"}, {"value": 2.1662763466042154, "source": "tomatoes", "target": "garlic"}, {"value": 2.1662763466042154, "source": "garlic", "target": "tomatoes"}, {"value": 2.201405152224824, "source": "garlic paste", "target": "salt"}, {"value": 2.201405152224824, "source": "salt", "target": "potatoes"}, {"value": 2.201405152224824, "source": "potatoes", "target": "salt"}, {"value": 2.201405152224824, "source": "salt", "target": "garlic paste"}, {"value": 2.2131147540983607, "source": "ground turmeric", "target": "oil"}, {"value": 2.2131147540983607, "source": "salt", "target": "pepper"}, {"value": 2.2131147540983607, "source": "oil", "target": "ground turmeric"}, {"value": 2.2131147540983607, "source": "pepper", "target": "salt"}, {"value": 2.2248243559718968, "source": "cumin seed", "target": "garlic"}, {"value": 2.2248243559718968, "source": "garlic", "target": "cumin seed"}, {"value": 2.2482435597189694, "source": "cumin seed", "target": "tomatoes"}, {"value": 2.2482435597189694, "source": "water", "target": "vegetable oil"}, {"value": 2.2482435597189694, "source": "vegetable oil", "target": "water"}, {"value": 2.2482435597189694, "source": "tomatoes", "target": "cumin seed"}, {"value": 2.259953161592506, "source": "onions", "target": "curry powder"}, {"value": 2.259953161592506, "source": "coriander powder", "target": "salt"}, {"value": 2.259953161592506, "source": "salt", "target": "coriander powder"}, {"value": 2.259953161592506, "source": "clove", "target": "onions"}, {"value": 2.259953161592506, "source": "curry powder", "target": "onions"}, {"value": 2.259953161592506, "source": "onions", "target": "clove"}, {"value": 2.271662763466042, "source": "mustard seeds", "target": "salt"}, {"value": 2.271662763466042, "source": "salt", "target": "mustard seeds"}, {"value": 2.306791569086651, "source": "cilantro leaves", "target": "onions"}, {"value": 2.306791569086651, "source": "onions", "target": "cilantro leaves"}, {"value": 2.3536299765807964, "source": "salt", "target": "butter"}, {"value": 2.3536299765807964, "source": "butter", "target": "salt"}, {"value": 2.3653395784543325, "source": "salt", "target": "olive oil"}, {"value": 2.3653395784543325, "source": "olive oil", "target": "salt"}, {"value": 2.4004683840749412, "source": "sugar", "target": "salt"}, {"value": 2.4004683840749412, "source": "salt", "target": "sugar"}, {"value": 2.4355971896955504, "source": "onions", "target": "garlic cloves"}, {"value": 2.4355971896955504, "source": "garlic cloves", "target": "onions"}, {"value": 2.4824355971896956, "source": "garlic", "target": "ground turmeric"}, {"value": 2.4824355971896956, "source": "ground turmeric", "target": "garlic"}, {"value": 2.4941451990632317, "source": "tumeric", "target": "garam masala"}, {"value": 2.4941451990632317, "source": "water", "target": "garlic"}, {"value": 2.4941451990632317, "source": "garlic", "target": "water"}, {"value": 2.4941451990632317, "source": "garam masala", "target": "tumeric"}, {"value": 2.5058548009367683, "source": "garlic", "target": "ground cumin"}, {"value": 2.5058548009367683, "source": "ground cumin", "target": "garlic"}, {"value": 2.5175644028103044, "source": "ground turmeric", "target": "chili powder"}, {"value": 2.5175644028103044, "source": "chili powder", "target": "ground turmeric"}, {"value": 2.5175644028103044, "source": "salt", "target": "lemon juice"}, {"value": 2.5175644028103044, "source": "lemon juice", "target": "salt"}, {"value": 2.5526932084309135, "source": "garam masala", "target": "oil"}, {"value": 2.5526932084309135, "source": "oil", "target": "garam masala"}, {"value": 2.5644028103044496, "source": "ground turmeric", "target": "tomatoes"}, {"value": 2.5644028103044496, "source": "tomatoes", "target": "ground turmeric"}, {"value": 2.5995316159250588, "source": "salt", "target": "clove"}, {"value": 2.5995316159250588, "source": "clove", "target": "salt"}, {"value": 2.6346604215456675, "source": "water", "target": "garam masala"}, {"value": 2.6346604215456675, "source": "garam masala", "target": "water"}, {"value": 2.65807962529274, "source": "ground coriander", "target": "salt"}, {"value": 2.65807962529274, "source": "salt", "target": "ground coriander"}, {"value": 2.716627634660422, "source": "oil", "target": "green chilies"}, {"value": 2.716627634660422, "source": "green chilies", "target": "oil"}, {"value": 2.7868852459016393, "source": "water", "target": "cumin seed"}, {"value": 2.7868852459016393, "source": "cumin seed", "target": "water"}, {"value": 2.7985948477751754, "source": "garam masala", "target": "ginger"}, {"value": 2.7985948477751754, "source": "ginger", "target": "garam masala"}, {"value": 2.822014051522248, "source": "water", "target": "ground turmeric"}, {"value": 2.822014051522248, "source": "ground turmeric", "target": "water"}, {"value": 2.8454332552693207, "source": "chili powder", "target": "garam masala"}, {"value": 2.8454332552693207, "source": "garam masala", "target": "chili powder"}, {"value": 2.892271662763466, "source": "tomatoes", "target": "garam masala"}, {"value": 2.892271662763466, "source": "garam masala", "target": "tomatoes"}, {"value": 2.903981264637002, "source": "cumin seed", "target": "garam masala"}, {"value": 2.903981264637002, "source": "garam masala", "target": "cumin seed"}, {"value": 2.927400468384075, "source": "fresh ginger", "target": "salt"}, {"value": 2.927400468384075, "source": "salt", "target": "fresh ginger"}, {"value": 2.939110070257611, "source": "ginger", "target": "garlic"}, {"value": 2.939110070257611, "source": "garlic", "target": "ginger"}, {"value": 2.9742388758782203, "source": "onions", "target": "tumeric"}, {"value": 2.9742388758782203, "source": "tumeric", "target": "onions"}, {"value": 2.9859484777517564, "source": "ground cumin", "target": "garam masala"}, {"value": 2.9859484777517564, "source": "garam masala", "target": "ground cumin"}, {"value": 2.9976580796252925, "source": "salt", "target": "curry powder"}, {"value": 2.9976580796252925, "source": "ground cumin", "target": "ground turmeric"}, {"value": 2.9976580796252925, "source": "curry powder", "target": "salt"}, {"value": 2.9976580796252925, "source": "ground turmeric", "target": "ground cumin"}, {"value": 3.0210772833723656, "source": "ground cumin", "target": "ground coriander"}, {"value": 3.0210772833723656, "source": "ground coriander", "target": "ground cumin"}, {"value": 3.067915690866511, "source": "salt", "target": "cilantro leaves"}, {"value": 3.067915690866511, "source": "cilantro leaves", "target": "salt"}, {"value": 3.1030444964871196, "source": "salt", "target": "garlic cloves"}, {"value": 3.1030444964871196, "source": "garlic cloves", "target": "salt"}, {"value": 3.2435597189695553, "source": "cumin seed", "target": "ground turmeric"}, {"value": 3.2435597189695553, "source": "ground turmeric", "target": "cumin seed"}, {"value": 3.325526932084309, "source": "garam masala", "target": "ground turmeric"}, {"value": 3.325526932084309, "source": "ground turmeric", "target": "garam masala"}, {"value": 3.360655737704918, "source": "ginger", "target": "onions"}, {"value": 3.360655737704918, "source": "onions", "target": "ginger"}, {"value": 3.4074941451990632, "source": "chili powder", "target": "onions"}, {"value": 3.4074941451990632, "source": "onions", "target": "chili powder"}, {"value": 3.4192037470725993, "source": "vegetable oil", "target": "onions"}, {"value": 3.4192037470725993, "source": "onions", "target": "vegetable oil"}, {"value": 3.5011709601873537, "source": "garam masala", "target": "garlic"}, {"value": 3.5011709601873537, "source": "garlic", "target": "garam masala"}, {"value": 3.51288056206089, "source": "onions", "target": "oil"}, {"value": 3.51288056206089, "source": "oil", "target": "onions"}, {"value": 3.5362997658079625, "source": "green chilies", "target": "onions"}, {"value": 3.5362997658079625, "source": "onions", "target": "green chilies"}, {"value": 3.618266978922717, "source": "onions", "target": "ground cumin"}, {"value": 3.618266978922717, "source": "ground cumin", "target": "onions"}, {"value": 3.793911007025761, "source": "tumeric", "target": "salt"}, {"value": 3.793911007025761, "source": "salt", "target": "tumeric"}, {"value": 3.840749414519906, "source": "onions", "target": "cumin seed"}, {"value": 3.840749414519906, "source": "cumin seed", "target": "onions"}, {"value": 3.981264637002342, "source": "water", "target": "onions"}, {"value": 3.981264637002342, "source": "onions", "target": "water"}, {"value": 4.039812646370024, "source": "onions", "target": "tomatoes"}, {"value": 4.039812646370024, "source": "tomatoes", "target": "onions"}, {"value": 4.110070257611241, "source": "ginger", "target": "salt"}, {"value": 4.110070257611241, "source": "salt", "target": "ginger"}, {"value": 4.426229508196721, "source": "ground turmeric", "target": "onions"}, {"value": 4.426229508196721, "source": "onions", "target": "ground turmeric"}, {"value": 4.566744730679157, "source": "salt", "target": "vegetable oil"}, {"value": 4.566744730679157, "source": "vegetable oil", "target": "salt"}, {"value": 4.601873536299766, "source": "salt", "target": "chili powder"}, {"value": 4.601873536299766, "source": "chili powder", "target": "salt"}, {"value": 4.742388758782202, "source": "salt", "target": "green chilies"}, {"value": 4.742388758782202, "source": "green chilies", "target": "salt"}, {"value": 4.754098360655737, "source": "salt", "target": "tomatoes"}, {"value": 4.754098360655737, "source": "tomatoes", "target": "salt"}, {"value": 4.77751756440281, "source": "garlic", "target": "onions"}, {"value": 4.77751756440281, "source": "onions", "target": "garlic"}, {"value": 5.374707259953162, "source": "salt", "target": "ground cumin"}, {"value": 5.374707259953162, "source": "ground cumin", "target": "salt"}, {"value": 5.550351288056206, "source": "salt", "target": "cumin seed"}, {"value": 5.550351288056206, "source": "cumin seed", "target": "salt"}, {"value": 5.573770491803279, "source": "onions", "target": "garam masala"}, {"value": 5.573770491803279, "source": "garam masala", "target": "onions"}, {"value": 5.772833723653395, "source": "salt", "target": "oil"}, {"value": 5.772833723653395, "source": "oil", "target": "salt"}, {"value": 5.807962529274004, "source": "salt", "target": "garlic"}, {"value": 5.807962529274004, "source": "garlic", "target": "salt"}, {"value": 6.311475409836066, "source": "salt", "target": "ground turmeric"}, {"value": 6.311475409836066, "source": "ground turmeric", "target": "salt"}, {"value": 7.037470725995316, "source": "salt", "target": "water"}, {"value": 7.037470725995316, "source": "water", "target": "salt"}, {"value": 7.259953161592506, "source": "garam masala", "target": "salt"}, {"value": 7.259953161592506, "source": "salt", "target": "garam masala"}, {"value": 10.0, "source": "onions", "target": "salt"}, {"value": 10.0, "source": "salt", "target": "onions"}]}
+{
+  "nodes": [{
+    "group": 3,
+    "id": "ground cumin",
+    "appearances": 683
+  }, {
+    "group": 0,
+    "id": "ghee",
+    "appearances": 273
+  }, {
+    "group": 4,
+    "id": "onions",
+    "appearances": 1195
+  }, {
+    "group": 5,
+    "id": "oil",
+    "appearances": 546
+  }, {
+    "group": 3,
+    "id": "garlic paste",
+    "appearances": 221
+  }, {
+    "group": 4,
+    "id": "green chilies",
+    "appearances": 484
+  }, {
+    "group": 3,
+    "id": "garam masala",
+    "appearances": 862
+  }, {
+    "group": 4,
+    "id": "lemon",
+    "appearances": 134
+  }, {
+    "group": 3,
+    "id": "salt",
+    "appearances": 1934
+  }, {
+    "group": 3,
+    "id": "tumeric",
+    "appearances": 492
+  }, {
+    "group": 3,
+    "id": "ground turmeric",
+    "appearances": 728
+  }, {
+    "group": 4,
+    "id": "fresh ginger",
+    "appearances": 379
+  }, {
+    "group": 1,
+    "id": "basmati rice",
+    "appearances": 246
+  }, {
+    "group": 4,
+    "id": "potatoes",
+    "appearances": 251
+  }, {
+    "group": 5,
+    "id": "water",
+    "appearances": 820
+  }, {
+    "group": 2,
+    "id": "chicken",
+    "appearances": 122
+  }, {
+    "group": 3,
+    "id": "clove",
+    "appearances": 306
+  }, {
+    "group": 3,
+    "id": "curry powder",
+    "appearances": 403
+  }, {
+    "group": 4,
+    "id": "tomato paste",
+    "appearances": 160
+  }, {
+    "group": 5,
+    "id": "vegetable oil",
+    "appearances": 593
+  }, {
+    "group": 4,
+    "id": "tomatoes",
+    "appearances": 521
+  }, {
+    "group": 3,
+    "id": "bay leaf",
+    "appearances": 118
+  }, {
+    "group": 3,
+    "id": "ground coriander",
+    "appearances": 380
+  }, {
+    "group": 3,
+    "id": "cumin seed",
+    "appearances": 697
+  }, {
+    "group": 3,
+    "id": "cumin",
+    "appearances": 178
+  }, {
+    "group": 5,
+    "id": "sugar",
+    "appearances": 335
+  }, {
+    "group": 4,
+    "id": "peeled fresh ginger",
+    "appearances": 155
+  }, {
+    "group": 3,
+    "id": "chili powder",
+    "appearances": 485
+  }, {
+    "group": 3,
+    "id": "cinnamon sticks",
+    "appearances": 256
+  }, {
+    "group": 5,
+    "id": "olive oil",
+    "appearances": 359
+  }, {
+    "group": 0,
+    "id": "yoghurt",
+    "appearances": 211
+  }, {
+    "group": 3,
+    "id": "coriander powder",
+    "appearances": 213
+  }, {
+    "group": 4,
+    "id": "coconut milk",
+    "appearances": 216
+  }, {
+    "group": 4,
+    "id": "garlic",
+    "appearances": 726
+  }, {
+    "group": 3,
+    "id": "coriander",
+    "appearances": 227
+  }, {
+    "group": 4,
+    "id": "carrots",
+    "appearances": 197
+  }, {
+    "group": 3,
+    "id": "red chili powder",
+    "appearances": 171
+  }, {
+    "group": 3,
+    "id": "curry leaves",
+    "appearances": 208
+  }, {
+    "group": 0,
+    "id": "butter",
+    "appearances": 273
+  }, {
+    "group": 3,
+    "id": "garlic cloves",
+    "appearances": 446
+  }, {
+    "group": 5,
+    "id": "canola oil",
+    "appearances": 159
+  }, {
+    "group": 4,
+    "id": "ginger",
+    "appearances": 526
+  }, {
+    "group": 3,
+    "id": "cinnamon",
+    "appearances": 156
+  }, {
+    "group": 4,
+    "id": "cilantro leaves",
+    "appearances": 353
+  }, {
+    "group": 4,
+    "id": "purple onion",
+    "appearances": 170
+  }, {
+    "group": 4,
+    "id": "cilantro",
+    "appearances": 156
+  }, {
+    "group": 4,
+    "id": "chopped cilantro",
+    "appearances": 155
+  }, {
+    "group": 3,
+    "id": "cayenne pepper",
+    "appearances": 249
+  }, {
+    "group": 3,
+    "id": "red chili peppers",
+    "appearances": 165
+  }, {
+    "group": 3,
+    "id": "coriander seeds",
+    "appearances": 210
+  }, {
+    "group": 3,
+    "id": "mustard seeds",
+    "appearances": 254
+  }, {
+    "group": 1,
+    "id": "all-purpose flour",
+    "appearances": 150
+  }, {
+    "group": 3,
+    "id": "pepper",
+    "appearances": 205
+  }, {
+    "group": 4,
+    "id": "lemon juice",
+    "appearances": 271
+  }, {
+    "group": 3,
+    "id": "ground black pepper",
+    "appearances": 210
+  }, {
+    "group": 3,
+    "id": "paprika",
+    "appearances": 189
+  }, {
+    "group": 3,
+    "id": "black pepper",
+    "appearances": 161
+  }, {
+    "group": 0,
+    "id": "plain yogurt",
+    "appearances": 244
+  }, {
+    "group": 4,
+    "id": "chopped cilantro fresh",
+    "appearances": 239
+  }],
+  "links": [{
+    "value": 1.0655737704918031,
+    "source": "ground cumin",
+    "target": "chopped cilantro fresh"
+  }, {
+    "value": 1.0655737704918031,
+    "source": "onions",
+    "target": "ground black pepper"
+  }, {
+    "value": 1.0655737704918031,
+    "source": "garlic paste",
+    "target": "green chilies"
+  }, {
+    "value": 1.0655737704918031,
+    "source": "green chilies",
+    "target": "garlic paste"
+  }, {
+    "value": 1.0772833723653394,
+    "source": "garam masala",
+    "target": "potatoes"
+  }, {
+    "value": 1.0772833723653394,
+    "source": "lemon",
+    "target": "salt"
+  }, {
+    "value": 1.0772833723653394,
+    "source": "salt",
+    "target": "lemon"
+  }, {
+    "value": 1.0772833723653394,
+    "source": "tumeric",
+    "target": "fresh ginger"
+  }, {
+    "value": 1.0772833723653394,
+    "source": "ground turmeric",
+    "target": "fresh ginger"
+  }, {
+    "value": 1.0772833723653394,
+    "source": "fresh ginger",
+    "target": "tumeric"
+  }, {
+    "value": 1.0772833723653394,
+    "source": "fresh ginger",
+    "target": "ground turmeric"
+  }, {
+    "value": 1.0772833723653394,
+    "source": "ground cumin",
+    "target": "oil"
+  }, {
+    "value": 1.0772833723653394,
+    "source": "basmati rice",
+    "target": "water"
+  }, {
+    "value": 1.0772833723653394,
+    "source": "oil",
+    "target": "ground cumin"
+  }, {
+    "value": 1.0772833723653394,
+    "source": "potatoes",
+    "target": "garam masala"
+  }, {
+    "value": 1.0772833723653394,
+    "source": "water",
+    "target": "basmati rice"
+  }, {
+    "value": 1.0889929742388758,
+    "source": "salt",
+    "target": "chicken"
+  }, {
+    "value": 1.0889929742388758,
+    "source": "chicken",
+    "target": "salt"
+  }, {
+    "value": 1.100702576112412,
+    "source": "clove",
+    "target": "green chilies"
+  }, {
+    "value": 1.100702576112412,
+    "source": "curry powder",
+    "target": "vegetable oil"
+  }, {
+    "value": 1.100702576112412,
+    "source": "clove",
+    "target": "tomatoes"
+  }, {
+    "value": 1.100702576112412,
+    "source": "tomato paste",
+    "target": "onions"
+  }, {
+    "value": 1.100702576112412,
+    "source": "vegetable oil",
+    "target": "curry powder"
+  }, {
+    "value": 1.100702576112412,
+    "source": "salt",
+    "target": "bay leaf"
+  }, {
+    "value": 1.100702576112412,
+    "source": "green chilies",
+    "target": "clove"
+  }, {
+    "value": 1.100702576112412,
+    "source": "tomatoes",
+    "target": "clove"
+  }, {
+    "value": 1.100702576112412,
+    "source": "bay leaf",
+    "target": "salt"
+  }, {
+    "value": 1.100702576112412,
+    "source": "onions",
+    "target": "tomato paste"
+  }, {
+    "value": 1.1124121779859484,
+    "source": "garam masala",
+    "target": "ghee"
+  }, {
+    "value": 1.1124121779859484,
+    "source": "ground coriander",
+    "target": "fresh ginger"
+  }, {
+    "value": 1.1124121779859484,
+    "source": "curry powder",
+    "target": "water"
+  }, {
+    "value": 1.1124121779859484,
+    "source": "water",
+    "target": "curry powder"
+  }, {
+    "value": 1.1124121779859484,
+    "source": "water",
+    "target": "ghee"
+  }, {
+    "value": 1.1124121779859484,
+    "source": "ghee",
+    "target": "water"
+  }, {
+    "value": 1.1124121779859484,
+    "source": "ghee",
+    "target": "garam masala"
+  }, {
+    "value": 1.1124121779859484,
+    "source": "fresh ginger",
+    "target": "ground coriander"
+  }, {
+    "value": 1.1241217798594847,
+    "source": "salt",
+    "target": "peeled fresh ginger"
+  }, {
+    "value": 1.1241217798594847,
+    "source": "cumin seed",
+    "target": "potatoes"
+  }, {
+    "value": 1.1241217798594847,
+    "source": "cumin",
+    "target": "garam masala"
+  }, {
+    "value": 1.1241217798594847,
+    "source": "garam masala",
+    "target": "cumin"
+  }, {
+    "value": 1.1241217798594847,
+    "source": "water",
+    "target": "sugar"
+  }, {
+    "value": 1.1241217798594847,
+    "source": "sugar",
+    "target": "water"
+  }, {
+    "value": 1.1241217798594847,
+    "source": "peeled fresh ginger",
+    "target": "salt"
+  }, {
+    "value": 1.1241217798594847,
+    "source": "potatoes",
+    "target": "cumin seed"
+  }, {
+    "value": 1.135831381733021,
+    "source": "garlic paste",
+    "target": "ground turmeric"
+  }, {
+    "value": 1.135831381733021,
+    "source": "tumeric",
+    "target": "chili powder"
+  }, {
+    "value": 1.135831381733021,
+    "source": "chili powder",
+    "target": "tumeric"
+  }, {
+    "value": 1.135831381733021,
+    "source": "cumin seed",
+    "target": "cinnamon sticks"
+  }, {
+    "value": 1.135831381733021,
+    "source": "ground turmeric",
+    "target": "garlic paste"
+  }, {
+    "value": 1.135831381733021,
+    "source": "tomatoes",
+    "target": "garlic paste"
+  }, {
+    "value": 1.135831381733021,
+    "source": "cinnamon sticks",
+    "target": "cumin seed"
+  }, {
+    "value": 1.135831381733021,
+    "source": "garlic paste",
+    "target": "tomatoes"
+  }, {
+    "value": 1.1475409836065573,
+    "source": "olive oil",
+    "target": "ground cumin"
+  }, {
+    "value": 1.1475409836065573,
+    "source": "yoghurt",
+    "target": "onions"
+  }, {
+    "value": 1.1475409836065573,
+    "source": "tomatoes",
+    "target": "coriander powder"
+  }, {
+    "value": 1.1475409836065573,
+    "source": "coriander powder",
+    "target": "tomatoes"
+  }, {
+    "value": 1.1475409836065573,
+    "source": "onions",
+    "target": "yoghurt"
+  }, {
+    "value": 1.1475409836065573,
+    "source": "ground cumin",
+    "target": "olive oil"
+  }, {
+    "value": 1.1592505854800936,
+    "source": "garam masala",
+    "target": "coriander"
+  }, {
+    "value": 1.1592505854800936,
+    "source": "cumin seed",
+    "target": "ground cumin"
+  }, {
+    "value": 1.1592505854800936,
+    "source": "coconut milk",
+    "target": "garlic"
+  }, {
+    "value": 1.1592505854800936,
+    "source": "tomato paste",
+    "target": "garam masala"
+  }, {
+    "value": 1.1592505854800936,
+    "source": "ground cumin",
+    "target": "cumin seed"
+  }, {
+    "value": 1.1592505854800936,
+    "source": "garlic",
+    "target": "coconut milk"
+  }, {
+    "value": 1.1592505854800936,
+    "source": "coriander",
+    "target": "garam masala"
+  }, {
+    "value": 1.1592505854800936,
+    "source": "garam masala",
+    "target": "tomato paste"
+  }, {
+    "value": 1.17096018735363,
+    "source": "carrots",
+    "target": "onions"
+  }, {
+    "value": 1.17096018735363,
+    "source": "vegetable oil",
+    "target": "fresh ginger"
+  }, {
+    "value": 1.17096018735363,
+    "source": "oil",
+    "target": "tumeric"
+  }, {
+    "value": 1.17096018735363,
+    "source": "tumeric",
+    "target": "oil"
+  }, {
+    "value": 1.17096018735363,
+    "source": "oil",
+    "target": "red chili powder"
+  }, {
+    "value": 1.17096018735363,
+    "source": "onions",
+    "target": "carrots"
+  }, {
+    "value": 1.17096018735363,
+    "source": "red chili powder",
+    "target": "oil"
+  }, {
+    "value": 1.17096018735363,
+    "source": "fresh ginger",
+    "target": "vegetable oil"
+  }, {
+    "value": 1.1826697892271663,
+    "source": "garlic",
+    "target": "butter"
+  }, {
+    "value": 1.1826697892271663,
+    "source": "garam masala",
+    "target": "clove"
+  }, {
+    "value": 1.1826697892271663,
+    "source": "clove",
+    "target": "garam masala"
+  }, {
+    "value": 1.1826697892271663,
+    "source": "curry leaves",
+    "target": "ground turmeric"
+  }, {
+    "value": 1.1826697892271663,
+    "source": "butter",
+    "target": "garlic"
+  }, {
+    "value": 1.1826697892271663,
+    "source": "garlic",
+    "target": "oil"
+  }, {
+    "value": 1.1826697892271663,
+    "source": "ground turmeric",
+    "target": "curry leaves"
+  }, {
+    "value": 1.1826697892271663,
+    "source": "oil",
+    "target": "garlic"
+  }, {
+    "value": 1.2060889929742389,
+    "source": "red chili powder",
+    "target": "onions"
+  }, {
+    "value": 1.2060889929742389,
+    "source": "onions",
+    "target": "red chili powder"
+  }, {
+    "value": 1.2060889929742389,
+    "source": "tumeric",
+    "target": "green chilies"
+  }, {
+    "value": 1.2060889929742389,
+    "source": "garlic cloves",
+    "target": "ginger"
+  }, {
+    "value": 1.2060889929742389,
+    "source": "tumeric",
+    "target": "garlic cloves"
+  }, {
+    "value": 1.2060889929742389,
+    "source": "salt",
+    "target": "canola oil"
+  }, {
+    "value": 1.2060889929742389,
+    "source": "green chilies",
+    "target": "tumeric"
+  }, {
+    "value": 1.2060889929742389,
+    "source": "garlic cloves",
+    "target": "tumeric"
+  }, {
+    "value": 1.2060889929742389,
+    "source": "canola oil",
+    "target": "salt"
+  }, {
+    "value": 1.2060889929742389,
+    "source": "ginger",
+    "target": "garlic cloves"
+  }, {
+    "value": 1.2177985948477752,
+    "source": "water",
+    "target": "cinnamon sticks"
+  }, {
+    "value": 1.2177985948477752,
+    "source": "cinnamon sticks",
+    "target": "water"
+  }, {
+    "value": 1.2177985948477752,
+    "source": "tomatoes",
+    "target": "vegetable oil"
+  }, {
+    "value": 1.2177985948477752,
+    "source": "vegetable oil",
+    "target": "tomatoes"
+  }, {
+    "value": 1.2295081967213115,
+    "source": "cumin seed",
+    "target": "cilantro leaves"
+  }, {
+    "value": 1.2295081967213115,
+    "source": "ground coriander",
+    "target": "tumeric"
+  }, {
+    "value": 1.2295081967213115,
+    "source": "tumeric",
+    "target": "ground coriander"
+  }, {
+    "value": 1.2295081967213115,
+    "source": "cinnamon",
+    "target": "salt"
+  }, {
+    "value": 1.2295081967213115,
+    "source": "garlic cloves",
+    "target": "ground coriander"
+  }, {
+    "value": 1.2295081967213115,
+    "source": "cilantro leaves",
+    "target": "cumin seed"
+  }, {
+    "value": 1.2295081967213115,
+    "source": "salt",
+    "target": "cinnamon"
+  }, {
+    "value": 1.2295081967213115,
+    "source": "salt",
+    "target": "purple onion"
+  }, {
+    "value": 1.2295081967213115,
+    "source": "purple onion",
+    "target": "salt"
+  }, {
+    "value": 1.2295081967213115,
+    "source": "ground coriander",
+    "target": "garlic cloves"
+  }, {
+    "value": 1.2412177985948478,
+    "source": "water",
+    "target": "cilantro leaves"
+  }, {
+    "value": 1.2412177985948478,
+    "source": "cilantro",
+    "target": "salt"
+  }, {
+    "value": 1.2412177985948478,
+    "source": "salt",
+    "target": "cilantro"
+  }, {
+    "value": 1.2412177985948478,
+    "source": "cilantro leaves",
+    "target": "water"
+  }, {
+    "value": 1.2529274004683841,
+    "source": "clove",
+    "target": "cumin seed"
+  }, {
+    "value": 1.2529274004683841,
+    "source": "cumin seed",
+    "target": "clove"
+  }, {
+    "value": 1.2646370023419204,
+    "source": "clove",
+    "target": "ground turmeric"
+  }, {
+    "value": 1.2646370023419204,
+    "source": "ghee",
+    "target": "onions"
+  }, {
+    "value": 1.2646370023419204,
+    "source": "onions",
+    "target": "ghee"
+  }, {
+    "value": 1.2646370023419204,
+    "source": "ground coriander",
+    "target": "vegetable oil"
+  }, {
+    "value": 1.2646370023419204,
+    "source": "chopped cilantro",
+    "target": "salt"
+  }, {
+    "value": 1.2646370023419204,
+    "source": "vegetable oil",
+    "target": "ground coriander"
+  }, {
+    "value": 1.2646370023419204,
+    "source": "ground turmeric",
+    "target": "clove"
+  }, {
+    "value": 1.2646370023419204,
+    "source": "salt",
+    "target": "chopped cilantro"
+  }, {
+    "value": 1.2763466042154568,
+    "source": "onions",
+    "target": "cayenne pepper"
+  }, {
+    "value": 1.2763466042154568,
+    "source": "water",
+    "target": "fresh ginger"
+  }, {
+    "value": 1.2763466042154568,
+    "source": "fresh ginger",
+    "target": "water"
+  }, {
+    "value": 1.2763466042154568,
+    "source": "cayenne pepper",
+    "target": "onions"
+  }, {
+    "value": 1.288056206088993,
+    "source": "ground cumin",
+    "target": "cayenne pepper"
+  }, {
+    "value": 1.288056206088993,
+    "source": "garlic cloves",
+    "target": "water"
+  }, {
+    "value": 1.288056206088993,
+    "source": "water",
+    "target": "garlic cloves"
+  }, {
+    "value": 1.288056206088993,
+    "source": "cayenne pepper",
+    "target": "ground cumin"
+  }, {
+    "value": 1.2997658079625294,
+    "source": "fresh ginger",
+    "target": "cumin seed"
+  }, {
+    "value": 1.2997658079625294,
+    "source": "chili powder",
+    "target": "coriander powder"
+  }, {
+    "value": 1.2997658079625294,
+    "source": "coriander powder",
+    "target": "chili powder"
+  }, {
+    "value": 1.2997658079625294,
+    "source": "cumin seed",
+    "target": "fresh ginger"
+  }, {
+    "value": 1.3114754098360657,
+    "source": "red chili peppers",
+    "target": "salt"
+  }, {
+    "value": 1.3114754098360657,
+    "source": "curry powder",
+    "target": "olive oil"
+  }, {
+    "value": 1.3114754098360657,
+    "source": "olive oil",
+    "target": "garlic"
+  }, {
+    "value": 1.3114754098360657,
+    "source": "olive oil",
+    "target": "garam masala"
+  }, {
+    "value": 1.3114754098360657,
+    "source": "olive oil",
+    "target": "curry powder"
+  }, {
+    "value": 1.3114754098360657,
+    "source": "garlic",
+    "target": "olive oil"
+  }, {
+    "value": 1.3114754098360657,
+    "source": "garam masala",
+    "target": "olive oil"
+  }, {
+    "value": 1.3114754098360657,
+    "source": "salt",
+    "target": "red chili peppers"
+  }, {
+    "value": 1.323185011709602,
+    "source": "coriander seeds",
+    "target": "salt"
+  }, {
+    "value": 1.323185011709602,
+    "source": "curry leaves",
+    "target": "green chilies"
+  }, {
+    "value": 1.323185011709602,
+    "source": "fresh ginger",
+    "target": "garlic cloves"
+  }, {
+    "value": 1.323185011709602,
+    "source": "garlic cloves",
+    "target": "fresh ginger"
+  }, {
+    "value": 1.323185011709602,
+    "source": "cayenne pepper",
+    "target": "garam masala"
+  }, {
+    "value": 1.323185011709602,
+    "source": "green chilies",
+    "target": "curry leaves"
+  }, {
+    "value": 1.323185011709602,
+    "source": "salt",
+    "target": "coriander seeds"
+  }, {
+    "value": 1.323185011709602,
+    "source": "garam masala",
+    "target": "butter"
+  }, {
+    "value": 1.323185011709602,
+    "source": "garam masala",
+    "target": "cayenne pepper"
+  }, {
+    "value": 1.323185011709602,
+    "source": "butter",
+    "target": "garam masala"
+  }, {
+    "value": 1.3348946135831383,
+    "source": "garlic",
+    "target": "cayenne pepper"
+  }, {
+    "value": 1.3348946135831383,
+    "source": "chili powder",
+    "target": "cilantro leaves"
+  }, {
+    "value": 1.3348946135831383,
+    "source": "ground turmeric",
+    "target": "mustard seeds"
+  }, {
+    "value": 1.3348946135831383,
+    "source": "cayenne pepper",
+    "target": "garlic"
+  }, {
+    "value": 1.3348946135831383,
+    "source": "cilantro leaves",
+    "target": "chili powder"
+  }, {
+    "value": 1.3348946135831383,
+    "source": "mustard seeds",
+    "target": "ground turmeric"
+  }, {
+    "value": 1.3466042154566746,
+    "source": "salt",
+    "target": "all-purpose flour"
+  }, {
+    "value": 1.3466042154566746,
+    "source": "all-purpose flour",
+    "target": "salt"
+  }, {
+    "value": 1.3466042154566746,
+    "source": "water",
+    "target": "clove"
+  }, {
+    "value": 1.3466042154566746,
+    "source": "clove",
+    "target": "water"
+  }, {
+    "value": 1.358313817330211,
+    "source": "coriander powder",
+    "target": "oil"
+  }, {
+    "value": 1.358313817330211,
+    "source": "onions",
+    "target": "pepper"
+  }, {
+    "value": 1.358313817330211,
+    "source": "pepper",
+    "target": "onions"
+  }, {
+    "value": 1.358313817330211,
+    "source": "oil",
+    "target": "coriander powder"
+  }, {
+    "value": 1.3700234192037473,
+    "source": "oil",
+    "target": "garlic paste"
+  }, {
+    "value": 1.3700234192037473,
+    "source": "garlic paste",
+    "target": "oil"
+  }, {
+    "value": 1.3700234192037473,
+    "source": "tomatoes",
+    "target": "tumeric"
+  }, {
+    "value": 1.3700234192037473,
+    "source": "lemon juice",
+    "target": "garam masala"
+  }, {
+    "value": 1.3700234192037473,
+    "source": "garam masala",
+    "target": "lemon juice"
+  }, {
+    "value": 1.3700234192037473,
+    "source": "garlic cloves",
+    "target": "cumin seed"
+  }, {
+    "value": 1.3700234192037473,
+    "source": "tumeric",
+    "target": "tomatoes"
+  }, {
+    "value": 1.3700234192037473,
+    "source": "onions",
+    "target": "curry leaves"
+  }, {
+    "value": 1.3700234192037473,
+    "source": "curry leaves",
+    "target": "onions"
+  }, {
+    "value": 1.3700234192037473,
+    "source": "cumin seed",
+    "target": "garlic cloves"
+  }, {
+    "value": 1.3817330210772831,
+    "source": "coconut milk",
+    "target": "onions"
+  }, {
+    "value": 1.3817330210772831,
+    "source": "onions",
+    "target": "basmati rice"
+  }, {
+    "value": 1.3817330210772831,
+    "source": "basmati rice",
+    "target": "onions"
+  }, {
+    "value": 1.3817330210772831,
+    "source": "onions",
+    "target": "coconut milk"
+  }, {
+    "value": 1.4051522248243558,
+    "source": "carrots",
+    "target": "salt"
+  }, {
+    "value": 1.4051522248243558,
+    "source": "curry powder",
+    "target": "garlic"
+  }, {
+    "value": 1.4051522248243558,
+    "source": "water",
+    "target": "ground coriander"
+  }, {
+    "value": 1.4051522248243558,
+    "source": "salt",
+    "target": "carrots"
+  }, {
+    "value": 1.4051522248243558,
+    "source": "ground coriander",
+    "target": "water"
+  }, {
+    "value": 1.4051522248243558,
+    "source": "garlic",
+    "target": "curry powder"
+  }, {
+    "value": 1.4168618266978923,
+    "source": "lemon juice",
+    "target": "onions"
+  }, {
+    "value": 1.4168618266978923,
+    "source": "onions",
+    "target": "butter"
+  }, {
+    "value": 1.4168618266978923,
+    "source": "butter",
+    "target": "onions"
+  }, {
+    "value": 1.4168618266978923,
+    "source": "onions",
+    "target": "lemon juice"
+  }, {
+    "value": 1.4285714285714284,
+    "source": "onions",
+    "target": "mustard seeds"
+  }, {
+    "value": 1.4285714285714284,
+    "source": "cumin seed",
+    "target": "mustard seeds"
+  }, {
+    "value": 1.4285714285714284,
+    "source": "mustard seeds",
+    "target": "onions"
+  }, {
+    "value": 1.4285714285714284,
+    "source": "mustard seeds",
+    "target": "cumin seed"
+  }, {
+    "value": 1.440281030444965,
+    "source": "cumin seed",
+    "target": "chili powder"
+  }, {
+    "value": 1.440281030444965,
+    "source": "chili powder",
+    "target": "cumin seed"
+  }, {
+    "value": 1.451990632318501,
+    "source": "fresh ginger",
+    "target": "ground cumin"
+  }, {
+    "value": 1.451990632318501,
+    "source": "ground cumin",
+    "target": "fresh ginger"
+  }, {
+    "value": 1.4637002341920375,
+    "source": "tumeric",
+    "target": "vegetable oil"
+  }, {
+    "value": 1.4637002341920375,
+    "source": "onions",
+    "target": "coriander"
+  }, {
+    "value": 1.4637002341920375,
+    "source": "vegetable oil",
+    "target": "tumeric"
+  }, {
+    "value": 1.4637002341920375,
+    "source": "coriander",
+    "target": "onions"
+  }, {
+    "value": 1.4754098360655736,
+    "source": "ginger",
+    "target": "ground cumin"
+  }, {
+    "value": 1.4754098360655736,
+    "source": "ground cumin",
+    "target": "ginger"
+  }, {
+    "value": 1.4754098360655736,
+    "source": "garlic paste",
+    "target": "garam masala"
+  }, {
+    "value": 1.4754098360655736,
+    "source": "garam masala",
+    "target": "garlic paste"
+  }, {
+    "value": 1.4871194379391102,
+    "source": "green chilies",
+    "target": "garlic"
+  }, {
+    "value": 1.4871194379391102,
+    "source": "ground cumin",
+    "target": "tumeric"
+  }, {
+    "value": 1.4871194379391102,
+    "source": "garlic",
+    "target": "green chilies"
+  }, {
+    "value": 1.4871194379391102,
+    "source": "tumeric",
+    "target": "ground cumin"
+  }, {
+    "value": 1.5105386416861828,
+    "source": "ground black pepper",
+    "target": "salt"
+  }, {
+    "value": 1.5105386416861828,
+    "source": "paprika",
+    "target": "salt"
+  }, {
+    "value": 1.5105386416861828,
+    "source": "salt",
+    "target": "ground black pepper"
+  }, {
+    "value": 1.5105386416861828,
+    "source": "salt",
+    "target": "paprika"
+  }, {
+    "value": 1.5222482435597189,
+    "source": "garlic cloves",
+    "target": "ground turmeric"
+  }, {
+    "value": 1.5222482435597189,
+    "source": "ground turmeric",
+    "target": "garlic cloves"
+  }, {
+    "value": 1.5456674473067915,
+    "source": "chili powder",
+    "target": "ginger"
+  }, {
+    "value": 1.5456674473067915,
+    "source": "water",
+    "target": "chili powder"
+  }, {
+    "value": 1.5456674473067915,
+    "source": "ginger",
+    "target": "chili powder"
+  }, {
+    "value": 1.5456674473067915,
+    "source": "chili powder",
+    "target": "water"
+  }, {
+    "value": 1.5690866510538641,
+    "source": "cumin",
+    "target": "salt"
+  }, {
+    "value": 1.5690866510538641,
+    "source": "salt",
+    "target": "cumin"
+  }, {
+    "value": 1.5807962529274007,
+    "source": "salt",
+    "target": "black pepper"
+  }, {
+    "value": 1.5807962529274007,
+    "source": "ground turmeric",
+    "target": "coriander powder"
+  }, {
+    "value": 1.5807962529274007,
+    "source": "black pepper",
+    "target": "salt"
+  }, {
+    "value": 1.5807962529274007,
+    "source": "coriander powder",
+    "target": "ground turmeric"
+  }, {
+    "value": 1.6042154566744733,
+    "source": "garlic cloves",
+    "target": "vegetable oil"
+  }, {
+    "value": 1.6042154566744733,
+    "source": "vegetable oil",
+    "target": "garlic cloves"
+  }, {
+    "value": 1.6042154566744733,
+    "source": "cilantro leaves",
+    "target": "tomatoes"
+  }, {
+    "value": 1.6042154566744733,
+    "source": "garlic",
+    "target": "ground coriander"
+  }, {
+    "value": 1.6042154566744733,
+    "source": "tomatoes",
+    "target": "cilantro leaves"
+  }, {
+    "value": 1.6042154566744733,
+    "source": "ground coriander",
+    "target": "garlic"
+  }, {
+    "value": 1.6159250585480094,
+    "source": "ginger",
+    "target": "oil"
+  }, {
+    "value": 1.6159250585480094,
+    "source": "water",
+    "target": "ginger"
+  }, {
+    "value": 1.6159250585480094,
+    "source": "oil",
+    "target": "ginger"
+  }, {
+    "value": 1.6159250585480094,
+    "source": "ginger",
+    "target": "water"
+  }, {
+    "value": 1.6276346604215455,
+    "source": "garam masala",
+    "target": "cilantro leaves"
+  }, {
+    "value": 1.6276346604215455,
+    "source": "cilantro leaves",
+    "target": "ground turmeric"
+  }, {
+    "value": 1.6276346604215455,
+    "source": "ground turmeric",
+    "target": "cilantro leaves"
+  }, {
+    "value": 1.6276346604215455,
+    "source": "cilantro leaves",
+    "target": "garam masala"
+  }, {
+    "value": 1.651053864168618,
+    "source": "chili powder",
+    "target": "green chilies"
+  }, {
+    "value": 1.651053864168618,
+    "source": "green chilies",
+    "target": "chili powder"
+  }, {
+    "value": 1.651053864168618,
+    "source": "garam masala",
+    "target": "coriander powder"
+  }, {
+    "value": 1.651053864168618,
+    "source": "cinnamon sticks",
+    "target": "onions"
+  }, {
+    "value": 1.651053864168618,
+    "source": "onions",
+    "target": "cinnamon sticks"
+  }, {
+    "value": 1.651053864168618,
+    "source": "coriander powder",
+    "target": "garam masala"
+  }, {
+    "value": 1.6744730679156907,
+    "source": "coconut milk",
+    "target": "salt"
+  }, {
+    "value": 1.6744730679156907,
+    "source": "potatoes",
+    "target": "onions"
+  }, {
+    "value": 1.6744730679156907,
+    "source": "salt",
+    "target": "coconut milk"
+  }, {
+    "value": 1.6744730679156907,
+    "source": "onions",
+    "target": "potatoes"
+  }, {
+    "value": 1.686182669789227,
+    "source": "water",
+    "target": "tumeric"
+  }, {
+    "value": 1.686182669789227,
+    "source": "clove",
+    "target": "cinnamon sticks"
+  }, {
+    "value": 1.686182669789227,
+    "source": "cinnamon sticks",
+    "target": "clove"
+  }, {
+    "value": 1.686182669789227,
+    "source": "tumeric",
+    "target": "water"
+  }, {
+    "value": 1.6978922716627634,
+    "source": "ground coriander",
+    "target": "garam masala"
+  }, {
+    "value": 1.6978922716627634,
+    "source": "garam masala",
+    "target": "ground coriander"
+  }, {
+    "value": 1.6978922716627634,
+    "source": "cumin seed",
+    "target": "coriander seeds"
+  }, {
+    "value": 1.6978922716627634,
+    "source": "coriander seeds",
+    "target": "cumin seed"
+  }, {
+    "value": 1.6978922716627634,
+    "source": "tomatoes",
+    "target": "ginger"
+  }, {
+    "value": 1.6978922716627634,
+    "source": "ginger",
+    "target": "tomatoes"
+  }, {
+    "value": 1.7096018735362997,
+    "source": "garlic",
+    "target": "vegetable oil"
+  }, {
+    "value": 1.7096018735362997,
+    "source": "olive oil",
+    "target": "onions"
+  }, {
+    "value": 1.7096018735362997,
+    "source": "vegetable oil",
+    "target": "garlic"
+  }, {
+    "value": 1.7096018735362997,
+    "source": "onions",
+    "target": "olive oil"
+  }, {
+    "value": 1.721311475409836,
+    "source": "ground turmeric",
+    "target": "ground coriander"
+  }, {
+    "value": 1.721311475409836,
+    "source": "garlic",
+    "target": "chili powder"
+  }, {
+    "value": 1.721311475409836,
+    "source": "ground coriander",
+    "target": "ground turmeric"
+  }, {
+    "value": 1.721311475409836,
+    "source": "chili powder",
+    "target": "garlic"
+  }, {
+    "value": 1.721311475409836,
+    "source": "salt",
+    "target": "basmati rice"
+  }, {
+    "value": 1.721311475409836,
+    "source": "basmati rice",
+    "target": "salt"
+  }, {
+    "value": 1.721311475409836,
+    "source": "chili powder",
+    "target": "ground cumin"
+  }, {
+    "value": 1.721311475409836,
+    "source": "ground cumin",
+    "target": "chili powder"
+  }, {
+    "value": 1.7447306791569086,
+    "source": "coriander powder",
+    "target": "onions"
+  }, {
+    "value": 1.7447306791569086,
+    "source": "onions",
+    "target": "coriander powder"
+  }, {
+    "value": 1.7681498829039812,
+    "source": "green chilies",
+    "target": "cilantro leaves"
+  }, {
+    "value": 1.7681498829039812,
+    "source": "cilantro leaves",
+    "target": "green chilies"
+  }, {
+    "value": 1.7681498829039812,
+    "source": "oil",
+    "target": "cumin seed"
+  }, {
+    "value": 1.7681498829039812,
+    "source": "cumin seed",
+    "target": "oil"
+  }, {
+    "value": 1.7915690866510539,
+    "source": "salt",
+    "target": "red chili powder"
+  }, {
+    "value": 1.7915690866510539,
+    "source": "red chili powder",
+    "target": "salt"
+  }, {
+    "value": 1.8032786885245902,
+    "source": "tomatoes",
+    "target": "ground cumin"
+  }, {
+    "value": 1.8032786885245902,
+    "source": "onions",
+    "target": "garlic paste"
+  }, {
+    "value": 1.8032786885245902,
+    "source": "ground cumin",
+    "target": "tomatoes"
+  }, {
+    "value": 1.8032786885245902,
+    "source": "yoghurt",
+    "target": "salt"
+  }, {
+    "value": 1.8032786885245902,
+    "source": "salt",
+    "target": "yoghurt"
+  }, {
+    "value": 1.8032786885245902,
+    "source": "garlic paste",
+    "target": "onions"
+  }, {
+    "value": 1.8149882903981265,
+    "source": "cumin seed",
+    "target": "tumeric"
+  }, {
+    "value": 1.8149882903981265,
+    "source": "water",
+    "target": "green chilies"
+  }, {
+    "value": 1.8149882903981265,
+    "source": "green chilies",
+    "target": "water"
+  }, {
+    "value": 1.8149882903981265,
+    "source": "salt",
+    "target": "plain yogurt"
+  }, {
+    "value": 1.8149882903981265,
+    "source": "plain yogurt",
+    "target": "salt"
+  }, {
+    "value": 1.8149882903981265,
+    "source": "tumeric",
+    "target": "cumin seed"
+  }, {
+    "value": 1.8266978922716628,
+    "source": "salt",
+    "target": "chopped cilantro fresh"
+  }, {
+    "value": 1.8266978922716628,
+    "source": "chopped cilantro fresh",
+    "target": "salt"
+  }, {
+    "value": 1.838407494145199,
+    "source": "fresh ginger",
+    "target": "garam masala"
+  }, {
+    "value": 1.838407494145199,
+    "source": "garam masala",
+    "target": "fresh ginger"
+  }, {
+    "value": 1.8501170960187354,
+    "source": "oil",
+    "target": "cilantro leaves"
+  }, {
+    "value": 1.8501170960187354,
+    "source": "cilantro leaves",
+    "target": "oil"
+  }, {
+    "value": 1.8501170960187354,
+    "source": "ginger",
+    "target": "tumeric"
+  }, {
+    "value": 1.8501170960187354,
+    "source": "tumeric",
+    "target": "ginger"
+  }, {
+    "value": 1.8618266978922717,
+    "source": "ginger",
+    "target": "ground turmeric"
+  }, {
+    "value": 1.8618266978922717,
+    "source": "coriander",
+    "target": "salt"
+  }, {
+    "value": 1.8618266978922717,
+    "source": "salt",
+    "target": "coriander"
+  }, {
+    "value": 1.8618266978922717,
+    "source": "ground turmeric",
+    "target": "ginger"
+  }, {
+    "value": 1.873536299765808,
+    "source": "tomatoes",
+    "target": "green chilies"
+  }, {
+    "value": 1.873536299765808,
+    "source": "water",
+    "target": "tomatoes"
+  }, {
+    "value": 1.873536299765808,
+    "source": "green chilies",
+    "target": "tomatoes"
+  }, {
+    "value": 1.873536299765808,
+    "source": "tomatoes",
+    "target": "water"
+  }, {
+    "value": 1.8852459016393441,
+    "source": "vegetable oil",
+    "target": "ground cumin"
+  }, {
+    "value": 1.8852459016393441,
+    "source": "tomatoes",
+    "target": "chili powder"
+  }, {
+    "value": 1.8852459016393441,
+    "source": "chili powder",
+    "target": "tomatoes"
+  }, {
+    "value": 1.8852459016393441,
+    "source": "ground cumin",
+    "target": "vegetable oil"
+  }, {
+    "value": 1.8969555035128804,
+    "source": "salt",
+    "target": "cayenne pepper"
+  }, {
+    "value": 1.8969555035128804,
+    "source": "garlic cloves",
+    "target": "ground cumin"
+  }, {
+    "value": 1.8969555035128804,
+    "source": "cayenne pepper",
+    "target": "salt"
+  }, {
+    "value": 1.8969555035128804,
+    "source": "ground cumin",
+    "target": "garlic cloves"
+  }, {
+    "value": 1.9086651053864168,
+    "source": "garlic",
+    "target": "fresh ginger"
+  }, {
+    "value": 1.9086651053864168,
+    "source": "fresh ginger",
+    "target": "garlic"
+  }, {
+    "value": 1.920374707259953,
+    "source": "curry leaves",
+    "target": "salt"
+  }, {
+    "value": 1.920374707259953,
+    "source": "garlic cloves",
+    "target": "garam masala"
+  }, {
+    "value": 1.920374707259953,
+    "source": "oil",
+    "target": "tomatoes"
+  }, {
+    "value": 1.920374707259953,
+    "source": "garam masala",
+    "target": "garlic cloves"
+  }, {
+    "value": 1.920374707259953,
+    "source": "tomatoes",
+    "target": "oil"
+  }, {
+    "value": 1.920374707259953,
+    "source": "salt",
+    "target": "curry leaves"
+  }, {
+    "value": 1.9320843091334894,
+    "source": "green chilies",
+    "target": "ginger"
+  }, {
+    "value": 1.9320843091334894,
+    "source": "ginger",
+    "target": "green chilies"
+  }, {
+    "value": 1.9437939110070257,
+    "source": "vegetable oil",
+    "target": "garam masala"
+  }, {
+    "value": 1.9437939110070257,
+    "source": "cumin seed",
+    "target": "vegetable oil"
+  }, {
+    "value": 1.9437939110070257,
+    "source": "garam masala",
+    "target": "vegetable oil"
+  }, {
+    "value": 1.9437939110070257,
+    "source": "vegetable oil",
+    "target": "cumin seed"
+  }, {
+    "value": 2.0140515222482436,
+    "source": "vegetable oil",
+    "target": "ground turmeric"
+  }, {
+    "value": 2.0140515222482436,
+    "source": "ground turmeric",
+    "target": "vegetable oil"
+  }, {
+    "value": 2.0491803278688527,
+    "source": "cinnamon sticks",
+    "target": "salt"
+  }, {
+    "value": 2.0491803278688527,
+    "source": "salt",
+    "target": "cinnamon sticks"
+  }, {
+    "value": 2.060889929742389,
+    "source": "water",
+    "target": "ground cumin"
+  }, {
+    "value": 2.060889929742389,
+    "source": "ground cumin",
+    "target": "water"
+  }, {
+    "value": 2.096018735362998,
+    "source": "oil",
+    "target": "chili powder"
+  }, {
+    "value": 2.096018735362998,
+    "source": "chili powder",
+    "target": "oil"
+  }, {
+    "value": 2.11943793911007,
+    "source": "oil",
+    "target": "water"
+  }, {
+    "value": 2.11943793911007,
+    "source": "ginger",
+    "target": "cumin seed"
+  }, {
+    "value": 2.11943793911007,
+    "source": "ground turmeric",
+    "target": "green chilies"
+  }, {
+    "value": 2.11943793911007,
+    "source": "cumin seed",
+    "target": "ginger"
+  }, {
+    "value": 2.11943793911007,
+    "source": "cumin seed",
+    "target": "green chilies"
+  }, {
+    "value": 2.11943793911007,
+    "source": "green chilies",
+    "target": "cumin seed"
+  }, {
+    "value": 2.11943793911007,
+    "source": "green chilies",
+    "target": "ground turmeric"
+  }, {
+    "value": 2.11943793911007,
+    "source": "water",
+    "target": "oil"
+  }, {
+    "value": 2.1311475409836063,
+    "source": "salt",
+    "target": "ghee"
+  }, {
+    "value": 2.1311475409836063,
+    "source": "ghee",
+    "target": "salt"
+  }, {
+    "value": 2.154566744730679,
+    "source": "fresh ginger",
+    "target": "onions"
+  }, {
+    "value": 2.154566744730679,
+    "source": "onions",
+    "target": "fresh ginger"
+  }, {
+    "value": 2.154566744730679,
+    "source": "green chilies",
+    "target": "garam masala"
+  }, {
+    "value": 2.154566744730679,
+    "source": "garam masala",
+    "target": "green chilies"
+  }, {
+    "value": 2.1662763466042154,
+    "source": "garlic",
+    "target": "tumeric"
+  }, {
+    "value": 2.1662763466042154,
+    "source": "tumeric",
+    "target": "garlic"
+  }, {
+    "value": 2.1662763466042154,
+    "source": "onions",
+    "target": "ground coriander"
+  }, {
+    "value": 2.1662763466042154,
+    "source": "ground coriander",
+    "target": "onions"
+  }, {
+    "value": 2.1662763466042154,
+    "source": "tomatoes",
+    "target": "garlic"
+  }, {
+    "value": 2.1662763466042154,
+    "source": "garlic",
+    "target": "tomatoes"
+  }, {
+    "value": 2.201405152224824,
+    "source": "garlic paste",
+    "target": "salt"
+  }, {
+    "value": 2.201405152224824,
+    "source": "salt",
+    "target": "potatoes"
+  }, {
+    "value": 2.201405152224824,
+    "source": "potatoes",
+    "target": "salt"
+  }, {
+    "value": 2.201405152224824,
+    "source": "salt",
+    "target": "garlic paste"
+  }, {
+    "value": 2.2131147540983607,
+    "source": "ground turmeric",
+    "target": "oil"
+  }, {
+    "value": 2.2131147540983607,
+    "source": "salt",
+    "target": "pepper"
+  }, {
+    "value": 2.2131147540983607,
+    "source": "oil",
+    "target": "ground turmeric"
+  }, {
+    "value": 2.2131147540983607,
+    "source": "pepper",
+    "target": "salt"
+  }, {
+    "value": 2.2248243559718968,
+    "source": "cumin seed",
+    "target": "garlic"
+  }, {
+    "value": 2.2248243559718968,
+    "source": "garlic",
+    "target": "cumin seed"
+  }, {
+    "value": 2.2482435597189694,
+    "source": "cumin seed",
+    "target": "tomatoes"
+  }, {
+    "value": 2.2482435597189694,
+    "source": "water",
+    "target": "vegetable oil"
+  }, {
+    "value": 2.2482435597189694,
+    "source": "vegetable oil",
+    "target": "water"
+  }, {
+    "value": 2.2482435597189694,
+    "source": "tomatoes",
+    "target": "cumin seed"
+  }, {
+    "value": 2.259953161592506,
+    "source": "onions",
+    "target": "curry powder"
+  }, {
+    "value": 2.259953161592506,
+    "source": "coriander powder",
+    "target": "salt"
+  }, {
+    "value": 2.259953161592506,
+    "source": "salt",
+    "target": "coriander powder"
+  }, {
+    "value": 2.259953161592506,
+    "source": "clove",
+    "target": "onions"
+  }, {
+    "value": 2.259953161592506,
+    "source": "curry powder",
+    "target": "onions"
+  }, {
+    "value": 2.259953161592506,
+    "source": "onions",
+    "target": "clove"
+  }, {
+    "value": 2.271662763466042,
+    "source": "mustard seeds",
+    "target": "salt"
+  }, {
+    "value": 2.271662763466042,
+    "source": "salt",
+    "target": "mustard seeds"
+  }, {
+    "value": 2.306791569086651,
+    "source": "cilantro leaves",
+    "target": "onions"
+  }, {
+    "value": 2.306791569086651,
+    "source": "onions",
+    "target": "cilantro leaves"
+  }, {
+    "value": 2.3536299765807964,
+    "source": "salt",
+    "target": "butter"
+  }, {
+    "value": 2.3536299765807964,
+    "source": "butter",
+    "target": "salt"
+  }, {
+    "value": 2.3653395784543325,
+    "source": "salt",
+    "target": "olive oil"
+  }, {
+    "value": 2.3653395784543325,
+    "source": "olive oil",
+    "target": "salt"
+  }, {
+    "value": 2.4004683840749412,
+    "source": "sugar",
+    "target": "salt"
+  }, {
+    "value": 2.4004683840749412,
+    "source": "salt",
+    "target": "sugar"
+  }, {
+    "value": 2.4355971896955504,
+    "source": "onions",
+    "target": "garlic cloves"
+  }, {
+    "value": 2.4355971896955504,
+    "source": "garlic cloves",
+    "target": "onions"
+  }, {
+    "value": 2.4824355971896956,
+    "source": "garlic",
+    "target": "ground turmeric"
+  }, {
+    "value": 2.4824355971896956,
+    "source": "ground turmeric",
+    "target": "garlic"
+  }, {
+    "value": 2.4941451990632317,
+    "source": "tumeric",
+    "target": "garam masala"
+  }, {
+    "value": 2.4941451990632317,
+    "source": "water",
+    "target": "garlic"
+  }, {
+    "value": 2.4941451990632317,
+    "source": "garlic",
+    "target": "water"
+  }, {
+    "value": 2.4941451990632317,
+    "source": "garam masala",
+    "target": "tumeric"
+  }, {
+    "value": 2.5058548009367683,
+    "source": "garlic",
+    "target": "ground cumin"
+  }, {
+    "value": 2.5058548009367683,
+    "source": "ground cumin",
+    "target": "garlic"
+  }, {
+    "value": 2.5175644028103044,
+    "source": "ground turmeric",
+    "target": "chili powder"
+  }, {
+    "value": 2.5175644028103044,
+    "source": "chili powder",
+    "target": "ground turmeric"
+  }, {
+    "value": 2.5175644028103044,
+    "source": "salt",
+    "target": "lemon juice"
+  }, {
+    "value": 2.5175644028103044,
+    "source": "lemon juice",
+    "target": "salt"
+  }, {
+    "value": 2.5526932084309135,
+    "source": "garam masala",
+    "target": "oil"
+  }, {
+    "value": 2.5526932084309135,
+    "source": "oil",
+    "target": "garam masala"
+  }, {
+    "value": 2.5644028103044496,
+    "source": "ground turmeric",
+    "target": "tomatoes"
+  }, {
+    "value": 2.5644028103044496,
+    "source": "tomatoes",
+    "target": "ground turmeric"
+  }, {
+    "value": 2.5995316159250588,
+    "source": "salt",
+    "target": "clove"
+  }, {
+    "value": 2.5995316159250588,
+    "source": "clove",
+    "target": "salt"
+  }, {
+    "value": 2.6346604215456675,
+    "source": "water",
+    "target": "garam masala"
+  }, {
+    "value": 2.6346604215456675,
+    "source": "garam masala",
+    "target": "water"
+  }, {
+    "value": 2.65807962529274,
+    "source": "ground coriander",
+    "target": "salt"
+  }, {
+    "value": 2.65807962529274,
+    "source": "salt",
+    "target": "ground coriander"
+  }, {
+    "value": 2.716627634660422,
+    "source": "oil",
+    "target": "green chilies"
+  }, {
+    "value": 2.716627634660422,
+    "source": "green chilies",
+    "target": "oil"
+  }, {
+    "value": 2.7868852459016393,
+    "source": "water",
+    "target": "cumin seed"
+  }, {
+    "value": 2.7868852459016393,
+    "source": "cumin seed",
+    "target": "water"
+  }, {
+    "value": 2.7985948477751754,
+    "source": "garam masala",
+    "target": "ginger"
+  }, {
+    "value": 2.7985948477751754,
+    "source": "ginger",
+    "target": "garam masala"
+  }, {
+    "value": 2.822014051522248,
+    "source": "water",
+    "target": "ground turmeric"
+  }, {
+    "value": 2.822014051522248,
+    "source": "ground turmeric",
+    "target": "water"
+  }, {
+    "value": 2.8454332552693207,
+    "source": "chili powder",
+    "target": "garam masala"
+  }, {
+    "value": 2.8454332552693207,
+    "source": "garam masala",
+    "target": "chili powder"
+  }, {
+    "value": 2.892271662763466,
+    "source": "tomatoes",
+    "target": "garam masala"
+  }, {
+    "value": 2.892271662763466,
+    "source": "garam masala",
+    "target": "tomatoes"
+  }, {
+    "value": 2.903981264637002,
+    "source": "cumin seed",
+    "target": "garam masala"
+  }, {
+    "value": 2.903981264637002,
+    "source": "garam masala",
+    "target": "cumin seed"
+  }, {
+    "value": 2.927400468384075,
+    "source": "fresh ginger",
+    "target": "salt"
+  }, {
+    "value": 2.927400468384075,
+    "source": "salt",
+    "target": "fresh ginger"
+  }, {
+    "value": 2.939110070257611,
+    "source": "ginger",
+    "target": "garlic"
+  }, {
+    "value": 2.939110070257611,
+    "source": "garlic",
+    "target": "ginger"
+  }, {
+    "value": 2.9742388758782203,
+    "source": "onions",
+    "target": "tumeric"
+  }, {
+    "value": 2.9742388758782203,
+    "source": "tumeric",
+    "target": "onions"
+  }, {
+    "value": 2.9859484777517564,
+    "source": "ground cumin",
+    "target": "garam masala"
+  }, {
+    "value": 2.9859484777517564,
+    "source": "garam masala",
+    "target": "ground cumin"
+  }, {
+    "value": 2.9976580796252925,
+    "source": "salt",
+    "target": "curry powder"
+  }, {
+    "value": 2.9976580796252925,
+    "source": "ground cumin",
+    "target": "ground turmeric"
+  }, {
+    "value": 2.9976580796252925,
+    "source": "curry powder",
+    "target": "salt"
+  }, {
+    "value": 2.9976580796252925,
+    "source": "ground turmeric",
+    "target": "ground cumin"
+  }, {
+    "value": 3.0210772833723656,
+    "source": "ground cumin",
+    "target": "ground coriander"
+  }, {
+    "value": 3.0210772833723656,
+    "source": "ground coriander",
+    "target": "ground cumin"
+  }, {
+    "value": 3.067915690866511,
+    "source": "salt",
+    "target": "cilantro leaves"
+  }, {
+    "value": 3.067915690866511,
+    "source": "cilantro leaves",
+    "target": "salt"
+  }, {
+    "value": 3.1030444964871196,
+    "source": "salt",
+    "target": "garlic cloves"
+  }, {
+    "value": 3.1030444964871196,
+    "source": "garlic cloves",
+    "target": "salt"
+  }, {
+    "value": 3.2435597189695553,
+    "source": "cumin seed",
+    "target": "ground turmeric"
+  }, {
+    "value": 3.2435597189695553,
+    "source": "ground turmeric",
+    "target": "cumin seed"
+  }, {
+    "value": 3.325526932084309,
+    "source": "garam masala",
+    "target": "ground turmeric"
+  }, {
+    "value": 3.325526932084309,
+    "source": "ground turmeric",
+    "target": "garam masala"
+  }, {
+    "value": 3.360655737704918,
+    "source": "ginger",
+    "target": "onions"
+  }, {
+    "value": 3.360655737704918,
+    "source": "onions",
+    "target": "ginger"
+  }, {
+    "value": 3.4074941451990632,
+    "source": "chili powder",
+    "target": "onions"
+  }, {
+    "value": 3.4074941451990632,
+    "source": "onions",
+    "target": "chili powder"
+  }, {
+    "value": 3.4192037470725993,
+    "source": "vegetable oil",
+    "target": "onions"
+  }, {
+    "value": 3.4192037470725993,
+    "source": "onions",
+    "target": "vegetable oil"
+  }, {
+    "value": 3.5011709601873537,
+    "source": "garam masala",
+    "target": "garlic"
+  }, {
+    "value": 3.5011709601873537,
+    "source": "garlic",
+    "target": "garam masala"
+  }, {
+    "value": 3.51288056206089,
+    "source": "onions",
+    "target": "oil"
+  }, {
+    "value": 3.51288056206089,
+    "source": "oil",
+    "target": "onions"
+  }, {
+    "value": 3.5362997658079625,
+    "source": "green chilies",
+    "target": "onions"
+  }, {
+    "value": 3.5362997658079625,
+    "source": "onions",
+    "target": "green chilies"
+  }, {
+    "value": 3.618266978922717,
+    "source": "onions",
+    "target": "ground cumin"
+  }, {
+    "value": 3.618266978922717,
+    "source": "ground cumin",
+    "target": "onions"
+  }, {
+    "value": 3.793911007025761,
+    "source": "tumeric",
+    "target": "salt"
+  }, {
+    "value": 3.793911007025761,
+    "source": "salt",
+    "target": "tumeric"
+  }, {
+    "value": 3.840749414519906,
+    "source": "onions",
+    "target": "cumin seed"
+  }, {
+    "value": 3.840749414519906,
+    "source": "cumin seed",
+    "target": "onions"
+  }, {
+    "value": 3.981264637002342,
+    "source": "water",
+    "target": "onions"
+  }, {
+    "value": 3.981264637002342,
+    "source": "onions",
+    "target": "water"
+  }, {
+    "value": 4.039812646370024,
+    "source": "onions",
+    "target": "tomatoes"
+  }, {
+    "value": 4.039812646370024,
+    "source": "tomatoes",
+    "target": "onions"
+  }, {
+    "value": 4.110070257611241,
+    "source": "ginger",
+    "target": "salt"
+  }, {
+    "value": 4.110070257611241,
+    "source": "salt",
+    "target": "ginger"
+  }, {
+    "value": 4.426229508196721,
+    "source": "ground turmeric",
+    "target": "onions"
+  }, {
+    "value": 4.426229508196721,
+    "source": "onions",
+    "target": "ground turmeric"
+  }, {
+    "value": 4.566744730679157,
+    "source": "salt",
+    "target": "vegetable oil"
+  }, {
+    "value": 4.566744730679157,
+    "source": "vegetable oil",
+    "target": "salt"
+  }, {
+    "value": 4.601873536299766,
+    "source": "salt",
+    "target": "chili powder"
+  }, {
+    "value": 4.601873536299766,
+    "source": "chili powder",
+    "target": "salt"
+  }, {
+    "value": 4.742388758782202,
+    "source": "salt",
+    "target": "green chilies"
+  }, {
+    "value": 4.742388758782202,
+    "source": "green chilies",
+    "target": "salt"
+  }, {
+    "value": 4.754098360655737,
+    "source": "salt",
+    "target": "tomatoes"
+  }, {
+    "value": 4.754098360655737,
+    "source": "tomatoes",
+    "target": "salt"
+  }, {
+    "value": 4.77751756440281,
+    "source": "garlic",
+    "target": "onions"
+  }, {
+    "value": 4.77751756440281,
+    "source": "onions",
+    "target": "garlic"
+  }, {
+    "value": 5.374707259953162,
+    "source": "salt",
+    "target": "ground cumin"
+  }, {
+    "value": 5.374707259953162,
+    "source": "ground cumin",
+    "target": "salt"
+  }, {
+    "value": 5.550351288056206,
+    "source": "salt",
+    "target": "cumin seed"
+  }, {
+    "value": 5.550351288056206,
+    "source": "cumin seed",
+    "target": "salt"
+  }, {
+    "value": 5.573770491803279,
+    "source": "onions",
+    "target": "garam masala"
+  }, {
+    "value": 5.573770491803279,
+    "source": "garam masala",
+    "target": "onions"
+  }, {
+    "value": 5.772833723653395,
+    "source": "salt",
+    "target": "oil"
+  }, {
+    "value": 5.772833723653395,
+    "source": "oil",
+    "target": "salt"
+  }, {
+    "value": 5.807962529274004,
+    "source": "salt",
+    "target": "garlic"
+  }, {
+    "value": 5.807962529274004,
+    "source": "garlic",
+    "target": "salt"
+  }, {
+    "value": 6.311475409836066,
+    "source": "salt",
+    "target": "ground turmeric"
+  }, {
+    "value": 6.311475409836066,
+    "source": "ground turmeric",
+    "target": "salt"
+  }, {
+    "value": 7.037470725995316,
+    "source": "salt",
+    "target": "water"
+  }, {
+    "value": 7.037470725995316,
+    "source": "water",
+    "target": "salt"
+  }, {
+    "value": 7.259953161592506,
+    "source": "garam masala",
+    "target": "salt"
+  }, {
+    "value": 7.259953161592506,
+    "source": "salt",
+    "target": "garam masala"
+  }, {
+    "value": 10.0,
+    "source": "onions",
+    "target": "salt"
+  }, {
+    "value": 10.0,
+    "source": "salt",
+    "target": "onions"
+  }]
+}

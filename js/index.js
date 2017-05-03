@@ -2,16 +2,18 @@
 var toggle = 0;
 var minRadius = 4;
 var linkedByIndex = {};
+var spread = false;
+var show = false;
 
 var w = window,
   d = document,
   e = d.documentElement,
   g = d.getElementsByTagName('body')[0],
-  width = w.innerWidth || e.clientWidth || g.clientWidth,
-  height = w.innerHeight || e.clientHeight || g.clientHeight;
+  width = (w.innerWidth || e.clientWidth || g.clientWidth) - 100,
+  height = (w.innerHeight || e.clientHeight || g.clientHeight) - 100;
 
 
-var svg = d3.select("svg");
+var svg = d3.select("body").append("svg");
 
 svg.attr("width", width)
   .attr("height", height);
@@ -25,13 +27,14 @@ var simulation = d3.forceSimulation()
     return 1 / (d.value) * 200;
   }).strength(1))
   .force("charge", d3.forceManyBody())
-  .force("collide", d3.forceCollide(5))
+  .force("collide", d3.forceCollide(10))
   .force("center", d3.forceCenter(width / 2, height / 2));
 
 // Define the div for the tooltip
 var div = d3.select("body").append("div")
   .attr("class", "tooltip")
   .style("opacity", 0);
+
 
 // Load data and make the visualization
 d3.json("data/ingredients_italian.json", function (error, graph) {
@@ -62,6 +65,39 @@ d3.json("data/ingredients_italian.json", function (error, graph) {
       .on("start", dragstarted)
       .on("drag", dragged)
       .on("end", dragended));
+
+  // d3.selectAll("input[name=spread]")
+  //   .on("change", function () {
+  //     console.log(spread);
+  //     if (spread == true) {
+  //       simulation.force("collide", d3.forceCollide(5));
+  //       spread = false;
+  //     } else {
+  //       simulation.force("collide", d3.forceCollide(50));
+  //       spread = true;
+  //     }
+  //   });
+  //
+  // d3.selectAll("input[name=show]")
+  //   .on("change", function () {
+  //     if (show == true) {
+  //       yo = d3.selectAll("circle");
+  //       console.log(yo);
+  //       div.transition()
+  //         .duration(200)
+  //         .style("opacity", .9);
+  //
+  //       // Attach the node id to tooltip
+  //       div.html(" " + node.id + " ")
+  //         .style("left", (d3.event.pageX) + "px")
+  //         .style("top", (d3.event.pageY - 28) + "px");
+  //       show = false;
+  //     } else {
+  //       d3.selectAll("circle")
+  //       show = true;
+  //     }
+  //   });
+
 
   simulation
     .nodes(graph.nodes)
